@@ -6,10 +6,72 @@
   "start": "2026-12-03",
   "end": "2026-12-06",
   "place": "相好アリーナ四日市（四日市市総合体育館）",
-  "url": "https://jpn-gym.or.jp/event/event-0-10/",
+  "url": "#",
   "level": "senior",
-  "files": [],
-  "has_results": false,
+  "files": [
+   {
+    "label": "大会概要(PDFファイル)",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/AG_80th_-alljapan_team_directeive_1109.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "座席図",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/10/AG_80th_alljapan_seat1-2.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "班分表",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/10/AG_80th_alljapan_group1_2.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "座席図",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/10/AG_80th_alljapan_seat2-4.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "大会スケジュール",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/AG_80th_alljapan_schedule_1109.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "男子 出場チーム",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/10/cd3004d717f7f2da3d587133845b9d90.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "男子 種目別 出場資格ランキング",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/09/AG_MAG_shyumokubetu_Ranking_260917.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "男子 種目別 出場有資格者 （11月６日更新）",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/AG_MAG_80th_kojinsogoyushikakusya_1106.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "第80回全日本体操種目別選手権 映像審査結果（男子）",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/AG_80th_alljapan_WAG_-eizoresult.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "第80回全日本体操種目別選手権 男子予選班編成",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/AG_MAG_80th_apparatus_lottery_1113.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "第80回全日本体操種目別選手権 男子決勝班編成",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/AG_MAG_80th_apparatus_lottery_fainai.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "第80回全日本体操団体選手権 男子班編成",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/AG_MAG_80th_group_lottery_1119.pdf",
+    "kind": "info"
+   }
+  ],
+  "has_results": true,
+  "v": 2,
   "settled": false
  },
  {
@@ -19,10 +81,11 @@
   "start": "2026-11-27",
   "end": "2026-11-27",
   "place": "オーストリア・リンツ",
-  "url": "https://jpn-gym.or.jp/event/event-10500/",
+  "url": "#",
   "level": "senior",
   "files": [],
   "has_results": false,
+  "v": 2,
   "settled": false
  },
  {
@@ -35,7 +98,24 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18690",
   "has_results": false,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23480",
+    "kind": "info"
+   },
+   {
+    "label": "1_directives-es",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23481",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23482",
+    "kind": "info"
+   }
+  ],
+  "v": 2,
   "fetched": false,
   "results_url": null
  },
@@ -49,7 +129,29 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18601",
   "has_results": false,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22264",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22265",
+    "kind": "info"
+   },
+   {
+    "label": "3_Competition rules",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22266",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_24339",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": false,
   "results_url": null
  },
@@ -60,19 +162,87 @@
   "start": "2026-11-07",
   "end": "2026-11-08",
   "place": "相好アリーナ四日市 三重県四日市市日永東1-3-21",
-  "url": "https://jpn-gym.or.jp/event/event-0-4/",
+  "url": "#",
   "level": "junior",
   "files": [
    {
     "label": "テーブルマークカップ全国ブロック選抜体操競技選手権大会U12結果（差替版）",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/A_20261107_Mie_Tablemark_Cup_U12.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/A_20261107_Mie_Tablemark_Cup_U12.pdf",
+    "kind": "result"
    },
    {
     "label": "テーブルマークカップ全国ブロック選抜体操競技選手権大会U15結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/A_20261108_Mie_Tablemark_Cup_U15.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/A_20261108_Mie_Tablemark_Cup_U15.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "大会要項",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/07/AG_U12-U15_Directive.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "ブロック申込書",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/07/AG_U12-U15_form1_correction0721.xlsx",
+    "kind": "info"
+   },
+   {
+    "label": "ブロック申込書",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/07/91be21feb5f5f47d0ddf2bb0984d862b.xlsx",
+    "kind": "info"
+   },
+   {
+    "label": "棄権（辞退）届",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/07/AG_U12-U15_form3.docx",
+    "kind": "info"
+   },
+   {
+    "label": "返金申請書",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/07/AG_U12-U15_form4.docx",
+    "kind": "info"
+   },
+   {
+    "label": "新技申請届",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/07/AG_U12-U15_form5.docx",
+    "kind": "info"
+   },
+   {
+    "label": "連絡事項",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/10/AG_U12_U15_renrakujikou.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "大会日程",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/09/AG_U12U15_taikainixtutei-.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "日程表",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/09/AG_U12U15_nixtutei.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "競技時程",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/09/AG_U2U15_jitei.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "男子 AG_M_U12_U15-cyusenwaku_20260917.pdf",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/09/AG_M_U12_U15-cyusenwaku_20260917.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "男子 AG_M_U12_U15_GROUP.pdf",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/10/AG_M_U12_U15_GROUP.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "宿泊・弁当申込",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/10/2026tablemarkcup-_bento_syukuhaku.pdf",
+    "kind": "info"
    }
   ],
   "has_results": true,
+  "v": 2,
   "settled": false
  },
  {
@@ -82,27 +252,47 @@
   "start": "2026-11-07",
   "end": "2026-11-11",
   "place": "セネガル・ダカール",
-  "url": "https://jpn-gym.or.jp/event/event-7585/",
+  "url": "#",
   "level": "junior",
   "files": [
    {
-    "label": "第4回ユースオリンピック競技大会混合団体総合決勝結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/A_20261111_SEN_Dakar_Youth_Olympic_Games_MixF.pdf"
-   },
-   {
     "label": "第4回ユースオリンピック競技大会男子予選結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/A_20261107_SEN_Dakar_Youth_Olympic_Games_MQ.pdf"
-   },
-   {
-    "label": "第4回ユースオリンピック競技大会男子個人総合決勝結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/A_20261110_SEN_Dakar_Youth_Olympic_Games_MAAF.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/A_20261107_SEN_Dakar_Youth_Olympic_Games_MQ.pdf",
+    "kind": "result"
    },
    {
     "label": "第4回ユースオリンピック競技大会男子団体総合決勝結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/A_20261109_SEN_Dakar_Youth_Olympic_Games_MTF.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/A_20261109_SEN_Dakar_Youth_Olympic_Games_MTF.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "第4回ユースオリンピック競技大会男子個人総合決勝結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/A_20261110_SEN_Dakar_Youth_Olympic_Games_MAAF.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "第4回ユースオリンピック競技大会混合団体総合決勝結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/A_20261111_SEN_Dakar_Youth_Olympic_Games_MixF.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "資料を開く A_20261108_SEN_Dakar_Youth_Olympic_Games_WQ.pdf",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/A_20261108_SEN_Dakar_Youth_Olympic_Games_WQ.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "資料を開く A_20261109_SEN_Dakar_Youth_Olympic_Games_WTF.pdf",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/A_20261109_SEN_Dakar_Youth_Olympic_Games_WTF.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "資料を開く A_20261110_SEN_Dakar_Youth_Olympic_Games_WAAF.pdf",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/A_20261110_SEN_Dakar_Youth_Olympic_Games_WAAF.pdf",
+    "kind": "info"
    }
   ],
   "has_results": true,
+  "v": 2,
   "settled": false
  },
  {
@@ -115,7 +305,24 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18615",
   "has_results": false,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23551",
+    "kind": "info"
+   },
+   {
+    "label": "2_All forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23552",
+    "kind": "info"
+   },
+   {
+    "label": "3_Competition rules",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23553",
+    "kind": "info"
+   }
+  ],
+  "v": 2,
   "fetched": false,
   "results_url": null
  },
@@ -129,7 +336,24 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18693",
   "has_results": true,
   "level": "junior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23257",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23258",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_24300",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18693"
  },
@@ -143,7 +367,69 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18178",
   "has_results": true,
   "level": "junior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Competition Programme",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18586",
+    "kind": "info"
+   },
+   {
+    "label": "2_Participation Principles",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19165",
+    "kind": "info"
+   },
+   {
+    "label": "3_Rule 50",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21923",
+    "kind": "info"
+   },
+   {
+    "label": "4_Criteria for ITO Selection",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21209",
+    "kind": "info"
+   },
+   {
+    "label": "5_List of Apparatus",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22565",
+    "kind": "info"
+   },
+   {
+    "label": "6_NOC Allocated Quota Places",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22977",
+    "kind": "info"
+   },
+   {
+    "label": "7_Drawing of Lots - Results and Procedures",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_24252",
+    "kind": "result"
+   },
+   {
+    "label": "8_GAR Dakar 2026 Sport Guide",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23927",
+    "kind": "info"
+   },
+   {
+    "label": "9_Official Entries",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_24139",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Delegation)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_24368",
+    "kind": "result"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_24389",
+    "kind": "result"
+   },
+   {
+    "label": "公式ライブ結果サイト (外部)",
+    "url": "https://live.gymnastics.sport/event.php?idevent=18178",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18178"
  },
@@ -157,7 +443,59 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17247",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives_Appendices_Event Information Registration Overview (06.05.2026)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22292",
+    "kind": "info"
+   },
+   {
+    "label": "2_MAG Qualifiers_08.10.2026",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23999",
+    "kind": "info"
+   },
+   {
+    "label": "3_WAG Qualifiers_15.09.2026",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23700",
+    "kind": "info"
+   },
+   {
+    "label": "4_MAG - WCH Qualification World Cup Ranking list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23504",
+    "kind": "result"
+   },
+   {
+    "label": "5_WAG - WCH Qualification World Cup Ranking list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23503",
+    "kind": "result"
+   },
+   {
+    "label": "6_Work Plan and Appendices 02.10.2026",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23944",
+    "kind": "info"
+   },
+   {
+    "label": "7_Drawing of Lots - Results and Procedures",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_24017",
+    "kind": "result"
+   },
+   {
+    "label": "8_Nominative registration 14.10.2026",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_24041",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_24169",
+    "kind": "result"
+   },
+   {
+    "label": "公式ライブ結果サイト (外部)",
+    "url": "https://live.gymnastics.sport/event.php?idevent=17247",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17247"
  },
@@ -172,6 +510,7 @@
   "has_results": false,
   "level": "senior",
   "files": [],
+  "v": 2,
   "fetched": false,
   "results_url": null
  },
@@ -182,31 +521,57 @@
   "start": "2026-10-17",
   "end": "2026-10-25",
   "place": "オランダ・ロッテルダム",
-  "url": "https://jpn-gym.or.jp/event/event-7583/",
+  "url": "#",
   "level": "senior",
   "files": [
    {
     "label": "第54回世界体操競技選手権大会男子予選結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/10/A_20261017_1018_NED_Rotterdam_54th_World_Championships_Mq.pdf"
-   },
-   {
-    "label": "第54回世界体操競技選手権大会男子個人総合決勝結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/10/A_20261022_NED_Rotterdam_54th_World_Championships_MAAF.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/10/A_20261017_1018_NED_Rotterdam_54th_World_Championships_Mq.pdf",
+    "kind": "result"
    },
    {
     "label": "第54回世界体操競技選手権大会男子団体決勝結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/10/A_20261020_NED_Rotterdam_54th_World_Championships_MteamF.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/10/A_20261020_NED_Rotterdam_54th_World_Championships_MteamF.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "第54回世界体操競技選手権大会男子個人総合決勝結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/10/A_20261022_NED_Rotterdam_54th_World_Championships_MAAF.pdf",
+    "kind": "result"
    },
    {
     "label": "第54回世界体操競技選手権大会種目別男女前半種目結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/10/A_20261024_NED_Rotterdam_54th_World_Championships_AF1.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/10/A_20261024_NED_Rotterdam_54th_World_Championships_AF1.pdf",
+    "kind": "result"
    },
    {
     "label": "第54回世界体操競技選手権大会種目別男女後半種目結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/10/A_20261025_NED_Rotterdam_54th_World_Championships_AF2.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/10/A_20261025_NED_Rotterdam_54th_World_Championships_AF2.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "資料を開く A_20261018_1019_NED_Rotterdam_54th_World_Championships_Wq.pdf",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/10/A_20261018_1019_NED_Rotterdam_54th_World_Championships_Wq.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "資料を開く A_20261021_NED_Rotterdam_54th_World_Championships_wteamF.pdf",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/10/A_20261021_NED_Rotterdam_54th_World_Championships_wteamF.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "資料を開く A_20261023_NED_Rotterdam_54th_World_Championships_WAAF.pdf",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/10/A_20261023_NED_Rotterdam_54th_World_Championships_WAAF.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "演技順抽選結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/09/A_2026World_Championships_Drawing_Lots.pdf",
+    "kind": "result"
    }
   ],
   "has_results": true,
+  "v": 2,
   "settled": false
  },
  {
@@ -219,7 +584,39 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18305",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22463",
+    "kind": "info"
+   },
+   {
+    "label": "2_Visa Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19600",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23343",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23751",
+    "kind": "info"
+   },
+   {
+    "label": "5_Work Plan",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23526",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23893",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18305"
  },
@@ -233,7 +630,39 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18608",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "01_Directives-ART",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22949",
+    "kind": "info"
+   },
+   {
+    "label": "01_directives-RG",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22950",
+    "kind": "info"
+   },
+   {
+    "label": "01_directives-TRA",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22951",
+    "kind": "info"
+   },
+   {
+    "label": "02_ART_Competition files update 20261005",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23961",
+    "kind": "info"
+   },
+   {
+    "label": "02_RG_Competition files update 20261005",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23962",
+    "kind": "info"
+   },
+   {
+    "label": "02_TRA Competition files",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23749",
+    "kind": "info"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18608"
  },
@@ -244,27 +673,47 @@
   "start": "2026-09-21",
   "end": "2026-09-25",
   "place": "日本ガイシホール",
-  "url": "https://jpn-gym.or.jp/event/event-7581/",
+  "url": "#",
   "level": "senior",
   "files": [
    {
     "label": "第20回アジア競技大会(体操競技)結果：男子個人総合決勝／団体・種目別予選",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/09/A_20260921_M_AAf_TqAppq.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/09/A_20260921_M_AAf_TqAppq.pdf",
+    "kind": "result"
    },
    {
     "label": "第20回アジア競技大会(体操競技)結果：男子団体総合決勝",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/09/A_20260923_M_Team_Final.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/09/A_20260923_M_Team_Final.pdf",
+    "kind": "result"
    },
    {
     "label": "第20回アジア競技大会(体操競技)結果：種目別決勝前半",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/09/A_20260924_ApparatusFinalDay1.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/09/A_20260924_ApparatusFinalDay1.pdf",
+    "kind": "result"
    },
    {
     "label": "第20回アジア競技大会(体操競技)結果：種目別決勝後半",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/09/A_20260925_ApparatusFinalDay2.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/09/A_20260925_ApparatusFinalDay2.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "資料を開く A_20260922_W_AAf_TqAppq.pdf",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/09/A_20260922_W_AAf_TqAppq.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "資料を開く A_20260923_W_Team_Final.pdf",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/09/A_20260923_W_Team_Final.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "班編成など抽選結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/09/A_2026_Asian_Games_Draws.pdf",
+    "kind": "result"
    }
   ],
   "has_results": true,
+  "v": 2,
   "settled": false
  },
  {
@@ -274,15 +723,17 @@
   "start": "2026-09-19",
   "end": "2026-09-21",
   "place": "アリーナ立川立飛",
-  "url": "https://jpn-gym.or.jp/event/event-7579/",
+  "url": "#",
   "level": "senior",
   "files": [
    {
     "label": "第59回全日本マスターズ体操競技選手権大会結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/08/A_20260919_0921_Tachikawa_59th_AllJPN_Masters.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/08/A_20260919_0921_Tachikawa_59th_AllJPN_Masters.pdf",
+    "kind": "result"
    }
   ],
   "has_results": true,
+  "v": 2,
   "settled": true
  },
  {
@@ -295,7 +746,34 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18241",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19421",
+    "kind": "info"
+   },
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19422",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23428",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23649",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23734",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18241"
  },
@@ -309,7 +787,19 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18563",
   "has_results": false,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23321",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23322",
+    "kind": "info"
+   }
+  ],
+  "v": 2,
   "fetched": false,
   "results_url": null
  },
@@ -323,7 +813,29 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18561",
   "has_results": true,
   "level": "junior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21824",
+    "kind": "info"
+   },
+   {
+    "label": "2_All forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22417",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22418",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23809",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18561"
  },
@@ -337,7 +849,44 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18708",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Technical manual ART",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23445",
+    "kind": "info"
+   },
+   {
+    "label": "1_Technical manual RG",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23446",
+    "kind": "info"
+   },
+   {
+    "label": "1_Technical manual TRA",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23447",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list_ART",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23448",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list_RG",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23449",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list_TRA",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23450",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_24033",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18708"
  },
@@ -348,15 +897,17 @@
   "start": "2026-09-13",
   "end": "2026-09-13",
   "place": "アリーナ立川立飛",
-  "url": "https://jpn-gym.or.jp/event/event-7577/",
+  "url": "#",
   "level": "senior",
   "files": [
    {
     "label": "第4回男子体操種目別メダリスト選手権大会結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/08/A_20260913_Tachikawa_MAG_ApparatusMedalistsChampionships.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/08/A_20260913_Tachikawa_MAG_ApparatusMedalistsChampionships.pdf",
+    "kind": "result"
    }
   ],
   "has_results": true,
+  "v": 2,
   "settled": true
  },
  {
@@ -369,7 +920,24 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18677",
   "has_results": false,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_directives-en (update 16 July)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23147",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23086",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_24486",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": false,
   "results_url": null
  },
@@ -380,15 +948,17 @@
   "start": "2026-09-12",
   "end": "2026-09-12",
   "place": "アリーナ立川立飛",
-  "url": "https://jpn-gym.or.jp/event/event-7575/",
+  "url": "#",
   "level": "senior",
   "files": [
    {
     "label": "第59回全日本シニア体操競技選手権大会結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/08/A_20260912_Tachikawa_SeniorChampionships.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/08/A_20260912_Tachikawa_SeniorChampionships.pdf",
+    "kind": "result"
    }
   ],
   "has_results": true,
+  "v": 2,
   "settled": true
  },
  {
@@ -398,15 +968,32 @@
   "start": "2026-09-03",
   "end": "2026-09-06",
   "place": "青森県武道館",
-  "url": "https://jpn-gym.or.jp/event/event-7587/",
+  "url": "#",
   "level": "senior",
   "files": [
    {
     "label": "第80回国民スポーツ大会（体操競技）結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/08/A_20260903_0906_Aomori_Kokusupo.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/08/A_20260903_0906_Aomori_Kokusupo.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "体操競技組み合せ表（成年男子・成年女子・少年男子・少年女子）",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/08/80th_National_Sports_Aomori_AG_Lottery_Results.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "第80回国民スポーツ大会［体操］各競技種別の適用ルールについて（通達）",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/05/2026kokuspo-aomori_rule_0512.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "監督への公認スポーツ指導者資格保有義務付けの取扱いについて（通知）",
+    "url": "https://www.japan-sports.or.jp/Portals/0/data/kokusupo/2026_JSPOlicence_required.pdf",
+    "kind": "info"
    }
   ],
   "has_results": true,
+  "v": 2,
   "settled": true
  },
  {
@@ -419,7 +1006,74 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17711",
   "has_results": true,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "01_Technical Manual_Artistic Gymnastics_updated_AUG",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23324",
+    "kind": "info"
+   },
+   {
+    "label": "02_Technical Manual_Rhythmic Gymnastics",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23133",
+    "kind": "info"
+   },
+   {
+    "label": "03_Apparatus List_Artistic Gymnastics",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22911",
+    "kind": "info"
+   },
+   {
+    "label": "04_Apparatus List_Rhythmic Gymnastics",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23134",
+    "kind": "info"
+   },
+   {
+    "label": "05_Drawing of lots result (WAG and MAG)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23325",
+    "kind": "result"
+   },
+   {
+    "label": "06_General schedule",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23326",
+    "kind": "info"
+   },
+   {
+    "label": "07_Day by day program",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23327",
+    "kind": "info"
+   },
+   {
+    "label": "08_Venue layouts",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23462",
+    "kind": "info"
+   },
+   {
+    "label": "09_Training and competition schedule",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23463",
+    "kind": "info"
+   },
+   {
+    "label": "10_Manual for electronic inquiry procedure",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23330",
+    "kind": "info"
+   },
+   {
+    "label": "11_Procedure for submitting WAG FX music",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23331",
+    "kind": "info"
+   },
+   {
+    "label": "12_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23332",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23888",
+    "kind": "result"
+   }
+  ],
+  "v": 2
  },
  {
   "id": "jga-event-7573",
@@ -428,15 +1082,17 @@
   "start": "2026-08-22",
   "end": "2026-08-25",
   "place": "高崎アリーナ",
-  "url": "https://jpn-gym.or.jp/event/event-7573/",
+  "url": "#",
   "level": "senior",
   "files": [
    {
     "label": "第80回全日本学生体操競技選手権大会結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/03/A_20260822_0825_Takasaki_AllJapanInterCollege.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/03/A_20260822_0825_Takasaki_AllJapanInterCollege.pdf",
+    "kind": "result"
    }
   ],
   "has_results": true,
+  "v": 2,
   "settled": true
  },
  {
@@ -446,10 +1102,11 @@
   "start": "2026-08-20",
   "end": "2026-08-22",
   "place": "エフピコアリーナふくやま（福山市総合体育館）",
-  "url": "https://jpn-gym.or.jp/event/event-7595/",
+  "url": "#",
   "level": "junior",
   "files": [],
   "has_results": false,
+  "v": 2,
   "settled": false
  },
  {
@@ -462,7 +1119,29 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18236",
   "has_results": false,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21712",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21713",
+    "kind": "info"
+   },
+   {
+    "label": "3_appendix",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21714",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23453",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": false,
   "results_url": null
  },
@@ -476,7 +1155,29 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18235",
   "has_results": false,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21715",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21716",
+    "kind": "info"
+   },
+   {
+    "label": "3_appendix",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21717",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23451",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": false,
   "results_url": null
  },
@@ -487,15 +1188,17 @@
   "start": "2026-08-13",
   "end": "2026-08-17",
   "place": "日環アリーナ栃木",
-  "url": "https://jpn-gym.or.jp/event/event-7993/",
+  "url": "#",
   "level": "junior",
   "files": [
    {
     "label": "2026全日本ジュニア体操競技選手権大会,東西決勝大会結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/04/A_20260813_0817_AllJapanJunior.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/04/A_20260813_0817_AllJapanJunior.pdf",
+    "kind": "result"
    }
   ],
   "has_results": true,
+  "v": 2,
   "settled": true
  },
  {
@@ -505,19 +1208,22 @@
   "start": "2026-07-31",
   "end": "2026-08-02",
   "place": "グリーンアリーナ神戸",
-  "url": "https://jpn-gym.or.jp/event/event-7571/",
+  "url": "#",
   "level": "junior",
   "files": [
    {
     "label": "令和8年度全国高等学校総合体育大会(体操競技)男女予選結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/03/669393a9440b0fbb926ff7865e3b4999.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/03/669393a9440b0fbb926ff7865e3b4999.pdf",
+    "kind": "result"
    },
    {
     "label": "令和8年度全国高等学校総合体育大会(体操競技)男女決勝結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/08/7754768386c2cd26f037f4ba9dc5ee5c.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/08/7754768386c2cd26f037f4ba9dc5ee5c.pdf",
+    "kind": "result"
    }
   ],
   "has_results": true,
+  "v": 2,
   "settled": true
  },
  {
@@ -530,7 +1236,34 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18666",
   "has_results": false,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives_ART",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23204",
+    "kind": "info"
+   },
+   {
+    "label": "1_directives_RG",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23205",
+    "kind": "info"
+   },
+   {
+    "label": "1_directives_TRA",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23206",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23207",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_24402",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": false,
   "results_url": null
  },
@@ -556,7 +1289,29 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18222",
   "has_results": false,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_ITO Selection Criteria",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22202",
+    "kind": "info"
+   },
+   {
+    "label": "2_List of Apparatus",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22782",
+    "kind": "info"
+   },
+   {
+    "label": "3_Gymnasts Draw Results",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23035",
+    "kind": "result"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23310",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": false,
   "results_url": null
  },
@@ -609,35 +1364,42 @@
   "start": "2026-06-18",
   "end": "2026-06-21",
   "place": "中国・遵義市Zunyi",
-  "url": "https://jpn-gym.or.jp/event/event-7535/",
+  "url": "#",
   "level": "junior",
   "files": [
    {
     "label": "第13回アジアシニア体操競技選手権大会（男子）1日目結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/05/A_20260618_CHN_13th_MSr_Asian_Championships.pdf"
-   },
-   {
-    "label": "第13回アジアシニア体操競技選手権大会（男子）種目別前半種目決勝結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/06/A_20260620_CHN_13th_MSr_Asian_Championships.pdf"
-   },
-   {
-    "label": "第13回アジアシニア体操競技選手権大会（男子）種目別後半種目決勝結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/06/A_20260621_CHN_13th_MSr_Asian_Championships.pdf"
-   },
-   {
-    "label": "第19回アジアジュニア体操競技選手権大会（男子）種目別前半種目決勝結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/06/A_20260620_CHN_19th_MJr_Asian_Championships.pdf"
-   },
-   {
-    "label": "第19回アジアジュニア体操競技選手権大会（男子）種目別後半種目決勝結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/06/A_20260621_CHN_19th_MJr_Asian_Championships.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/05/A_20260618_CHN_13th_MSr_Asian_Championships.pdf",
+    "kind": "result"
    },
    {
     "label": "第19回アジアジュニア体操競技選手権大会（男子）１日目結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/05/A_20260619_CHN_19th_MJr_Asian_Championships.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/05/A_20260619_CHN_19th_MJr_Asian_Championships.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "第13回アジアシニア体操競技選手権大会（男子）種目別前半種目決勝結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/06/A_20260620_CHN_13th_MSr_Asian_Championships.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "第19回アジアジュニア体操競技選手権大会（男子）種目別前半種目決勝結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/06/A_20260620_CHN_19th_MJr_Asian_Championships.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "第13回アジアシニア体操競技選手権大会（男子）種目別後半種目決勝結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/06/A_20260621_CHN_13th_MSr_Asian_Championships.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "第19回アジアジュニア体操競技選手権大会（男子）種目別後半種目決勝結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/06/A_20260621_CHN_19th_MJr_Asian_Championships.pdf",
+    "kind": "result"
    }
   ],
   "has_results": true,
+  "v": 2,
   "settled": true
  },
  {
@@ -711,23 +1473,62 @@
   "start": "2026-05-14",
   "end": "2026-05-17",
   "place": "東京体育館",
-  "url": "https://jpn-gym.or.jp/event/event-7762/",
+  "url": "#",
   "level": "senior",
   "files": [
    {
     "label": "NHK杯男子DAY1",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/05/A_20260515_NHK_M_D1.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/05/A_20260515_NHK_M_D1.pdf",
+    "kind": "result"
    },
    {
     "label": "NHK杯男子DAY2",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/05/A_20260517_NHK_M_D2.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/05/A_20260517_NHK_M_D2.pdf",
+    "kind": "result"
    },
    {
     "label": "男子セイコー エクセレント賞 岡 慎之助（徳洲会体操クラブ）",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/05/A_20260517_SEIKO_M.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/05/A_20260517_SEIKO_M.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "資料を開く A_20260514_NHK_W_D1.pdf",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/05/A_20260514_NHK_W_D1.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "資料を開く A_20260516_NHK_W_D2.pdf",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/05/A_20260516_NHK_W_D2.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "資料を開く A_20260516_SEIKO_W.pdf",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/05/A_20260516_SEIKO_W.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "男子1日目演技順",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/05/A_20260515_NHKCup_M_order.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "男子2日目演技順",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/05/A_20260517_NHKCup_M_order.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "大会要項",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/04/A_20260425_65th_nhkhai_-yoko.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "男子出場有資格者",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/05/65th_NHKCup_mag_20260508.pdf",
+    "kind": "info"
    }
   ],
   "has_results": true,
+  "v": 2,
   "settled": true
  },
  {
@@ -737,15 +1538,27 @@
   "start": "2026-05-14",
   "end": "2026-05-14",
   "place": "東京体育館",
-  "url": "https://jpn-gym.or.jp/event/event-8207/",
+  "url": "#",
   "level": "junior",
   "files": [
    {
     "label": "第4回ユースオリンピック男子日本代表選考会結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/05/A_20260514_YOG_trial_M.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/05/A_20260514_YOG_trial_M.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "演技順",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/05/A_20260514_YO_M_order.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "演技順",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/04/A_20260425_4th_youth_senkokai_start-list.pdf",
+    "kind": "info"
    }
   ],
   "has_results": true,
+  "v": 2,
   "settled": true
  },
  {
@@ -833,23 +1646,62 @@
   "start": "2026-04-16",
   "end": "2026-04-19",
   "place": "高崎アリーナ",
-  "url": "https://jpn-gym.or.jp/event/event-783/",
+  "url": "#",
   "level": "senior",
   "files": [
    {
-    "label": "大会リザルト速報 (外部)",
-    "url": "https://seikosportslink.com/gyga/205/?i=20010126"
-   },
-   {
     "label": "第80回全日本体操男子予選結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/04/A_20260417_NationalChampionships_MAG_q.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/04/A_20260417_NationalChampionships_MAG_q.pdf",
+    "kind": "result"
    },
    {
     "label": "第80回全日本体操男子決勝結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/04/A_20260419_NationalChampionships_MAG_f.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/04/A_20260419_NationalChampionships_MAG_f.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "大会リザルト速報 (外部)",
+    "url": "https://seikosportslink.com/gyga/205/?i=20010126",
+    "kind": "result"
+   },
+   {
+    "label": "男子予選演技順",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/04/A_20260417_NationalChampionships_MAG_order.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "男子決勝演技順",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/04/A_20260419_NationalChampionships_MAG_order.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "男子予選",
+    "url": "https://jpn-gym.jp/wp-content/uploads/2026/02/20260219magFOP_260417MAGzaseki.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "男子決勝",
+    "url": "https://jpn-gym.jp/wp-content/uploads/2026/02/20260219magFOP_260419MAG_zaseki.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "大会要項",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/04/20260406_80th_ALL-JAPAN-directiv_tennouhai.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "男子 20260402_80th_ALL-JAPAN-kojinsougo_MAG.pdf",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/04/20260402_80th_ALL-JAPAN-kojinsougo_MAG.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "全日本個人出場有資格者リスト",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/03/260311_80th-All-JPAN_MAG_yusikaku.pdf",
+    "kind": "info"
    }
   ],
   "has_results": true,
+  "v": 2,
   "settled": true
  },
  {
@@ -911,15 +1763,52 @@
   "start": "2026-03-28",
   "end": "2026-03-30",
   "place": "まるたか観光アリーナ（笠松運動公園体育館）",
-  "url": "https://jpn-gym.or.jp/event/event-6913/",
+  "url": "#",
   "level": "junior",
   "files": [
    {
     "label": "第25回全国体操小学生大会男子結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/03/2026_AG_zensho_M.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/03/2026_AG_zensho_M.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "資料を開く 2026_AG_zensyo_W.pdf",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/03/2026_AG_zensyo_W.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "大会要項",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2025/12/d2bf134f6dcfdf1663bee573f69e4891-1.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "申込書",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2025/12/05c12b65dd44e76fcb13fb905d4d9769.xlsx",
+    "kind": "info"
+   },
+   {
+    "label": "班編成抽選結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/01/58bcc6c59c5f9491c53ba2dcaacbd4dd.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "日程表",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/01/f2b88454c6c844412266d6f2b9c9f87b-1.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "時程表修正版",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/33b09d821c0d1e0e1e49d4186d592b96.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "2025年版全国体操小学生大会体操競技適用規則",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/03/A_Shogakusei_rules202407.pdf",
+    "kind": "info"
    }
   ],
   "has_results": true,
+  "v": 2,
   "settled": true
  },
  {
@@ -929,15 +1818,17 @@
   "start": "2026-03-25",
   "end": "2026-03-25",
   "place": "ホワイトリング（長野市真島スポーツアリーナ）",
-  "url": "https://jpn-gym.or.jp/event/event-0/",
+  "url": "#",
   "level": "junior",
   "files": [
    {
     "label": "第42回全国高等学校体操競技選抜大会結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/03/A_20260325_HS_Senbatsu.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/03/A_20260325_HS_Senbatsu.pdf",
+    "kind": "result"
    }
   ],
   "has_results": true,
+  "v": 2,
   "settled": true
  },
  {
@@ -971,23 +1862,27 @@
   "start": "2026-03-19",
   "end": "2026-03-22",
   "place": "ドイツ・シュツットガルト",
-  "url": "https://jpn-gym.or.jp/event/event-5715/",
+  "url": "#",
   "level": "senior",
   "files": [
    {
-    "label": "2026DTB杯チームチャレンジ種目別決勝結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/03/A_20260319_0322_DTB_Stuttgart_3.pdf"
-   },
-   {
     "label": "2026DTB杯チームチャレンジ（1,2日目）結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/A_20260319_0322_DTB_Stuttgart_1.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/A_20260319_0322_DTB_Stuttgart_1.pdf",
+    "kind": "result"
    },
    {
     "label": "2026DTB杯チームチャレンジ（3日目）結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/A_20260319_0322_DTB_Stuttgart_2.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/A_20260319_0322_DTB_Stuttgart_2.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "2026DTB杯チームチャレンジ種目別決勝結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/03/A_20260319_0322_DTB_Stuttgart_3.pdf",
+    "kind": "result"
    }
   ],
   "has_results": true,
+  "v": 2,
   "settled": true
  },
  {
@@ -1023,15 +1918,17 @@
   "start": "2026-03-12",
   "end": "2026-03-15",
   "place": "トルコ・アンタルヤ",
-  "url": "https://jpn-gym.or.jp/event/event-5724/",
+  "url": "#",
   "level": "senior",
   "files": [
    {
     "label": "2026W杯アンタルヤ大会​結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/A_20260312_0315_Wcup_Antalya.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/A_20260312_0315_Wcup_Antalya.pdf",
+    "kind": "result"
    }
   ],
   "has_results": true,
+  "v": 2,
   "settled": true
  },
  {
@@ -1053,15 +1950,17 @@
   "start": "2026-03-07",
   "end": "2026-03-07",
   "place": "アメリカ・ラスベガス",
-  "url": "https://jpn-gym.or.jp/event/event-5731/",
+  "url": "#",
   "level": "senior",
   "files": [
    {
     "label": "2026アメリカンカップ結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/A_20260307_AmericanCup.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/A_20260307_AmericanCup.pdf",
+    "kind": "result"
    }
   ],
   "has_results": true,
+  "v": 2,
   "settled": true
  },
  {
@@ -1085,19 +1984,22 @@
   "start": "2026-03-05",
   "end": "2026-03-08",
   "place": "アゼルバイジャン・バクー",
-  "url": "https://jpn-gym.or.jp/event/event-5712/",
+  "url": "#",
   "level": "senior",
   "files": [
    {
     "label": "2026W杯バクー大会​予選結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/03/A_20260305_0308_Wcup_Baku_q.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/03/A_20260305_0308_Wcup_Baku_q.pdf",
+    "kind": "result"
    },
    {
     "label": "2026W杯バクー大会​全結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/03/A_20260305_0308_Wcup_Baku.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/03/A_20260305_0308_Wcup_Baku.pdf",
+    "kind": "result"
    }
   ],
   "has_results": true,
+  "v": 2,
   "settled": true
  },
  {
@@ -1107,15 +2009,17 @@
   "start": "2026-02-21",
   "end": "2026-02-21",
   "place": "アメリカ・フリスコ",
-  "url": "https://jpn-gym.or.jp/event/event-5734/",
+  "url": "#",
   "level": "senior",
   "files": [
    {
     "label": "2026リューキン国際招待結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/A_20260221_Liukin_Invitational.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/A_20260221_Liukin_Invitational.pdf",
+    "kind": "result"
    }
   ],
   "has_results": true,
+  "v": 2,
   "settled": true
  },
  {
@@ -1139,27 +2043,32 @@
   "start": "2026-02-19",
   "end": "2026-02-22",
   "place": "ドイツ・コトブス",
-  "url": "https://jpn-gym.or.jp/event/event-5726/",
+  "url": "#",
   "level": "senior",
   "files": [
    {
     "label": "2026W杯コトブス大会予選１日目結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/A_20260219_0222_Wcup_Cottubus_q.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/A_20260219_0222_Wcup_Cottubus_q.pdf",
+    "kind": "result"
    },
    {
     "label": "2026W杯コトブス大会予選２日目結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/A_20260219_0222_Wcup_Cottubus_q2.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/A_20260219_0222_Wcup_Cottubus_q2.pdf",
+    "kind": "result"
    },
    {
     "label": "2026W杯コトブス大会決勝１日目結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/A_20260219_0222_Wcup_Cottubus_f1.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/A_20260219_0222_Wcup_Cottubus_f1.pdf",
+    "kind": "result"
    },
    {
     "label": "2026W杯コトブス大会決勝２日目結果",
-    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/A_20260219_0222_Wcup_Cottubus_f2.pdf"
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/A_20260219_0222_Wcup_Cottubus_f2.pdf",
+    "kind": "result"
    }
   ],
   "has_results": true,
+  "v": 2,
   "settled": true
  },
  {
@@ -2759,10 +3668,67 @@
   "start": null,
   "end": null,
   "place": "",
-  "url": "https://jpn-gym.or.jp/event/event-6140/",
+  "url": "#",
   "level": "senior",
-  "files": [],
-  "has_results": false,
+  "files": [
+   {
+    "label": "トライアウトリザルト掲載",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/03/MAG_80thAJPNCII_tryout_result_20260308.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "全日本個人出場有資格リスト",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/03/MAG_80thAJPNCll_yushikakusya_260309.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "映像審査結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/20260213MAG_80th_kojinsogo_eizou_result.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "トライアウト出場有資格者",
+    "url": "https://jpn-gym.jp/wp-content/uploads/2026/02/20260213mag_tryout_syutujyou.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "第80回全日本体操個人総合選手権トライアウト要項",
+    "url": "https://jpn-gym.jp/wp-content/uploads/2026/01/73c95d3bdb0f0887cd46510a33378f34.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "トライアウト通達事項",
+    "url": "https://jpn-gym.jp/wp-content/uploads/2026/02/20260217_mag_tryout_tuutatu.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "トライアウトオーダー表",
+    "url": "https://jpn-gym.jp/wp-content/uploads/2026/02/2026.02.16_mag_tryout_order.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "第80回全日本個人総合選手権トライアウトのための映像審査 および 第80回全日本体操個人総合選手権（種目別選手枠）映像審査要項",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/20260213MAG_80th_kojinsogo_eizou_yoko.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "映像選考撮影注意事項_20251118",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/20260213MAG_80th_kojinsogo_eizou_chuui.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "演技構成申請書",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/20260213MAG_80th_kojinsogo_engikosei_shinsei.xlsx",
+    "kind": "info"
+   },
+   {
+    "label": "Giga file便提出方法",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/gigafile_howto.pdf",
+    "kind": "info"
+   }
+  ],
+  "has_results": true,
+  "v": 2,
   "settled": false
  },
  {
@@ -2772,48 +3738,73 @@
   "start": null,
   "end": null,
   "place": "",
-  "url": "https://www.jr-gym.or.jp/tournament/jr-gym-all-2024/",
+  "url": "https://www.jr-gym.or.jp/kojinjoho-hogo",
   "level": "junior",
   "files": [
    {
     "label": "東西ABCクラス決勝大会 個人総合",
-    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-a-men-kojin.pdf"
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-a-men-kojin.pdf",
+    "kind": "result"
    },
    {
     "label": "東西ABCクラス決勝大会 種目別",
-    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-a-men-syumoku.pdf"
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-a-men-syumoku.pdf",
+    "kind": "result"
    },
    {
     "label": "東西ABCクラス決勝大会 個人総合",
-    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-b-men-kojin.pdf"
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-b-men-kojin.pdf",
+    "kind": "result"
    },
    {
     "label": "東西ABCクラス決勝大会 種目別",
-    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-b-men-syumoku.pdf"
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-b-men-syumoku.pdf",
+    "kind": "result"
    },
    {
     "label": "選手権2部 団体総合",
-    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-2bu-men-dantai.pdf"
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-2bu-men-dantai.pdf",
+    "kind": "result"
    },
    {
     "label": "選手権2部 個人総合",
-    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-2bu-men-kojin.pdf"
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-2bu-men-kojin.pdf",
+    "kind": "result"
    },
    {
     "label": "選手権2部 種目別",
-    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-2bu-men-syumoku.pdf"
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-2bu-men-syumoku.pdf",
+    "kind": "result"
    },
    {
     "label": "選手権1部 団体総合",
-    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-1bu-men-dantai.pdf"
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-1bu-men-dantai.pdf",
+    "kind": "result"
    },
    {
     "label": "選手権1部 個人総合",
-    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-1bu-men-kojin.pdf"
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-1bu-men-kojin.pdf",
+    "kind": "result"
    },
    {
     "label": "選手権1部 種目別",
-    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-1bu-men-syumoku.pdf"
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-1bu-men-syumoku.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "男女器具寸度表 2026年版",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/06/2026-sundohyo.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "男子Aクラス跳馬について",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/men-aclass-cyoba.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "段違い平行棒の 新ルール対応について",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/2022-senoh-danchi.pdf",
+    "kind": "info"
    }
   ],
   "has_results": true
@@ -2825,48 +3816,73 @@
   "start": null,
   "end": null,
   "place": "",
-  "url": "https://www.jr-gym.or.jp/tournament/jr-gym-all-2025/",
+  "url": "https://www.jr-gym.or.jp/kojinjoho-hogo",
   "level": "junior",
   "files": [
    {
     "label": "Bクラス 個人総合",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/09/139e14c076d33847ec49717aa8f5bab4.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/09/139e14c076d33847ec49717aa8f5bab4.pdf",
+    "kind": "result"
    },
    {
     "label": "Bクラス 種目別",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/08/f6191eeb7bed9d5a52b0a947faa0cd22.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/08/f6191eeb7bed9d5a52b0a947faa0cd22.pdf",
+    "kind": "result"
    },
    {
     "label": "Aクラス 個人総合",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/09/6c95b00f737195048febf7bcfc42f503.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/09/6c95b00f737195048febf7bcfc42f503.pdf",
+    "kind": "result"
    },
    {
     "label": "Aクラス 種目別",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/08/e1c0cc6368013c2b13a66c1ac2e7f8e6.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/08/e1c0cc6368013c2b13a66c1ac2e7f8e6.pdf",
+    "kind": "result"
    },
    {
     "label": "選手権2部 団体総合",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/08/2bfdddfb85a3209eef8cdbdf8d6bccc4-1.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/08/2bfdddfb85a3209eef8cdbdf8d6bccc4-1.pdf",
+    "kind": "result"
    },
    {
     "label": "選手権2部 個人総合",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/09/ce42490a9066a709ac435817a1b758e0.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/09/ce42490a9066a709ac435817a1b758e0.pdf",
+    "kind": "result"
    },
    {
     "label": "選手権2部 種目別",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/08/710338c43f408414aa231b19ce66b049.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/08/710338c43f408414aa231b19ce66b049.pdf",
+    "kind": "result"
    },
    {
     "label": "選手権1部 団体総合",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/08/e700149e29a2e725ee2e01ee486b66b5.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/08/e700149e29a2e725ee2e01ee486b66b5.pdf",
+    "kind": "result"
    },
    {
     "label": "選手権1部 個人総合",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/09/489df9ed2bacf89acfbc9356c215d43c.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/09/489df9ed2bacf89acfbc9356c215d43c.pdf",
+    "kind": "result"
    },
    {
     "label": "選手権1部 種目別",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/08/c4e20f9007e9ba58b5992136b7aab269-1.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/08/c4e20f9007e9ba58b5992136b7aab269-1.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "男女器具寸度表 2026年版",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/06/2026-sundohyo.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "男子Aクラス跳馬について",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/men-aclass-cyoba.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "段違い平行棒の 新ルール対応について",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/2022-senoh-danchi.pdf",
+    "kind": "info"
    }
   ],
   "has_results": true
@@ -2878,48 +3894,73 @@
   "start": null,
   "end": null,
   "place": "",
-  "url": "https://www.jr-gym.or.jp/tournament/jr-gym-all-2026/",
+  "url": "https://www.jr-gym.or.jp/kojinjoho-hogo",
   "level": "junior",
   "files": [
    {
     "label": "Bクラス 個人総合",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/cddf6dbe5123cf0b037f5ef0a680f3ee.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/cddf6dbe5123cf0b037f5ef0a680f3ee.pdf",
+    "kind": "result"
    },
    {
     "label": "Bクラス 種目別",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/e7698ee30631341dbe7d29248fea91a1.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/e7698ee30631341dbe7d29248fea91a1.pdf",
+    "kind": "result"
    },
    {
     "label": "Aクラス 個人総合",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/c8beff1ad5a465cf248f9acb680bc03d.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/c8beff1ad5a465cf248f9acb680bc03d.pdf",
+    "kind": "result"
    },
    {
     "label": "Aクラス 種目別",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/db0ccfaff9fc050df009b487ee0d90e1.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/db0ccfaff9fc050df009b487ee0d90e1.pdf",
+    "kind": "result"
    },
    {
     "label": "選手権2部 団体総合",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/9423e41923b7433627bbdf5abd377067.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/9423e41923b7433627bbdf5abd377067.pdf",
+    "kind": "result"
    },
    {
     "label": "選手権2部 個人総合",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/23dc283d1f9e5e9353b982670e007191.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/23dc283d1f9e5e9353b982670e007191.pdf",
+    "kind": "result"
    },
    {
     "label": "選手権2部 種目別",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/40405fb5071ccba35dd23a17e4e3a109-1.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/40405fb5071ccba35dd23a17e4e3a109-1.pdf",
+    "kind": "result"
    },
    {
     "label": "選手権1部 団体総合",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/9423e41923b7433627bbdf5abd377067-1.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/9423e41923b7433627bbdf5abd377067-1.pdf",
+    "kind": "result"
    },
    {
     "label": "選手権1部 個人総合",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/db5377e44634a109d2965aee12384762.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/db5377e44634a109d2965aee12384762.pdf",
+    "kind": "result"
    },
    {
     "label": "選手権1部 種目別",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/d2916f05347675b8805753092995ccad.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/d2916f05347675b8805753092995ccad.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "男女器具寸度表 2026年版",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/06/2026-sundohyo.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "男子Aクラス跳馬について",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/men-aclass-cyoba.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "段違い平行棒の 新ルール対応について",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/2022-senoh-danchi.pdf",
+    "kind": "info"
    }
   ],
   "has_results": true
@@ -2931,24 +3972,43 @@
   "start": null,
   "end": null,
   "place": "",
-  "url": "https://www.jr-gym.or.jp/tournament/jr-gym-east-2024/",
+  "url": "https://www.jr-gym.or.jp/kojinjoho-hogo",
   "level": "junior",
   "files": [
    {
     "label": "東日本Aクラス 個人総合",
-    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/east-am-kojin.pdf"
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/east-am-kojin.pdf",
+    "kind": "result"
    },
    {
     "label": "東日本Aクラス 種目別",
-    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/east-am-syumoku.pdf"
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/east-am-syumoku.pdf",
+    "kind": "result"
    },
    {
     "label": "東日本Bクラス 個人総合",
-    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/east-bm-kojin.pdf"
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/east-bm-kojin.pdf",
+    "kind": "result"
    },
    {
     "label": "東日本Bクラス 種目別",
-    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/east-bm-syumoku.pdf"
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/east-bm-syumoku.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "男女器具寸度表 2026年版",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/06/2026-sundohyo.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "男子Aクラス跳馬について",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/men-aclass-cyoba.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "段違い平行棒の 新ルール対応について",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/2022-senoh-danchi.pdf",
+    "kind": "info"
    }
   ],
   "has_results": true
@@ -2960,24 +4020,43 @@
   "start": null,
   "end": null,
   "place": "",
-  "url": "https://www.jr-gym.or.jp/tournament/jr-gym-east-2025/",
+  "url": "https://www.jr-gym.or.jp/kojinjoho-hogo",
   "level": "junior",
   "files": [
    {
     "label": "Aクラス 個人総合",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/09/06579286882d13f857a8ff1e2d391ec0.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/09/06579286882d13f857a8ff1e2d391ec0.pdf",
+    "kind": "result"
    },
    {
     "label": "Aクラス 種目別",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/07/9f8b03dda0a6b6aec9e631294f2692b8.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/07/9f8b03dda0a6b6aec9e631294f2692b8.pdf",
+    "kind": "result"
    },
    {
     "label": "Bクラス 個人総合",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/09/0fe83a51b20a448dabcb5360992496de.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/09/0fe83a51b20a448dabcb5360992496de.pdf",
+    "kind": "result"
    },
    {
     "label": "Bクラス 種目別",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/07/3474ece9854554911c0a066cb74cc006.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/07/3474ece9854554911c0a066cb74cc006.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "男女器具寸度表 2026年版",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/06/2026-sundohyo.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "男子Aクラス跳馬について",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/men-aclass-cyoba.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "段違い平行棒の 新ルール対応について",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/2022-senoh-danchi.pdf",
+    "kind": "info"
    }
   ],
   "has_results": true
@@ -2989,32 +4068,53 @@
   "start": null,
   "end": null,
   "place": "",
-  "url": "https://www.jr-gym.or.jp/tournament/jr-gym-east-2026/",
+  "url": "https://www.jr-gym.or.jp/kojinjoho-hogo",
   "level": "junior",
   "files": [
    {
     "label": "Aクラス 個人総合",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/66feed640cf4e88afe82714dd39cf03a.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/66feed640cf4e88afe82714dd39cf03a.pdf",
+    "kind": "result"
    },
    {
     "label": "Aクラス 種目別",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/e711bae1088c2b3a95e2d5ee282024df.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/e711bae1088c2b3a95e2d5ee282024df.pdf",
+    "kind": "result"
    },
    {
     "label": "Aクラス 予選通過者",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/b176d6b45165bd0d9384eb818e190255.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/b176d6b45165bd0d9384eb818e190255.pdf",
+    "kind": "result"
    },
    {
     "label": "Bクラス 個人総合",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/b882ace9de2c76a306f7e3e3e298075b.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/b882ace9de2c76a306f7e3e3e298075b.pdf",
+    "kind": "result"
    },
    {
     "label": "Bクラス 種目別",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/9a8ffae40e2ea4ac14069ba3d4f7ea59.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/9a8ffae40e2ea4ac14069ba3d4f7ea59.pdf",
+    "kind": "result"
    },
    {
     "label": "Bクラス 予選通過者",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/8216df18c76e8635a6a3d5e6334aea44.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/8216df18c76e8635a6a3d5e6334aea44.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "男女器具寸度表 2026年版",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/06/2026-sundohyo.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "男子Aクラス跳馬について",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/men-aclass-cyoba.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "段違い平行棒の 新ルール対応について",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/2022-senoh-danchi.pdf",
+    "kind": "info"
    }
   ],
   "has_results": true
@@ -3026,24 +4126,43 @@
   "start": null,
   "end": null,
   "place": "",
-  "url": "https://www.jr-gym.or.jp/tournament/jr-gym-west-2024/",
+  "url": "https://www.jr-gym.or.jp/kojinjoho-hogo",
   "level": "junior",
   "files": [
    {
     "label": "Aクラス 個人総合",
-    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/west-a-men-kojin.pdf"
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/west-a-men-kojin.pdf",
+    "kind": "result"
    },
    {
     "label": "Aクラス 種目別",
-    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/west-a-men-syumoku.pdf"
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/west-a-men-syumoku.pdf",
+    "kind": "result"
    },
    {
     "label": "Bクラス 個人総合",
-    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/west-b-men-kojin.pdf"
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/west-b-men-kojin.pdf",
+    "kind": "result"
    },
    {
     "label": "Bクラス 種目別",
-    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/west-b-men-syumoku.pdf"
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/west-b-men-syumoku.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "男女器具寸度表 2026年版",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/06/2026-sundohyo.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "男子Aクラス跳馬について",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/men-aclass-cyoba.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "段違い平行棒の 新ルール対応について",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/2022-senoh-danchi.pdf",
+    "kind": "info"
    }
   ],
   "has_results": true
@@ -3055,24 +4174,43 @@
   "start": null,
   "end": null,
   "place": "",
-  "url": "https://www.jr-gym.or.jp/tournament/jr-gym-west-2025/",
+  "url": "https://www.jr-gym.or.jp/kojinjoho-hogo",
   "level": "junior",
   "files": [
    {
     "label": "Aクラス 個人総合",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/09/06579286882d13f857a8ff1e2d391ec0-1.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/09/06579286882d13f857a8ff1e2d391ec0-1.pdf",
+    "kind": "result"
    },
    {
     "label": "Aクラス 種目別",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/07/711c38488ba8b6e7ec318b48868518be.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/07/711c38488ba8b6e7ec318b48868518be.pdf",
+    "kind": "result"
    },
    {
     "label": "Bクラス 個人総合",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/07/f6d9cedc9521b4de30eb717e01887f0b.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/07/f6d9cedc9521b4de30eb717e01887f0b.pdf",
+    "kind": "result"
    },
    {
     "label": "Bクラス 種目別",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/07/ea2a07928fbea8dda9091186bb01f1d7.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/07/ea2a07928fbea8dda9091186bb01f1d7.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "男女器具寸度表 2026年版",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/06/2026-sundohyo.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "男子Aクラス跳馬について",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/men-aclass-cyoba.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "段違い平行棒の 新ルール対応について",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/2022-senoh-danchi.pdf",
+    "kind": "info"
    }
   ],
   "has_results": true
@@ -3084,32 +4222,53 @@
   "start": null,
   "end": null,
   "place": "",
-  "url": "https://www.jr-gym.or.jp/tournament/jr-gym-west-2026/",
+  "url": "https://www.jr-gym.or.jp/kojinjoho-hogo",
   "level": "junior",
   "files": [
    {
     "label": "Aクラス 個人総合",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/521a942ad3ff7ebf163e53f81ce776b6.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/521a942ad3ff7ebf163e53f81ce776b6.pdf",
+    "kind": "result"
    },
    {
     "label": "Aクラス 種目別",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/c555cac326aa33003e73d4be741d6db3.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/c555cac326aa33003e73d4be741d6db3.pdf",
+    "kind": "result"
    },
    {
     "label": "Aクラス 予選通過者",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/4d54a60dfd140d92358a334928795b9b.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/4d54a60dfd140d92358a334928795b9b.pdf",
+    "kind": "result"
    },
    {
     "label": "Bクラス 個人総合",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/13326059064ecca3c00050bdbd1c56f2.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/13326059064ecca3c00050bdbd1c56f2.pdf",
+    "kind": "result"
    },
    {
     "label": "Bクラス 種目別",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/b49ab5080912936d94bdd47eb73a90f2.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/b49ab5080912936d94bdd47eb73a90f2.pdf",
+    "kind": "result"
    },
    {
     "label": "Bクラス 予選通過者",
-    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/a68c523d5b9a5701d2bf79eedd683299.pdf"
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/a68c523d5b9a5701d2bf79eedd683299.pdf",
+    "kind": "result"
+   },
+   {
+    "label": "男女器具寸度表 2026年版",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/06/2026-sundohyo.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "男子Aクラス跳馬について",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/men-aclass-cyoba.pdf",
+    "kind": "info"
+   },
+   {
+    "label": "段違い平行棒の 新ルール対応について",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/2022-senoh-danchi.pdf",
+    "kind": "info"
    }
   ],
   "has_results": true

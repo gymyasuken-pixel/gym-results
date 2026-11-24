@@ -59,25 +59,30 @@ function render(){
   $("#list").innerHTML=rows.length?rows.map(card).join(""):'<p class="empty">該当する大会がありません。</p>';
 }
 function card(e){
-  const n=e.source==="fig"?(e.fetched?"結果あり":"結果未掲載"):(e.files.length?`結果 ${e.files.length}件`:"結果未掲載");
+  const nr=(e.files||[]).filter(f=>f.kind==="result").length,ni=(e.files||[]).length-nr;
+  const n=(e.fetched||nr?`結果${nr?" "+nr+"件":"あり"}`:"結果未掲載")+(ni?` ・ 資料 ${ni}件`:"");
   return `<details class="ev" data-id="${esc(e.id)}"><summary>
     <span class="date">${esc(rangeText(e))}</span><span class="name">${esc(e.name)}</span>
     <span class="tags"><span class="tag ${e.level==="junior"?"t-jr":"t-sr"}">${e.level==="junior"?"ジュニア":"シニア"}</span><span class="tag t-src">${SRC[e.source]}</span></span>
     <span class="place">${esc(e.place)}　· ${n}</span></summary><div class="body"></div></details>`;
 }
+const EXT=u=>(u.match(/\.(pdf|xlsx?|docx?|zip)(\?|$)/i)||[,""])[1].toUpperCase()||"外部";
+function fileList(files,kind,title){
+  const f=files.filter(x=>x.kind===kind);if(!f.length)return"";
+  return `<h3>${title}</h3><ul class="files">${f.map(x=>`<li><a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.label||"資料")}</a> <span class="tag t-src">${EXT(x.url)}</span></li>`).join("")}</ul>`;
+}
 async function fill(d){
   const e=events.find(x=>x.id===d.dataset.id),b=d.querySelector(".body");
   if(b.dataset.done)return;b.dataset.done=1;
   let h=`<p class="note"><a href="${esc(e.url)}" target="_blank" rel="noopener">公式ページ</a>${e.results_url?` ・ <a href="${esc(e.results_url)}" target="_blank" rel="noopener">公式の結果</a>`:""}</p>`;
-  if(e.source==="fig"){
-    if(!e.fetched)h+='<p class="empty">結果はまだ取得できていません。</p>';
-    else{b.innerHTML=h+"読み込み中…";
-      const r=await (await fetch(`data/fig/${e.id.slice(4)}.json`)).json();
-      h+=figTables(r);}
-  }else{
-    h+=e.files.length?`<ul class="files">${e.files.map(f=>`<li><a href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.label||"結果")}</a></li>`).join("")}</ul>
-      <p class="note">※ 結果はPDFで公開されています（リンク先を開きます）。</p>`:'<p class="empty">結果はまだ掲載されていません。</p>';
-  }
+  const files=e.files||[];
+  h+=fileList(files,"result","公式の結果（PDF等）");
+  if(e.source==="fig"&&e.fetched){
+    b.innerHTML=h+"読み込み中…";
+    const r=await (await fetch(`data/fig/${e.id.slice(4)}.json`)).json();
+    h+=`<h3>順位表（FIG公式データ）</h3>`+figTables(r);
+  }else if(!files.some(x=>x.kind==="result")){h+='<p class="empty">結果はまだ掲載されていません。</p>';}
+  h+=fileList(files,"info","その他の公式資料（要項・演技順・参加者など）");
   b.innerHTML=h;
 }
 function figTables(r){

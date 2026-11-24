@@ -48,6 +48,23 @@ def strip(s):
     return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", s))).strip()
 
 
+DOC_RE = re.compile(r'\.(pdf|xlsx?|docx?|zip)(\?|$)', re.I)
+RESULT_RE = re.compile(r"結果|リザルト|成績|順位|得点|スコア|result|ranking|score|medal|media.?book|book", re.I)
+GENERIC_LABEL = re.compile(r"^(資料を開く|pdf|男子|女子|\d+日目|詳細|こちら|ダウンロード)?$", re.I)
+SCHEMA = 2   # 取得項目を変えたら上げる (既存大会を再取得)
+
+
+def kind_of(label, url=""):
+    return "result" if RESULT_RE.search(label) else "info"
+
+
+def add_file(files, seen, label, url, kind=None):
+    if url in seen:
+        return
+    seen.add(url)
+    files.append({"label": label, "url": url, "kind": kind or kind_of(label)})
+
+
 def load(path, default):
     try:
         return json.loads(Path(path).read_text(encoding="utf-8"))
@@ -99,8 +116,23 @@ def fig_results(eid):
     return out
 
 
+def fig_files(eid):
+    d = jget(f"{FIG_API}/{eid}/")["data"]
+    files, seen = [], set()
+    for f in d.get("files") or []:
+        u = f.get("url") or ""
+        u = urllib.parse.urljoin("https://www.gymnastics.sport/site/events/", u)
+        u = u.replace("/site/asset.php", "/asset.php")
+        t = (f.get("title") or "").strip().rstrip(":") or f.get("filename", "")
+        add_file(files, seen, t, u)
+    if d.get("minisiteUrl"):
+        add_file(files, seen, "公式ライブ結果サイト (外部)", d["minisiteUrl"], "result")
+    return files
+
+
 def scrape_fig(events):
-    first = not any(e["source"] == "fig" for e in events.values())
+    stale = any(e["source"] == "fig" and e.get("v") != SCHEMA for e in events.values())
+    first = stale or not any(e["source"] == "fig" for e in events.values())
     frm = FIG_FROM if first else (TODAY - dt.timedelta(days=120)).isoformat()
     lst = jget(f"{FIG_API}/?from={frm}&to={TODAY.isoformat()}&discipline=2")["data"]
     n = 0
@@ -117,6 +149,11 @@ def scrape_fig(events):
             "has_results": bool(e.get("hasresults")),
             "level": old["level"] if old else "senior", "files": [],
         }
+        if not old or old.get("v") != SCHEMA or recent:
+            meta["files"] = fig_files(e["id"])
+        elif old:
+            meta["files"] = old.get("files", [])
+        meta["v"] = SCHEMA
         if e.get("hasresults") and (not old or not old.get("fetched") or recent):
             res = fig_results(e["id"])
             if res:
@@ -150,7 +187,7 @@ def scrape_jga(events):
     for u in urls:
         key = "jga-" + u.rstrip("/").split("/")[-1]
         old = events.get(key)
-        if old and old.get("settled"):
+        if old and old.get("settled") and old.get("v") == SCHEMA:
             continue
         h = get(u)
         cat = strip(re.search(r'class="teaser_type[^"]*"[^>]*>(.*?)</p>', h, re.S).group(1)) \
@@ -168,24 +205,31 @@ def scrape_jga(events):
         if m and start:
             end = f"{m[1] or start[:4]}-{int(m[2]):02d}-{int(m[3]):02d}"
         place = re.search(r"<th>場所</th>\s*<td>(.*?)(?:<div|</td>)", h, re.S)
-        files = []
+        files, seen = [], set()
         box = re.search(r'<div class="box-result">(.*?)(?=<div class="box01"|</section>)', h, re.S)
         if box:
             for row in re.finditer(r"<tr>\s*<td>(.*?)</td>\s*<td>(.*?)</td>\s*</tr>", box.group(1), re.S):
                 label = strip(row.group(1))
                 for a in re.finditer(r'href="([^"]+)"', row.group(2)):
-                    if is_women_only(label + a.group(1)):
-                        continue
-                    files.append({"label": label, "url": a.group(1)})
+                    if not is_women_only(label + a.group(1)):
+                        add_file(files, seen, label, a.group(1), "result")
             for a in re.finditer(r'<a href="([^"]+)"[^>]*>(★?大会リザルト速報)</a>', box.group(1)):
-                files.append({"label": "大会リザルト速報 (外部)", "url": a.group(1)})
-        files = [dict(t) for t in {tuple(f.items()) for f in files}]
-        files.sort(key=lambda f: f["label"])
+                add_file(files, seen, "大会リザルト速報 (外部)", a.group(1), "result")
+        art = h[h.find('<article class="event-detail">'):]
+        for a in re.finditer(r'<a [^>]*href="([^"]+)"[^>]*>(.*?)</a>', art, re.S):
+            u, t = a.group(1), strip(a.group(2)).lstrip("★").strip()
+            if not DOC_RE.search(u):
+                continue
+            if GENERIC_LABEL.match(t):
+                t = (t + " " if t else "") + urllib.parse.unquote(u.rsplit("/", 1)[-1])
+            if is_women_only(t + " " + u.rsplit("/", 1)[-1]):
+                continue
+            add_file(files, seen, t, u)
         events[key] = {
             "id": key, "source": "jga", "name": title, "start": start, "end": end,
             "place": strip(place.group(1)) if place else "", "url": u,
             "level": "junior" if JUNIOR_RE.search(title) else "senior", "files": files,
-            "has_results": bool(files),
+            "has_results": any(f["kind"] == "result" for f in files), "v": SCHEMA,
             # 終了後60日たったら再取得しない
             "settled": bool(end and (TODAY - dt.date.fromisoformat(end)).days > 60 and files),
         }
@@ -223,11 +267,17 @@ def scrape_jr(events):
                 for td in tds[1:]:
                     for a in re.finditer(r'<a [^>]*href="([^"]+)"[^>]*>(.*?)</a>', td, re.S):
                         if strip(a.group(2)) == "男子":
-                            files.append({"label": f"{klass} {kind}".strip(), "url": a.group(1)})
+                            files.append({"label": f"{klass} {kind}".strip(), "url": a.group(1), "kind": "result"})
+        seen = {f["url"] for f in files}
+        main = h[h.find("<main"):]
+        for a in re.finditer(r'<a [^>]*href="([^"]+)"[^>]*>(.*?)</a>', main, re.S):
+            u, t = a.group(1), strip(a.group(2))
+            if DOC_RE.search(u) and u not in seen and t not in ("男子", "女子") and not is_women_only(t):
+                add_file(files, seen, t or urllib.parse.unquote(u.rsplit("/", 1)[-1]), u, "info")
         events[key] = {
             "id": key, "source": "jr", "name": title, "start": start, "end": end,
             "place": "", "url": u, "level": "junior", "files": files,
-            "has_results": bool(files),
+            "has_results": any(f["kind"] == "result" for f in files),
         }
         n += 1
     print(f"[jr] {n} tournaments parsed")
