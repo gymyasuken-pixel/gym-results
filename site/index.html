@@ -82,7 +82,8 @@ const extOf=x=>(x.ext||(x.url.match(/\.(pdf|xlsx?|docx?|zip)(\?|$)/i)||[,""])[1]
 const EXT=x=>extOf(x).toUpperCase()||"外部";
 // FIGのPDFはサーバーが「ダウンロード」を強制するため、Googleの閲覧画面経由でブラウザ内表示にする
 const isFigPdf=x=>x.url.includes("gymnastics.sport/asset.php")&&extOf(x)==="pdf";
-const viewUrl=x=>isFigPdf(x)?"https://docs.google.com/viewer?url="+encodeURIComponent(x.url):x.url;
+const https=u=>u.replace(/^http:\/\//,"https://");
+const viewUrl=x=>isFigPdf(x)?"https://docs.google.com/viewer?url="+encodeURIComponent(x.url):https(x.url);
 function fileList(files,kind,title,cls=""){
   const f=files.filter(x=>x.kind===kind);if(!f.length)return"";
   return `<h3 class="${cls}">${title}</h3><ul class="files">${f.map(x=>`<li><a href="${esc(viewUrl(x))}" target="_blank" rel="noopener">${esc(x.label||"資料")}</a> <span class="dl">${isFigPdf(x)?`<a href="${esc(x.url)}" title="ダウンロード">⬇</a> `:""}<span class="tag t-ext">${EXT(x)}</span></span></li>`).join("")}</ul>`;
