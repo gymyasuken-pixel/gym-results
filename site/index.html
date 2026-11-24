@@ -5,34 +5,45 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>男子体操競技 大会結果まとめ</title>
 <style>
-:root{--bg:#f6f7f9;--card:#fff;--fg:#1c2330;--mut:#667085;--line:#e3e6eb;--acc:#1d4ed8;--jr:#0f766e;--sr:#9a3412;--hi:#fff4cc}
-@media(prefers-color-scheme:dark){:root{--bg:#10131a;--card:#181d27;--fg:#e8ebf0;--mut:#98a2b3;--line:#2a3140;--acc:#7aa2ff;--jr:#4fd1c5;--sr:#fdba74;--hi:#3a3212}}
+:root{--bg:#f1f4f9;--card:#fff;--fg:#1c2330;--mut:#667085;--line:#e3e6eb;--acc:#1d4ed8;--jr:#0f766e;--sr:#b45309;--hi:#fff1b8;--fig:#2563eb;--jga:#dc2626;--jrc:#059669;--hd1:#1e3a8a;--hd2:#2563eb;--th:#eef2ff;--sec:#ecfdf5;--sec-fg:#065f46;--inf:#f8fafc}
+@media(prefers-color-scheme:dark){:root{--bg:#10131a;--card:#181d27;--fg:#e8ebf0;--mut:#98a2b3;--line:#2a3140;--acc:#7aa2ff;--jr:#4fd1c5;--sr:#fdba74;--hi:#4a3f12;--fig:#7aa2ff;--jga:#f87171;--jrc:#34d399;--hd1:#172554;--hd2:#1d4ed8;--th:#1e2638;--sec:#0f2a22;--sec-fg:#6ee7b7;--inf:#141925}}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.6 system-ui,"Hiragino Sans","Noto Sans JP",sans-serif}
-header,main{max-width:980px;margin:0 auto;padding:0 16px}header{padding-top:24px}
-h1{font-size:22px;margin:0 0 4px}.sub{color:var(--mut);font-size:13px}
-.bar{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0;align-items:center}
+.hero{background:linear-gradient(120deg,var(--hd1),var(--hd2));color:#fff;padding:26px 0 34px}
+header,main{max-width:980px;margin:0 auto;padding:0 16px}
+.hero .sub{color:#dbe7ff}
+h1{font-size:24px;margin:0 0 4px;letter-spacing:.02em}.sub{color:var(--mut);font-size:13px}
+.bar{display:flex;flex-wrap:wrap;gap:8px;margin:-18px 0 16px;padding:12px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:12px;box-shadow:0 4px 14px rgba(15,23,42,.10);position:relative}
 .bar input,.bar select{padding:7px 10px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--fg);font:inherit}
-.bar input{flex:1;min-width:180px}.bar label{font-size:13px;color:var(--mut)}
-.ev{background:var(--card);border:1px solid var(--line);border-radius:10px;margin:8px 0}
+.bar input[type=search]{flex:1;min-width:180px}.bar input[type=checkbox]{padding:0;accent-color:var(--fig)}.bar label{font-size:13px;color:var(--mut)}
+.ev{background:var(--card);border:1px solid var(--line);border-left:5px solid var(--c,var(--line));border-radius:10px;margin:8px 0;box-shadow:0 1px 3px rgba(15,23,42,.05)}
+.ev:hover{box-shadow:0 3px 10px rgba(15,23,42,.12)}
+.s-fig{--c:var(--fig)}.s-jga{--c:var(--jga)}.s-jr{--c:var(--jrc)}
+.ev[open]>summary{background:color-mix(in srgb,var(--c) 7%,transparent)}
 .ev>summary{cursor:pointer;padding:12px 14px;list-style:none;display:grid;grid-template-columns:110px 1fr auto;gap:4px 12px;align-items:baseline}
 .ev>summary::-webkit-details-marker{display:none}
-.date{color:var(--mut);font-size:13px;font-variant-numeric:tabular-nums}.name{font-weight:600}.place{grid-column:2;color:var(--mut);font-size:13px}
+.date{color:var(--c);font-weight:600;font-size:13px;font-variant-numeric:tabular-nums}.name{font-weight:600}.place{grid-column:2;color:var(--mut);font-size:13px}
 .tags{display:flex;gap:6px;grid-row:1;grid-column:3}
 .tag{font-size:11px;padding:1px 8px;border-radius:99px;border:1px solid currentColor;white-space:nowrap}
-.t-jr{color:var(--jr)}.t-sr{color:var(--sr)}.t-src{color:var(--mut)}
+.t-jr{color:var(--jr);background:color-mix(in srgb,var(--jr) 12%,transparent)}.t-sr{color:var(--sr);background:color-mix(in srgb,var(--sr) 12%,transparent)}.t-src{color:var(--c,var(--mut))}
+.t-ext{color:var(--mut);font-size:10px;padding:0 6px}
 .body{padding:4px 14px 14px;border-top:1px solid var(--line)}
-.body h3{font-size:14px;margin:14px 0 6px}.body h4{font-size:13px;margin:12px 0 4px;color:var(--mut)}
-table{border-collapse:collapse;width:100%;font-size:14px}th,td{text-align:left;padding:4px 8px;border-bottom:1px solid var(--line)}
-td.n,th.n{text-align:right;font-variant-numeric:tabular-nums}tr.jp td{background:var(--hi)}
-a{color:var(--acc)}ul.files{padding-left:18px;margin:8px 0}.empty,.note{color:var(--mut);font-size:13px}
+.body h3{font-size:14px;margin:16px 0 8px;padding:5px 10px;border-radius:6px;background:var(--inf);border-left:4px solid var(--mut)}
+.body h3.res{background:var(--sec);color:var(--sec-fg);border-left-color:var(--sec-fg)}
+.body h3.rank{background:var(--th);border-left-color:var(--fig)}
+.body h4{font-size:13px;margin:14px 0 4px;color:var(--c)}
+table{border-collapse:collapse;width:100%;font-size:14px}th{background:var(--th);font-size:12px}th,td{text-align:left;padding:4px 8px;border-bottom:1px solid var(--line)}
+td.n,th.n{text-align:right;font-variant-numeric:tabular-nums}tr.jp td{background:var(--hi)!important;font-weight:600}tr.top td:first-child{font-weight:700;color:var(--sr)}
+a{color:var(--acc)}ul.files{list-style:none;padding:0;margin:6px 0;display:grid;gap:4px}ul.files li{padding:5px 10px;border:1px solid var(--line);border-radius:8px;background:var(--card);display:flex;gap:8px;align-items:baseline;justify-content:space-between}ul.files li:hover{border-color:var(--c)}.empty,.note{color:var(--mut);font-size:13px}
 .status{font-size:12px;color:var(--mut);margin:24px 0 40px}.warn{color:#b42318}
 @media(max-width:600px){.ev>summary{grid-template-columns:1fr}.place,.tags{grid-column:1;grid-row:auto}}
 </style>
 </head>
 <body>
-<header>
+<div class="hero"><header>
   <h1>男子体操競技 大会結果まとめ</h1>
   <div class="sub">FIG / 日本体操協会 / 全日本ジュニア体操クラブ連盟 から自動収集（3日に1回更新）</div>
+  </header></div>
+<header>
   <div class="bar">
     <input id="q" type="search" placeholder="大会名・開催地で検索">
     <select id="src"><option value="">全ソース</option><option value="fig">FIG</option><option value="jga">日本体操協会</option><option value="jr">ジュニアクラブ連盟</option></select>
@@ -61,26 +72,26 @@ function render(){
 function card(e){
   const nr=(e.files||[]).filter(f=>f.kind==="result").length,ni=(e.files||[]).length-nr;
   const n=(e.fetched||nr?`結果${nr?" "+nr+"件":"あり"}`:"結果未掲載")+(ni?` ・ 資料 ${ni}件`:"");
-  return `<details class="ev" data-id="${esc(e.id)}"><summary>
+  return `<details class="ev s-${e.source}" data-id="${esc(e.id)}"><summary>
     <span class="date">${esc(rangeText(e))}</span><span class="name">${esc(e.name)}</span>
     <span class="tags"><span class="tag ${e.level==="junior"?"t-jr":"t-sr"}">${e.level==="junior"?"ジュニア":"シニア"}</span><span class="tag t-src">${SRC[e.source]}</span></span>
     <span class="place">${esc(e.place)}　· ${n}</span></summary><div class="body"></div></details>`;
 }
 const EXT=u=>(u.match(/\.(pdf|xlsx?|docx?|zip)(\?|$)/i)||[,""])[1].toUpperCase()||"外部";
-function fileList(files,kind,title){
+function fileList(files,kind,title,cls=""){
   const f=files.filter(x=>x.kind===kind);if(!f.length)return"";
-  return `<h3>${title}</h3><ul class="files">${f.map(x=>`<li><a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.label||"資料")}</a> <span class="tag t-src">${EXT(x.url)}</span></li>`).join("")}</ul>`;
+  return `<h3 class="${cls}">${title}</h3><ul class="files">${f.map(x=>`<li><a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.label||"資料")}</a> <span class="tag t-ext">${EXT(x.url)}</span></li>`).join("")}</ul>`;
 }
 async function fill(d){
   const e=events.find(x=>x.id===d.dataset.id),b=d.querySelector(".body");
   if(b.dataset.done)return;b.dataset.done=1;
   let h=`<p class="note"><a href="${esc(e.url)}" target="_blank" rel="noopener">公式ページ</a>${e.results_url?` ・ <a href="${esc(e.results_url)}" target="_blank" rel="noopener">公式の結果</a>`:""}</p>`;
   const files=e.files||[];
-  h+=fileList(files,"result","公式の結果（PDF等）");
+  h+=fileList(files,"result","公式の結果（PDF等）","res");
   if(e.source==="fig"&&e.fetched){
     b.innerHTML=h+"読み込み中…";
     const r=await (await fetch(`data/fig/${e.id.slice(4)}.json`)).json();
-    h+=`<h3>順位表（FIG公式データ）</h3>`+figTables(r);
+    h+=`<h3 class="rank">順位表（FIG公式データ）</h3>`+figTables(r);
   }else if(!files.some(x=>x.kind==="result")){h+='<p class="empty">結果はまだ掲載されていません。</p>';}
   h+=fileList(files,"info","その他の公式資料（要項・演技順・参加者など）");
   b.innerHTML=h;
@@ -92,7 +103,7 @@ function figTables(r){
     for(const [cat,rows] of Object.entries(cats)){
       const v=rows.filter(x=>!jp||x.country==="JPN");if(!v.length)continue;
       h+=`<h4>${esc(cat)}</h4><table><tr><th class="n">順位</th><th>選手</th><th>国</th><th class="n">得点</th><th class="n">予選順位</th><th class="n">予選得点</th></tr>`+
-        v.map(x=>`<tr class="${x.country==="JPN"?"jp":""}"><td class="n">${x.rank??"-"}</td><td>${esc(x.name)}</td><td>${esc(x.country)}</td><td class="n">${x.score??"-"}</td><td class="n">${x.q_rank??"-"}</td><td class="n">${x.q_score??"-"}</td></tr>`).join("")+"</table>";
+        v.map(x=>`<tr class="${x.country==="JPN"?"jp":x.rank<=3?"top":""}"><td class="n">${x.rank??"-"}</td><td>${esc(x.name)}</td><td>${esc(x.country)}</td><td class="n">${x.score??"-"}</td><td class="n">${x.q_rank??"-"}</td><td class="n">${x.q_score??"-"}</td></tr>`).join("")+"</table>";
     }
   }
   return h||'<p class="empty">表示できる結果がありません。</p>';
