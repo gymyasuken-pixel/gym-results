@@ -80,14 +80,12 @@ function card(e){
 }
 const extOf=x=>(x.ext||(x.url.match(/\.(pdf|xlsx?|docx?|zip)(\?|$)/i)||[,""])[1]).toLowerCase();
 const EXT=x=>extOf(x).toUpperCase()||"外部";
-// FIGのPDFはサーバーが「ダウンロード」を強制する。主リンクは直接取得、補助として閲覧画面リンクを併記
-const isFigPdf=x=>x.url.includes("gymnastics.sport/asset.php")&&extOf(x)==="pdf";
+// FIGのPDFはサーバーが「ダウンロード」を強制するため、クリックするとダウンロードされる
 const https=u=>u.replace(/^http:\/\//,"https://");
 const viewUrl=x=>https(x.url);
-const gview=x=>"https://docs.google.com/viewer?url="+encodeURIComponent(x.url);
 function fileList(files,kind,title,cls=""){
   const f=files.filter(x=>x.kind===kind);if(!f.length)return"";
-  return `<h3 class="${cls}">${title}</h3><ul class="files">${f.map(x=>`<li><a href="${esc(viewUrl(x))}" target="_blank" rel="noopener">${esc(x.label||"資料")}</a> <span class="dl">${isFigPdf(x)?`<a class="view" href="${esc(gview(x))}" target="_blank" rel="noopener" title="Google閲覧画面でブラウザ内表示（環境によっては開けない場合があります）">ブラウザで開く</a> `:""}<span class="tag t-ext">${EXT(x)}</span></span></li>`).join("")}</ul>`;
+  return `<h3 class="${cls}">${title}</h3><ul class="files">${f.map(x=>`<li><a href="${esc(viewUrl(x))}" target="_blank" rel="noopener">${esc(x.label||"資料")}</a> <span class="dl"><span class="tag t-ext">${EXT(x)}</span></span></li>`).join("")}</ul>`;
 }
 async function fill(d){
   const e=events.find(x=>x.id===d.dataset.id),b=d.querySelector(".body");
