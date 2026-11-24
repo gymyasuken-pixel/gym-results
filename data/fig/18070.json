@@ -1,0 +1,498 @@
+{
+ "Senior": {
+  "All-Around": [
+   {
+    "rank": 1,
+    "name": "DOLCI Felix",
+    "country": "CAN",
+    "score": 80.15,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 2,
+    "name": "KARNES Joshua",
+    "country": "USA",
+    "score": 79.9,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 3,
+    "name": "SOARES Diogo",
+    "country": "BRA",
+    "score": 78.8,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 4,
+    "name": "COURNOYER Rene",
+    "country": "CAN",
+    "score": 78.4,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 5,
+    "name": "CHRISTOPULOS Taylor",
+    "country": "USA",
+    "score": 78.25,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 6,
+    "name": "LOPEZ Jose",
+    "country": "PUR",
+    "score": 77.15,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 8,
+    "name": "BARAJAS Angel",
+    "country": "COL",
+    "score": 76.45,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 9,
+    "name": "ZABALA Yan",
+    "country": "COL",
+    "score": 76.15,
+    "q_rank": null,
+    "q_score": null
+   }
+  ],
+  "Floor Exercise": [
+   {
+    "rank": 1,
+    "name": "IWAI Junnosuke",
+    "country": "USA",
+    "score": 14.033,
+    "q_rank": 4,
+    "q_score": 13.6
+   },
+   {
+    "rank": 2,
+    "name": "VEGA LOPEZ Jorge",
+    "country": "GUA",
+    "score": 13.8,
+    "q_rank": 8,
+    "q_score": 13.2
+   },
+   {
+    "rank": 3,
+    "name": "ESCOBAR Diorges",
+    "country": "CUB",
+    "score": 13.633,
+    "q_rank": 1,
+    "q_score": 13.65
+   },
+   {
+    "rank": 4,
+    "name": "COURNOYER Rene",
+    "country": "CAN",
+    "score": 13.467,
+    "q_rank": 7,
+    "q_score": 13.25
+   },
+   {
+    "rank": 5,
+    "name": "CHRISTOPULOS Taylor",
+    "country": "USA",
+    "score": 13.467,
+    "q_rank": 3,
+    "q_score": 13.6
+   },
+   {
+    "rank": 6,
+    "name": "SOARES Diogo",
+    "country": "BRA",
+    "score": 12.9,
+    "q_rank": 9,
+    "q_score": 13.1
+   },
+   {
+    "rank": 7,
+    "name": "LOPEZ Jose",
+    "country": "PUR",
+    "score": 12.533,
+    "q_rank": 6,
+    "q_score": 13.25
+   },
+   {
+    "rank": 8,
+    "name": "DOLCI Felix",
+    "country": "CAN",
+    "score": 11.267,
+    "q_rank": 2,
+    "q_score": 13.65
+   }
+  ],
+  "Pommel Horse": [
+   {
+    "rank": 1,
+    "name": "DANG Brandon",
+    "country": "USA",
+    "score": 13.5,
+    "q_rank": 1,
+    "q_score": 13.85
+   },
+   {
+    "rank": 2,
+    "name": "KARNES Joshua",
+    "country": "USA",
+    "score": 13.267,
+    "q_rank": 3,
+    "q_score": 13.25
+   },
+   {
+    "rank": 3,
+    "name": "WAHRMANN-BAKER Elel",
+    "country": "JAM",
+    "score": 12.5,
+    "q_rank": 9,
+    "q_score": 12.85
+   },
+   {
+    "rank": 4,
+    "name": "GUILBE MORALES Nelson Alberto",
+    "country": "PUR",
+    "score": 12.5,
+    "q_rank": 2,
+    "q_score": 13.75
+   },
+   {
+    "rank": 5,
+    "name": "MAYOL Santiago",
+    "country": "ARG",
+    "score": 12,
+    "q_rank": 8,
+    "q_score": 12.85
+   },
+   {
+    "rank": 6,
+    "name": "ZABALA Yan",
+    "country": "COL",
+    "score": 11.4,
+    "q_rank": 5,
+    "q_score": 13
+   },
+   {
+    "rank": 7,
+    "name": "COURNOYER Rene",
+    "country": "CAN",
+    "score": 9.967,
+    "q_rank": 7,
+    "q_score": 12.85
+   },
+   {
+    "rank": 8,
+    "name": "SOARES Diogo",
+    "country": "BRA",
+    "score": 7.933,
+    "q_rank": 4,
+    "q_score": 13.1
+   }
+  ],
+  "Still Rings": [
+   {
+    "rank": 1,
+    "name": "VILLAFANE Daniel",
+    "country": "ARG",
+    "score": 13.7,
+    "q_rank": 3,
+    "q_score": 13.4
+   },
+   {
+    "rank": 2,
+    "name": "VELEZ BELENDEZ Francisco Ismael",
+    "country": "PUR",
+    "score": 13.433,
+    "q_rank": 2,
+    "q_score": 13.5
+   },
+   {
+    "rank": 3,
+    "name": "LOPEZ Jose",
+    "country": "PUR",
+    "score": 13.233,
+    "q_rank": 1,
+    "q_score": 13.55
+   },
+   {
+    "rank": 4,
+    "name": "DOLCI Felix",
+    "country": "CAN",
+    "score": 13.233,
+    "q_rank": 8,
+    "q_score": 13
+   },
+   {
+    "rank": 5,
+    "name": "CHRONOPOULOS Ioannis",
+    "country": "CAN",
+    "score": 13.133,
+    "q_rank": 7,
+    "q_score": 13.1
+   },
+   {
+    "rank": 6,
+    "name": "CHRISTOPULOS Taylor",
+    "country": "USA",
+    "score": 13.033,
+    "q_rank": 6,
+    "q_score": 13.1
+   },
+   {
+    "rank": 7,
+    "name": "BARAJAS Angel",
+    "country": "COL",
+    "score": 12.7,
+    "q_rank": 4,
+    "q_score": 13.3
+   },
+   {
+    "rank": 8,
+    "name": "TORRES Ricardo",
+    "country": "MEX",
+    "score": 12.167,
+    "q_rank": 10,
+    "q_score": 12.85
+   },
+   {
+    "rank": null,
+    "name": "BURKHART Taylor",
+    "country": "USA",
+    "score": null,
+    "q_rank": 5,
+    "q_score": 13.3
+   }
+  ],
+  "Vault": [
+   {
+    "rank": 1,
+    "name": "DOLCI Felix",
+    "country": "CAN",
+    "score": 14.066,
+    "q_rank": 1,
+    "q_score": 14.075
+   },
+   {
+    "rank": 2,
+    "name": "LOPEZ Jose",
+    "country": "PUR",
+    "score": 13.85,
+    "q_rank": 4,
+    "q_score": 13.5
+   },
+   {
+    "rank": 3,
+    "name": "VEGA LOPEZ Jorge",
+    "country": "GUA",
+    "score": 13.483,
+    "q_rank": 3,
+    "q_score": 13.675
+   },
+   {
+    "rank": 4,
+    "name": "VILLAVERDE Yohendry",
+    "country": "CUB",
+    "score": 13.183,
+    "q_rank": 2,
+    "q_score": 13.825
+   },
+   {
+    "rank": 5,
+    "name": "CHICA Daniel",
+    "country": "ECU",
+    "score": 13.084,
+    "q_rank": 8,
+    "q_score": 12.775
+   },
+   {
+    "rank": 6,
+    "name": "CONTRERAS Wilfry",
+    "country": "DOM",
+    "score": 13.067,
+    "q_rank": 7,
+    "q_score": 12.9
+   },
+   {
+    "rank": 7,
+    "name": "SAMPAIO Patrick",
+    "country": "BRA",
+    "score": 12.95,
+    "q_rank": 5,
+    "q_score": 13.275
+   },
+   {
+    "rank": 8,
+    "name": "BELL Clayton",
+    "country": "JAM",
+    "score": 11.934,
+    "q_rank": 9,
+    "q_score": 12.6
+   },
+   {
+    "rank": null,
+    "name": "VILLAFANE Daniel",
+    "country": "ARG",
+    "score": null,
+    "q_rank": 6,
+    "q_score": 13.125
+   }
+  ],
+  "Parallel Bars": [
+   {
+    "rank": 1,
+    "name": "DOLCI Felix",
+    "country": "CAN",
+    "score": 13.8,
+    "q_rank": 6,
+    "q_score": 13.55
+   },
+   {
+    "rank": 2,
+    "name": "SOARES Diogo",
+    "country": "BRA",
+    "score": 13.767,
+    "q_rank": 8,
+    "q_score": 13.45
+   },
+   {
+    "rank": 3,
+    "name": "SIMINIUC Evgeny",
+    "country": "CAN",
+    "score": 13.533,
+    "q_rank": 2,
+    "q_score": 13.75
+   },
+   {
+    "rank": 4,
+    "name": "ESCOBAR Diorges",
+    "country": "CUB",
+    "score": 13.5,
+    "q_rank": 3,
+    "q_score": 13.65
+   },
+   {
+    "rank": 5,
+    "name": "KARNES Joshua",
+    "country": "USA",
+    "score": 13.467,
+    "q_rank": 4,
+    "q_score": 13.65
+   },
+   {
+    "rank": 6,
+    "name": "SANCHEZ Alexander",
+    "country": "CUB",
+    "score": 13.167,
+    "q_rank": 9,
+    "q_score": 13.4
+   },
+   {
+    "rank": 7,
+    "name": "BARAJAS Angel",
+    "country": "COL",
+    "score": 12.867,
+    "q_rank": 1,
+    "q_score": 13.95
+   },
+   {
+    "rank": 8,
+    "name": "IWAI Junnosuke",
+    "country": "USA",
+    "score": 12.2,
+    "q_rank": 10,
+    "q_score": 13.25
+   },
+   {
+    "rank": null,
+    "name": "BURKHART Taylor",
+    "country": "USA",
+    "score": null,
+    "q_rank": 5,
+    "q_score": 13.55
+   }
+  ],
+  "Horizontal Bar": [
+   {
+    "rank": 1,
+    "name": "DOLCI Felix",
+    "country": "CAN",
+    "score": 13.933,
+    "q_rank": 1,
+    "q_score": 13.9
+   },
+   {
+    "rank": 2,
+    "name": "KARNES Joshua",
+    "country": "USA",
+    "score": 13.5,
+    "q_rank": 3,
+    "q_score": 13.55
+   },
+   {
+    "rank": 3,
+    "name": "SIMINIUC Evgeny",
+    "country": "CAN",
+    "score": 13.367,
+    "q_rank": 4,
+    "q_score": 13.45
+   },
+   {
+    "rank": 4,
+    "name": "IWAI Junnosuke",
+    "country": "USA",
+    "score": 12.967,
+    "q_rank": 9,
+    "q_score": 12.8
+   },
+   {
+    "rank": 5,
+    "name": "BARAJAS Angel",
+    "country": "COL",
+    "score": 12.333,
+    "q_rank": 8,
+    "q_score": 12.9
+   },
+   {
+    "rank": 6,
+    "name": "ESCOBAR Diorges",
+    "country": "CUB",
+    "score": 11.567,
+    "q_rank": 5,
+    "q_score": 13.3
+   },
+   {
+    "rank": 7,
+    "name": "ZABALA Yan",
+    "country": "COL",
+    "score": 11.533,
+    "q_rank": 6,
+    "q_score": 13.1
+   },
+   {
+    "rank": 8,
+    "name": "DE SOUZA BITENCOURT Lucas",
+    "country": "BRA",
+    "score": 11.267,
+    "q_rank": 7,
+    "q_score": 12.95
+   },
+   {
+    "rank": null,
+    "name": "BURKHART Taylor",
+    "country": "USA",
+    "score": null,
+    "q_rank": 2,
+    "q_score": 13.75
+   }
+  ]
+ }
+}

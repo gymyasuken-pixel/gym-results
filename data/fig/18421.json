@@ -1,0 +1,578 @@
+{
+ "Senior": {
+  "All-Around": [
+   {
+    "rank": null,
+    "name": "LETELIER Luciano",
+    "country": "CHI",
+    "score": null,
+    "q_rank": 1,
+    "q_score": 78.101
+   },
+   {
+    "rank": null,
+    "name": "ALVAREZ Joel",
+    "country": "CHI",
+    "score": null,
+    "q_rank": 2,
+    "q_score": 76.836
+   },
+   {
+    "rank": null,
+    "name": "PAES Diogo",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 3,
+    "q_score": 75.735
+   },
+   {
+    "rank": null,
+    "name": "ZABALA Yan",
+    "country": "COL",
+    "score": null,
+    "q_rank": 4,
+    "q_score": 75.136
+   },
+   {
+    "rank": null,
+    "name": "CAVALLERI PORTO Luis",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 5,
+    "q_score": 74.702
+   },
+   {
+    "rank": null,
+    "name": "RAMOS Juan Felipe",
+    "country": "COL",
+    "score": null,
+    "q_rank": 6,
+    "q_score": 73.502
+   },
+   {
+    "rank": null,
+    "name": "VALENCIA Johnny",
+    "country": "ECU",
+    "score": null,
+    "q_rank": 7,
+    "q_score": 72.902
+   },
+   {
+    "rank": null,
+    "name": "CHICA Daniel",
+    "country": "ECU",
+    "score": null,
+    "q_rank": 8,
+    "q_score": 71.369
+   },
+   {
+    "rank": null,
+    "name": "DA SILVA PERDIGAO Joao Victor",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 71.335
+   },
+   {
+    "rank": null,
+    "name": "BECERRA BERTOLOTTI Felipe",
+    "country": "ARG",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 71.135
+   }
+  ],
+  "Floor Exercise": [
+   {
+    "rank": 1,
+    "name": "VARAS Ignacio",
+    "country": "CHI",
+    "score": 13.4,
+    "q_rank": 1,
+    "q_score": 13.8
+   },
+   {
+    "rank": 2,
+    "name": "CAVALLERI PORTO Luis",
+    "country": "BRA",
+    "score": 13.234,
+    "q_rank": 8,
+    "q_score": 13
+   },
+   {
+    "rank": 3,
+    "name": "LARRAHONDO Juan",
+    "country": "COL",
+    "score": 13.1,
+    "q_rank": 4,
+    "q_score": 13.2
+   },
+   {
+    "rank": 4,
+    "name": "RAMOS Juan Felipe",
+    "country": "COL",
+    "score": 13.067,
+    "q_rank": 5,
+    "q_score": 13.134
+   },
+   {
+    "rank": 5,
+    "name": "LETELIER Luciano",
+    "country": "CHI",
+    "score": 12.6,
+    "q_rank": 2,
+    "q_score": 13.3
+   },
+   {
+    "rank": 6,
+    "name": "OLIVA Juliano",
+    "country": "BRA",
+    "score": 12.3,
+    "q_rank": 3,
+    "q_score": 13.234
+   },
+   {
+    "rank": 7,
+    "name": "MARTINEZ Nahuel",
+    "country": "ARG",
+    "score": 12.234,
+    "q_rank": 10,
+    "q_score": 12.9
+   },
+   {
+    "rank": null,
+    "name": "ZABALA Yan",
+    "country": "COL",
+    "score": null,
+    "q_rank": 6,
+    "q_score": 13.067
+   },
+   {
+    "rank": null,
+    "name": "ALVAREZ Joel",
+    "country": "CHI",
+    "score": null,
+    "q_rank": 7,
+    "q_score": 13.034
+   },
+   {
+    "rank": null,
+    "name": "DA SILVA PERDIGAO Joao Victor",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 12.967
+   }
+  ],
+  "Pommel Horse": [
+   {
+    "rank": 1,
+    "name": "LETELIER Luciano",
+    "country": "CHI",
+    "score": 12.834,
+    "q_rank": 3,
+    "q_score": 13
+   },
+   {
+    "rank": 2,
+    "name": "TREJO BASALO Adickxon Gabriel",
+    "country": "VEN",
+    "score": 12.7,
+    "q_rank": 2,
+    "q_score": 13.034
+   },
+   {
+    "rank": 3,
+    "name": "CORALIZZI Matias Fabian",
+    "country": "ARG",
+    "score": 12.5,
+    "q_rank": 1,
+    "q_score": 13.134
+   },
+   {
+    "rank": 4,
+    "name": "VALENCIA Johnny",
+    "country": "ECU",
+    "score": 12.234,
+    "q_rank": 5,
+    "q_score": 12.5
+   },
+   {
+    "rank": 5,
+    "name": "BORGES Rogerio",
+    "country": "BRA",
+    "score": 11.834,
+    "q_rank": 7,
+    "q_score": 12.5
+   },
+   {
+    "rank": 6,
+    "name": "ESPEJO Diego",
+    "country": "CHI",
+    "score": 11.2,
+    "q_rank": 6,
+    "q_score": 12.5
+   },
+   {
+    "rank": 7,
+    "name": "MARTINEZ Nahuel",
+    "country": "ARG",
+    "score": 9.967,
+    "q_rank": 9,
+    "q_score": 12.3
+   },
+   {
+    "rank": 8,
+    "name": "PONTEDURA MURILO",
+    "country": "BRA",
+    "score": 9.167,
+    "q_rank": 4,
+    "q_score": 12.766
+   },
+   {
+    "rank": null,
+    "name": "PAES Diogo",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 8,
+    "q_score": 12.334
+   },
+   {
+    "rank": null,
+    "name": "CHIRIBOGA Israel",
+    "country": "ECU",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 12.267
+   }
+  ],
+  "Still Rings": [
+   {
+    "rank": 1,
+    "name": "ESPEJO Diego",
+    "country": "CHI",
+    "score": 13.5,
+    "q_rank": 2,
+    "q_score": 13.4
+   },
+   {
+    "rank": 2,
+    "name": "INGUANTI Julian",
+    "country": "ARG",
+    "score": 13.334,
+    "q_rank": 1,
+    "q_score": 13.467
+   },
+   {
+    "rank": 3,
+    "name": "OLIVA Juliano",
+    "country": "BRA",
+    "score": 12.834,
+    "q_rank": 3,
+    "q_score": 13.2
+   },
+   {
+    "rank": 4,
+    "name": "ALVAREZ Joel",
+    "country": "CHI",
+    "score": 12.8,
+    "q_rank": 4,
+    "q_score": 13.067
+   },
+   {
+    "rank": 5,
+    "name": "CHICA Daniel",
+    "country": "ECU",
+    "score": 12.767,
+    "q_rank": 5,
+    "q_score": 12.9
+   },
+   {
+    "rank": 6,
+    "name": "ALARCON Daniel",
+    "country": "PER",
+    "score": 12.534,
+    "q_rank": 6,
+    "q_score": 12.767
+   },
+   {
+    "rank": 7,
+    "name": "LOPEZ Cesar",
+    "country": "ECU",
+    "score": 11.8,
+    "q_rank": 7,
+    "q_score": 12.634
+   },
+   {
+    "rank": 8,
+    "name": "CAVALLERI PORTO Luis",
+    "country": "BRA",
+    "score": 11.6,
+    "q_rank": 8,
+    "q_score": 12.467
+   },
+   {
+    "rank": null,
+    "name": "ZABALA Yan",
+    "country": "COL",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 12.334
+   },
+   {
+    "rank": null,
+    "name": "VARAS Ignacio",
+    "country": "CHI",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 12.3
+   }
+  ],
+  "Vault": [
+   {
+    "rank": 1,
+    "name": "LARRAHONDO Juan",
+    "country": "COL",
+    "score": 14.133,
+    "q_rank": 1,
+    "q_score": 14.001
+   },
+   {
+    "rank": 2,
+    "name": "AGUERO Daniel",
+    "country": "PER",
+    "score": 13.617,
+    "q_rank": 5,
+    "q_score": 13.05
+   },
+   {
+    "rank": 3,
+    "name": "CHICA Daniel",
+    "country": "ECU",
+    "score": 13.517,
+    "q_rank": 6,
+    "q_score": 13
+   },
+   {
+    "rank": 4,
+    "name": "ROLIN Edward",
+    "country": "VEN",
+    "score": 13.484,
+    "q_rank": 3,
+    "q_score": 13.451
+   },
+   {
+    "rank": 5,
+    "name": "ARMIJO Josue",
+    "country": "CHI",
+    "score": 13.384,
+    "q_rank": 2,
+    "q_score": 13.534
+   },
+   {
+    "rank": 6,
+    "name": "CAVALLERI PORTO Luis",
+    "country": "BRA",
+    "score": 13.217,
+    "q_rank": 4,
+    "q_score": 13.45
+   },
+   {
+    "rank": 7,
+    "name": "RAMOS Juan Felipe",
+    "country": "COL",
+    "score": 13.2,
+    "q_rank": 8,
+    "q_score": 12.851
+   },
+   {
+    "rank": 8,
+    "name": "VARAS Ignacio",
+    "country": "CHI",
+    "score": 12.984,
+    "q_rank": 7,
+    "q_score": 12.967
+   },
+   {
+    "rank": null,
+    "name": "OLIVA Juliano",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 12.75
+   },
+   {
+    "rank": null,
+    "name": "LOPEZ Cesar",
+    "country": "ECU",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 12.284
+   }
+  ],
+  "Parallel Bars": [
+   {
+    "rank": 1,
+    "name": "TREJO BASALO Adickxon Gabriel",
+    "country": "VEN",
+    "score": 13.034,
+    "q_rank": 3,
+    "q_score": 13
+   },
+   {
+    "rank": 2,
+    "name": "PAES Diogo",
+    "country": "BRA",
+    "score": 12.9,
+    "q_rank": 5,
+    "q_score": 12.867
+   },
+   {
+    "rank": 3,
+    "name": "CORALIZZI Matias Fabian",
+    "country": "ARG",
+    "score": 12.667,
+    "q_rank": 9,
+    "q_score": 12.6
+   },
+   {
+    "rank": 4,
+    "name": "CAVALLERI PORTO Luis",
+    "country": "BRA",
+    "score": 12.534,
+    "q_rank": 4,
+    "q_score": 12.967
+   },
+   {
+    "rank": 5,
+    "name": "LETELIER Luciano",
+    "country": "CHI",
+    "score": 12.5,
+    "q_rank": 2,
+    "q_score": 13.134
+   },
+   {
+    "rank": 6,
+    "name": "VALENCIA Johnny",
+    "country": "ECU",
+    "score": 12.467,
+    "q_rank": 6,
+    "q_score": 12.834
+   },
+   {
+    "rank": 7,
+    "name": "RAMOS Juan Felipe",
+    "country": "COL",
+    "score": 12.434,
+    "q_rank": 10,
+    "q_score": 12.4
+   },
+   {
+    "rank": 8,
+    "name": "ESPEJO Diego",
+    "country": "CHI",
+    "score": 12.267,
+    "q_rank": 1,
+    "q_score": 13.267
+   },
+   {
+    "rank": null,
+    "name": "PONTEDURA MURILO",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 7,
+    "q_score": 12.834
+   },
+   {
+    "rank": null,
+    "name": "ALVAREZ Joel",
+    "country": "CHI",
+    "score": null,
+    "q_rank": 8,
+    "q_score": 12.8
+   }
+  ],
+  "Horizontal Bar": [
+   {
+    "rank": 1,
+    "name": "LETELIER Luciano",
+    "country": "CHI",
+    "score": 13.6,
+    "q_rank": 1,
+    "q_score": 13.534
+   },
+   {
+    "rank": 2,
+    "name": "ZABALA Yan",
+    "country": "COL",
+    "score": 13.5,
+    "q_rank": 3,
+    "q_score": 13.134
+   },
+   {
+    "rank": 3,
+    "name": "PARDO Nahuel Nicolas",
+    "country": "ARG",
+    "score": 12.634,
+    "q_rank": 9,
+    "q_score": 12.167
+   },
+   {
+    "rank": 4,
+    "name": "VARGAS Sergio",
+    "country": "COL",
+    "score": 12.567,
+    "q_rank": 7,
+    "q_score": 12.567
+   },
+   {
+    "rank": 5,
+    "name": "PAES Diogo",
+    "country": "BRA",
+    "score": 12.334,
+    "q_rank": 2,
+    "q_score": 13.3
+   },
+   {
+    "rank": 6,
+    "name": "CORALIZZI Matias Fabian",
+    "country": "ARG",
+    "score": 11.967,
+    "q_rank": 8,
+    "q_score": 12.267
+   },
+   {
+    "rank": 7,
+    "name": "ALVAREZ Joel",
+    "country": "CHI",
+    "score": 10.734,
+    "q_rank": 4,
+    "q_score": 13.067
+   },
+   {
+    "rank": 8,
+    "name": "BORGES Rogerio",
+    "country": "BRA",
+    "score": 9.7,
+    "q_rank": 5,
+    "q_score": 13.067
+   },
+   {
+    "rank": null,
+    "name": "CAVALLERI PORTO Luis",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 6,
+    "q_score": 12.734
+   },
+   {
+    "rank": null,
+    "name": "CHIAPPONI Ivo",
+    "country": "ARG",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 12.134
+   }
+  ]
+ }
+}

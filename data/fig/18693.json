@@ -1,0 +1,170 @@
+{
+ "Junior": {
+  "All-Around": [
+   {
+    "rank": 1,
+    "name": "MOUFAWAD Elias",
+    "country": "LBN",
+    "score": 62.33,
+    "q_rank": 1,
+    "q_score": 62.33
+   },
+   {
+    "rank": 2,
+    "name": "ELOMAR Ahmad",
+    "country": "LBN",
+    "score": 57.2,
+    "q_rank": 2,
+    "q_score": 57.2
+   },
+   {
+    "rank": 3,
+    "name": "ALSQOUR Aser",
+    "country": "JOR",
+    "score": 43.63,
+    "q_rank": 3,
+    "q_score": 43.63
+   }
+  ],
+  "Floor Exercise": [
+   {
+    "rank": 1,
+    "name": "ALAMAD Ibrahim",
+    "country": "JOR",
+    "score": 12.33,
+    "q_rank": 1,
+    "q_score": 12.33
+   },
+   {
+    "rank": 2,
+    "name": "SHIHADEH Ibrahim",
+    "country": "JOR",
+    "score": 12.13,
+    "q_rank": 2,
+    "q_score": 12.13
+   },
+   {
+    "rank": 3,
+    "name": "AL HARIRI Jad",
+    "country": "LBN",
+    "score": 10.6,
+    "q_rank": 3,
+    "q_score": 10.6
+   }
+  ],
+  "Pommel Horse": [
+   {
+    "rank": 1,
+    "name": "MOUFAWAD Elias",
+    "country": "LBN",
+    "score": 10.17,
+    "q_rank": 1,
+    "q_score": 10.17
+   },
+   {
+    "rank": 2,
+    "name": "ALSQOUR Aser",
+    "country": "JOR",
+    "score": 9.43,
+    "q_rank": 2,
+    "q_score": 9.43
+   },
+   {
+    "rank": 3,
+    "name": "ELOMAR Ahmad",
+    "country": "LBN",
+    "score": 7.4,
+    "q_rank": 3,
+    "q_score": 7.4
+   }
+  ],
+  "Still Rings": [
+   {
+    "rank": 1,
+    "name": "MOUFAWAD Elias",
+    "country": "LBN",
+    "score": 9.97,
+    "q_rank": 1,
+    "q_score": 9.97
+   },
+   {
+    "rank": 2,
+    "name": "ELOMAR Ahmad",
+    "country": "LBN",
+    "score": 9.7,
+    "q_rank": 2,
+    "q_score": 9.7
+   }
+  ],
+  "Vault": [
+   {
+    "rank": 1,
+    "name": "SHIHADEH Ibrahim",
+    "country": "JOR",
+    "score": 11.715,
+    "q_rank": 1,
+    "q_score": 11.715
+   },
+   {
+    "rank": 2,
+    "name": "SALAMEH Karam",
+    "country": "JOR",
+    "score": 11.585,
+    "q_rank": 2,
+    "q_score": 11.585
+   },
+   {
+    "rank": 3,
+    "name": "ELOMAR Ahmad",
+    "country": "LBN",
+    "score": 11.135,
+    "q_rank": 3,
+    "q_score": 11.135
+   }
+  ],
+  "Parallel Bars": [
+   {
+    "rank": 1,
+    "name": "ALSQOUR Aser",
+    "country": "JOR",
+    "score": 11.4,
+    "q_rank": 1,
+    "q_score": 11.4
+   },
+   {
+    "rank": 2,
+    "name": "MOUFAWAD Elias",
+    "country": "LBN",
+    "score": 10.83,
+    "q_rank": 2,
+    "q_score": 10.83
+   },
+   {
+    "rank": 3,
+    "name": "SALAMEH Karam",
+    "country": "JOR",
+    "score": 9.87,
+    "q_rank": 3,
+    "q_score": 9.87
+   }
+  ],
+  "Horizontal Bar": [
+   {
+    "rank": 1,
+    "name": "MOUFAWAD Elias",
+    "country": "LBN",
+    "score": 10.23,
+    "q_rank": 1,
+    "q_score": 10.23
+   },
+   {
+    "rank": 2,
+    "name": "AL HARIRI Jad",
+    "country": "LBN",
+    "score": 9.03,
+    "q_rank": 2,
+    "q_score": 9.03
+   }
+  ]
+ }
+}

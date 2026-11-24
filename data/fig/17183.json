@@ -1,0 +1,616 @@
+{
+ "Senior": {
+  "Floor Exercise": [
+   {
+    "rank": 1,
+    "name": "MESZAROS Krisztofer",
+    "country": "HUN",
+    "score": 14.55,
+    "q_rank": 1,
+    "q_score": 13.95
+   },
+   {
+    "rank": 2,
+    "name": "MIR Nicolau",
+    "country": "ESP",
+    "score": 13.85,
+    "q_rank": 2,
+    "q_score": 13.65
+   },
+   {
+    "rank": 3,
+    "name": "IOSCOVICH Eliran",
+    "country": "ISR",
+    "score": 13.6,
+    "q_rank": 4,
+    "q_score": 13.6
+   },
+   {
+    "rank": 4,
+    "name": "KUNZ Alexander",
+    "country": "GER",
+    "score": 13.6,
+    "q_rank": 8,
+    "q_score": 13.2
+   },
+   {
+    "rank": 5,
+    "name": "MOLNAR Botond",
+    "country": "HUN",
+    "score": 13.6,
+    "q_rank": 7,
+    "q_score": 13.3
+   },
+   {
+    "rank": 6,
+    "name": "MOSTOWFI Sam",
+    "country": "GBR",
+    "score": 13.45,
+    "q_rank": 6,
+    "q_score": 13.45
+   },
+   {
+    "rank": 7,
+    "name": "ZEIDEL Uri",
+    "country": "ISR",
+    "score": 12.6,
+    "q_rank": 5,
+    "q_score": 13.5
+   },
+   {
+    "rank": 8,
+    "name": "ONDER Ahmet",
+    "country": "TUR",
+    "score": 11.85,
+    "q_rank": 3,
+    "q_score": 13.65
+   },
+   {
+    "rank": null,
+    "name": "DIALLO Thierno",
+    "country": "ESP",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 13
+   },
+   {
+    "rank": null,
+    "name": "MCGILLIVRAY Conor",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 12.9
+   },
+   {
+    "rank": null,
+    "name": "FRICK Aiden",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 11,
+    "q_score": 12.6
+   },
+   {
+    "rank": null,
+    "name": "ZANDER Daniel",
+    "country": "AUT",
+    "score": null,
+    "q_rank": 12,
+    "q_score": 12.5
+   },
+   {
+    "rank": null,
+    "name": "LEE Man Hin Frankie",
+    "country": "HKG",
+    "score": null,
+    "q_rank": 13,
+    "q_score": 11.8
+   },
+   {
+    "rank": null,
+    "name": "LYNN Cameron",
+    "country": "GBR",
+    "score": null,
+    "q_rank": 14,
+    "q_score": 11.75
+   }
+  ],
+  "Pommel Horse": [
+   {
+    "rank": 1,
+    "name": "INDIG Eyal",
+    "country": "ISR",
+    "score": 14.15,
+    "q_rank": 1,
+    "q_score": 14.4
+   },
+   {
+    "rank": 2,
+    "name": "MESZAROS Krisztofer",
+    "country": "HUN",
+    "score": 13.95,
+    "q_rank": 2,
+    "q_score": 14.2
+   },
+   {
+    "rank": 3,
+    "name": "TREBING Glenn",
+    "country": "GER",
+    "score": 13.95,
+    "q_rank": 5,
+    "q_score": 13.6
+   },
+   {
+    "rank": 4,
+    "name": "ARICAN Ferhat",
+    "country": "TUR",
+    "score": 13.2,
+    "q_rank": 4,
+    "q_score": 13.65
+   },
+   {
+    "rank": 5,
+    "name": "DIALLO Thierno",
+    "country": "ESP",
+    "score": 12.9,
+    "q_rank": 3,
+    "q_score": 13.8
+   },
+   {
+    "rank": 6,
+    "name": "LIUBIMOV Ilia",
+    "country": "ISR",
+    "score": 12.7,
+    "q_rank": 7,
+    "q_score": 12.5
+   },
+   {
+    "rank": 7,
+    "name": "SMITH Kiplin",
+    "country": "AUS",
+    "score": 12.2,
+    "q_rank": 8,
+    "q_score": 12.2
+   },
+   {
+    "rank": 8,
+    "name": "DYRMISHI Xheni",
+    "country": "AUT",
+    "score": 12.2,
+    "q_rank": 6,
+    "q_score": 13.35
+   },
+   {
+    "rank": null,
+    "name": "FRICK Aiden",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 12.2
+   },
+   {
+    "rank": null,
+    "name": "TOMCSANYI Benedek",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 12.2
+   },
+   {
+    "rank": null,
+    "name": "ABAD Nestor",
+    "country": "ESP",
+    "score": null,
+    "q_rank": 11,
+    "q_score": 12
+   },
+   {
+    "rank": null,
+    "name": "KUNZ Alexander",
+    "country": "GER",
+    "score": null,
+    "q_rank": 12,
+    "q_score": 11.6
+   },
+   {
+    "rank": null,
+    "name": "RUDY Ricardo",
+    "country": "AUT",
+    "score": null,
+    "q_rank": 13,
+    "q_score": 10.9
+   },
+   {
+    "rank": null,
+    "name": "LYNN Cameron",
+    "country": "GBR",
+    "score": null,
+    "q_rank": 14,
+    "q_score": 10.15
+   }
+  ],
+  "Still Rings": [
+   {
+    "rank": 1,
+    "name": "HOECK Vinzenz",
+    "country": "AUT",
+    "score": 14.6,
+    "q_rank": 1,
+    "q_score": 14.45
+   },
+   {
+    "rank": 2,
+    "name": "ABAD Nestor",
+    "country": "ESP",
+    "score": 14,
+    "q_rank": 2,
+    "q_score": 14.05
+   },
+   {
+    "rank": 3,
+    "name": "PERILLO Zachary",
+    "country": "AUS",
+    "score": 13.65,
+    "q_rank": 7,
+    "q_score": 13.1
+   },
+   {
+    "rank": 4,
+    "name": "KISS Balazs",
+    "country": "HUN",
+    "score": 13.25,
+    "q_rank": 5,
+    "q_score": 13.2
+   },
+   {
+    "rank": 5,
+    "name": "KUNZ Alexander",
+    "country": "GER",
+    "score": 13,
+    "q_rank": 4,
+    "q_score": 13.25
+   },
+   {
+    "rank": 6,
+    "name": "GULIDOV Pavel",
+    "country": "ISR",
+    "score": 13,
+    "q_rank": 3,
+    "q_score": 13.5
+   },
+   {
+    "rank": 7,
+    "name": "DIALLO Thierno",
+    "country": "ESP",
+    "score": 12.85,
+    "q_rank": 6,
+    "q_score": 13.1
+   },
+   {
+    "rank": 8,
+    "name": "FRICK Aiden",
+    "country": "AUS",
+    "score": 11.95,
+    "q_rank": 8,
+    "q_score": 12.55
+   },
+   {
+    "rank": null,
+    "name": "ZEIDEL Uri",
+    "country": "ISR",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 12.4
+   },
+   {
+    "rank": null,
+    "name": "ZANDER Daniel",
+    "country": "AUT",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 12.3
+   },
+   {
+    "rank": null,
+    "name": "MESZAROS Krisztofer",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 11,
+    "q_score": 11.85
+   }
+  ],
+  "Vault": [
+   {
+    "rank": 1,
+    "name": "MESZAROS Krisztofer",
+    "country": "HUN",
+    "score": 13.75,
+    "q_rank": 3,
+    "q_score": 13.6
+   },
+   {
+    "rank": 2,
+    "name": "MOLNAR Botond",
+    "country": "HUN",
+    "score": 13.725,
+    "q_rank": 2,
+    "q_score": 14
+   },
+   {
+    "rank": 3,
+    "name": "GULIDOV Pavel",
+    "country": "ISR",
+    "score": 13.7,
+    "q_rank": 1,
+    "q_score": 14.2
+   },
+   {
+    "rank": 4,
+    "name": "IOSCOVICH Eliran",
+    "country": "ISR",
+    "score": 13.575,
+    "q_rank": 5,
+    "q_score": 13.425
+   },
+   {
+    "rank": 5,
+    "name": "MCGILLIVRAY Conor",
+    "country": "AUS",
+    "score": 13.525,
+    "q_rank": 4,
+    "q_score": 13.475
+   },
+   {
+    "rank": 6,
+    "name": "LEE Man Hin Frankie",
+    "country": "HKG",
+    "score": 13.5,
+    "q_rank": 8,
+    "q_score": 13.175
+   },
+   {
+    "rank": 7,
+    "name": "MIR Nicolau",
+    "country": "ESP",
+    "score": 13.475,
+    "q_rank": 6,
+    "q_score": 13.275
+   },
+   {
+    "rank": 8,
+    "name": "JIM Man Hin",
+    "country": "HKG",
+    "score": 7.025,
+    "q_rank": 7,
+    "q_score": 13.175
+   },
+   {
+    "rank": null,
+    "name": "MOSTOWFI Sam",
+    "country": "GBR",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 13.1
+   },
+   {
+    "rank": null,
+    "name": "KUNZ Alexander",
+    "country": "GER",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 13.05
+   },
+   {
+    "rank": null,
+    "name": "SMITH Kiplin",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 11,
+    "q_score": 12.9
+   }
+  ],
+  "Parallel Bars": [
+   {
+    "rank": 1,
+    "name": "ONDER Ahmet",
+    "country": "TUR",
+    "score": 14.35,
+    "q_rank": 8,
+    "q_score": 13.4
+   },
+   {
+    "rank": 2,
+    "name": "MESZAROS Krisztofer",
+    "country": "HUN",
+    "score": 14.2,
+    "q_rank": 2,
+    "q_score": 14.15
+   },
+   {
+    "rank": 3,
+    "name": "DIALLO Thierno",
+    "country": "ESP",
+    "score": 14.15,
+    "q_rank": 7,
+    "q_score": 13.6
+   },
+   {
+    "rank": 4,
+    "name": "TREBING Glenn",
+    "country": "GER",
+    "score": 14,
+    "q_rank": 3,
+    "q_score": 14.1
+   },
+   {
+    "rank": 5,
+    "name": "ARICAN Ferhat",
+    "country": "TUR",
+    "score": 13.6,
+    "q_rank": 1,
+    "q_score": 15.1
+   },
+   {
+    "rank": 6,
+    "name": "GULIDOV Pavel",
+    "country": "ISR",
+    "score": 13.5,
+    "q_rank": 5,
+    "q_score": 13.6
+   },
+   {
+    "rank": 7,
+    "name": "ZEIDEL Uri",
+    "country": "ISR",
+    "score": 13.2,
+    "q_rank": 4,
+    "q_score": 13.8
+   },
+   {
+    "rank": 8,
+    "name": "MORGANS Mitchell",
+    "country": "AUS",
+    "score": 12.6,
+    "q_rank": 6,
+    "q_score": 13.6
+   },
+   {
+    "rank": null,
+    "name": "KUNZ Alexander",
+    "country": "GER",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 13.35
+   },
+   {
+    "rank": null,
+    "name": "LYNN Cameron",
+    "country": "GBR",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 13.05
+   },
+   {
+    "rank": null,
+    "name": "FRICK Aiden",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 11,
+    "q_score": 12.8
+   },
+   {
+    "rank": null,
+    "name": "MIR Nicolau",
+    "country": "ESP",
+    "score": null,
+    "q_rank": 12,
+    "q_score": 11.95
+   }
+  ],
+  "Horizontal Bar": [
+   {
+    "rank": 1,
+    "name": "ABAD Nestor",
+    "country": "ESP",
+    "score": 13.8,
+    "q_rank": 1,
+    "q_score": 13.65
+   },
+   {
+    "rank": 2,
+    "name": "MYAKININ Alexander",
+    "country": "ISR",
+    "score": 13.6,
+    "q_rank": 2,
+    "q_score": 13.35
+   },
+   {
+    "rank": 3,
+    "name": "TREBING Glenn",
+    "country": "GER",
+    "score": 13.4,
+    "q_rank": 3,
+    "q_score": 13
+   },
+   {
+    "rank": 4,
+    "name": "MESZAROS Krisztofer",
+    "country": "HUN",
+    "score": 13.25,
+    "q_rank": 4,
+    "q_score": 12.5
+   },
+   {
+    "rank": 5,
+    "name": "DIALLO Thierno",
+    "country": "ESP",
+    "score": 13.15,
+    "q_rank": 5,
+    "q_score": 12.45
+   },
+   {
+    "rank": 6,
+    "name": "LYNN Cameron",
+    "country": "GBR",
+    "score": 12.85,
+    "q_rank": 8,
+    "q_score": 11.35
+   },
+   {
+    "rank": 7,
+    "name": "LIUBIMOV Ilia",
+    "country": "ISR",
+    "score": 12.6,
+    "q_rank": 6,
+    "q_score": 11.75
+   },
+   {
+    "rank": 8,
+    "name": "KUNZ Alexander",
+    "country": "GER",
+    "score": 11.45,
+    "q_rank": 7,
+    "q_score": 11.55
+   },
+   {
+    "rank": null,
+    "name": "KISS Balazs",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 11.3
+   },
+   {
+    "rank": null,
+    "name": "ONDER Ahmet",
+    "country": "TUR",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 11.25
+   },
+   {
+    "rank": null,
+    "name": "MORGANS Mitchell",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 11,
+    "q_score": 10.85
+   },
+   {
+    "rank": null,
+    "name": "MOSTOWFI Sam",
+    "country": "GBR",
+    "score": null,
+    "q_rank": 12,
+    "q_score": 10.4
+   },
+   {
+    "rank": null,
+    "name": "SMITH Kiplin",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 13,
+    "q_score": 9.8
+   }
+  ]
+ }
+}

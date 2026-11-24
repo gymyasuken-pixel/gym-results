@@ -1,0 +1,532 @@
+{
+ "Senior": {
+  "All-Around": [
+   {
+    "rank": 1,
+    "name": "MOLDAUER Yul",
+    "country": "USA",
+    "score": 84.2,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 2,
+    "name": "WISKUS Shane",
+    "country": "USA",
+    "score": 82.8,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 3,
+    "name": "GUIMARAES Yuri",
+    "country": "BRA",
+    "score": 81.566,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 4,
+    "name": "MARTINEZ MORENO Andres",
+    "country": "COL",
+    "score": 79,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 5,
+    "name": "NUNEZ Isaac",
+    "country": "MEX",
+    "score": 78.301,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 6,
+    "name": "ALVAREZ Joel",
+    "country": "CHI",
+    "score": 78.2,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 7,
+    "name": "EMARD William",
+    "country": "CAN",
+    "score": 77.867,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 8,
+    "name": "PEREZ GINES Andres Josue",
+    "country": "PUR",
+    "score": 77.567,
+    "q_rank": null,
+    "q_score": null
+   }
+  ],
+  "Floor Exercise": [
+   {
+    "rank": 1,
+    "name": "MOLDAUER Yul",
+    "country": "USA",
+    "score": 14.5,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 2,
+    "name": "GUIMARAES Yuri",
+    "country": "BRA",
+    "score": 14.433,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 3,
+    "name": "WISKUS Shane",
+    "country": "USA",
+    "score": 14.2,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 4,
+    "name": "EMARD William",
+    "country": "CAN",
+    "score": 14,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 5,
+    "name": "VEGA LOPEZ Jorge",
+    "country": "GUA",
+    "score": 13.967,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 6,
+    "name": "SAMPAIO Patrick",
+    "country": "BRA",
+    "score": 13.8,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 7,
+    "name": "ESCOBAR Diorges",
+    "country": "CUB",
+    "score": 13.767,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 8,
+    "name": "GOMEZ Rodrigo",
+    "country": "MEX",
+    "score": 13.733,
+    "q_rank": null,
+    "q_score": null
+   }
+  ],
+  "Pommel Horse": [
+   {
+    "rank": 1,
+    "name": "YOUNG Khoi",
+    "country": "USA",
+    "score": 14.3,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 2,
+    "name": "GUILBE MORALES Nelson Alberto",
+    "country": "PUR",
+    "score": 13.5,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 3,
+    "name": "MOLDAUER Yul",
+    "country": "USA",
+    "score": 13.367,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 4,
+    "name": "WAHRMANN-BAKER Elel",
+    "country": "JAM",
+    "score": 13.067,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 5,
+    "name": "GUIMARAES Yuri",
+    "country": "BRA",
+    "score": 12.933,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 6,
+    "name": "MARTINEZ MORENO Andres",
+    "country": "COL",
+    "score": 12.833,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 7,
+    "name": "ALFIERI Luca",
+    "country": "ARG",
+    "score": 12.767,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 8,
+    "name": "GOMEZ Rodrigo",
+    "country": "MEX",
+    "score": 12.633,
+    "q_rank": null,
+    "q_score": null
+   }
+  ],
+  "Still Rings": [
+   {
+    "rank": 1,
+    "name": "VILLAFANE Daniel",
+    "country": "ARG",
+    "score": 14.133,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 2,
+    "name": "EMARD William",
+    "country": "CAN",
+    "score": 13.933,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 3,
+    "name": "DE LA CRUZ Alejandro",
+    "country": "CUB",
+    "score": 13.833,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 4,
+    "name": "MOLDAUER Yul",
+    "country": "USA",
+    "score": 13.733,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 5,
+    "name": "DOLCI Felix",
+    "country": "CAN",
+    "score": 13.667,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 6,
+    "name": "WISKUS Shane",
+    "country": "USA",
+    "score": 13.667,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 7,
+    "name": "BOHORQUEZ Kristopher",
+    "country": "COL",
+    "score": 13.567,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 8,
+    "name": "DE LUNA Fabian",
+    "country": "MEX",
+    "score": 13.5,
+    "q_rank": null,
+    "q_score": null
+   }
+  ],
+  "Vault": [
+   {
+    "rank": 1,
+    "name": "GUIMARAES Yuri",
+    "country": "BRA",
+    "score": 14.3,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 2,
+    "name": "VARAS Ignacio",
+    "country": "CHI",
+    "score": 14.284,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 3,
+    "name": "PENA Leandro",
+    "country": "DOM",
+    "score": 13.933,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 4,
+    "name": "VEGA LOPEZ Jorge",
+    "country": "GUA",
+    "score": 13.9,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 5,
+    "name": "DE LA CRUZ Alejandro",
+    "country": "CUB",
+    "score": 13.866,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 6,
+    "name": "DE LUNA Fabian",
+    "country": "MEX",
+    "score": 13.65,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 7,
+    "name": "SAUVE Leandre",
+    "country": "CAN",
+    "score": 13.65,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 8,
+    "name": "ARMIJO Josue",
+    "country": "CHI",
+    "score": 13.617,
+    "q_rank": null,
+    "q_score": null
+   }
+  ],
+  "Parallel Bars": [
+   {
+    "rank": 1,
+    "name": "MOLDAUER Yul",
+    "country": "USA",
+    "score": 14.567,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 2,
+    "name": "WISKUS Shane",
+    "country": "USA",
+    "score": 14.1,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 3,
+    "name": "JIMENEZ GIRALDO Dilan",
+    "country": "COL",
+    "score": 13.867,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 4,
+    "name": "EMARD William",
+    "country": "CAN",
+    "score": 13.767,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 5,
+    "name": "DOLCI Felix",
+    "country": "CAN",
+    "score": 13.733,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 6,
+    "name": "JUAREZ Josue",
+    "country": "MEX",
+    "score": 13.7,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 7,
+    "name": "NUNEZ Isaac",
+    "country": "MEX",
+    "score": 13.667,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 8,
+    "name": "GUIMARAES Yuri",
+    "country": "BRA",
+    "score": 13.6,
+    "q_rank": null,
+    "q_score": null
+   }
+  ],
+  "Horizontal Bar": [
+   {
+    "rank": 1,
+    "name": "PHILLIPS Curran",
+    "country": "USA",
+    "score": 13.833,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 2,
+    "name": "MOLDAUER Yul",
+    "country": "USA",
+    "score": 13.6,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 3,
+    "name": "LETELIER Luciano",
+    "country": "CHI",
+    "score": 13.5,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 4,
+    "name": "ESCOBAR Diorges",
+    "country": "CUB",
+    "score": 13.4,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 5,
+    "name": "NUNEZ Isaac",
+    "country": "MEX",
+    "score": 13.367,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 5,
+    "name": "ESCANDON Jose Carlos",
+    "country": "CUB",
+    "score": 13.367,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 7,
+    "name": "ALVAREZ Joel",
+    "country": "CHI",
+    "score": 13.267,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 8,
+    "name": "MIRANDA Bernardo",
+    "country": "BRA",
+    "score": 13.233,
+    "q_rank": null,
+    "q_score": null
+   }
+  ],
+  "Team": [
+   {
+    "rank": 1,
+    "name": "",
+    "country": "USA",
+    "score": 247.499,
+    "q_rank": 1,
+    "q_score": 250.032
+   },
+   {
+    "rank": 2,
+    "name": "",
+    "country": "CAN",
+    "score": 238.599,
+    "q_rank": 4,
+    "q_score": 233.834
+   },
+   {
+    "rank": 3,
+    "name": "",
+    "country": "BRA",
+    "score": 234.901,
+    "q_rank": 2,
+    "q_score": 236.799
+   },
+   {
+    "rank": 4,
+    "name": "",
+    "country": "COL",
+    "score": 234.1,
+    "q_rank": 3,
+    "q_score": 233.899
+   },
+   {
+    "rank": 5,
+    "name": "",
+    "country": "ARG",
+    "score": 231.333,
+    "q_rank": 6,
+    "q_score": 231.667
+   },
+   {
+    "rank": 6,
+    "name": "",
+    "country": "MEX",
+    "score": 228.935,
+    "q_rank": 5,
+    "q_score": 232.867
+   },
+   {
+    "rank": 7,
+    "name": "",
+    "country": "CUB",
+    "score": 228.366,
+    "q_rank": 7,
+    "q_score": 228.5
+   },
+   {
+    "rank": 8,
+    "name": "",
+    "country": "PUR",
+    "score": 206.933,
+    "q_rank": 8,
+    "q_score": 227.467
+   }
+  ]
+ }
+}

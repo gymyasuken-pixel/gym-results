@@ -1,0 +1,86 @@
+{
+ "Senior": {
+  "All-Around": [
+   {
+    "rank": 1,
+    "name": "KOUDINOV Mikhail",
+    "country": "NZL",
+    "score": 80.766,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 2,
+    "name": "MASON STEPHENS Clay",
+    "country": "AUS",
+    "score": 77.998,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 3,
+    "name": "HARDY James",
+    "country": "AUS",
+    "score": 77.531,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 4,
+    "name": "DICK Ethan",
+    "country": "NZL",
+    "score": 77.198,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 5,
+    "name": "DICK Samuel",
+    "country": "NZL",
+    "score": 72.631,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 6,
+    "name": "THORPE Heath",
+    "country": "AUS",
+    "score": 65.364,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 7,
+    "name": "FU-ALLEN William",
+    "country": "NZL",
+    "score": 50.499,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 8,
+    "name": "TANNER David",
+    "country": "AUS",
+    "score": 47.565,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 9,
+    "name": "MORGANS Mitchell",
+    "country": "AUS",
+    "score": 26.233,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 10,
+    "name": "STODDART Daniel",
+    "country": "NZL",
+    "score": 25.633,
+    "q_rank": null,
+    "q_score": null
+   }
+  ]
+ }
+}

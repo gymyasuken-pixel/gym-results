@@ -1,0 +1,1162 @@
+{
+ "Junior": {
+  "All-Around": [
+   {
+    "rank": null,
+    "name": "KIS Dominik",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 1,
+    "q_score": 74.75
+   },
+   {
+    "rank": null,
+    "name": "LE KHAC Tomasz",
+    "country": "POL",
+    "score": null,
+    "q_rank": 2,
+    "q_score": 73.75
+   },
+   {
+    "rank": null,
+    "name": "PATAKI Oliver",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 3,
+    "q_score": 72.5
+   },
+   {
+    "rank": null,
+    "name": "PELI Dominik",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 4,
+    "q_score": 72.1
+   },
+   {
+    "rank": null,
+    "name": "SAROSI Peter",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 5,
+    "q_score": 69.35
+   },
+   {
+    "rank": null,
+    "name": "LUDANYI Levente Laszlo",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 6,
+    "q_score": 69.2
+   },
+   {
+    "rank": null,
+    "name": "LUKACS Gabor",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 7,
+    "q_score": 68.7
+   },
+   {
+    "rank": null,
+    "name": "DARUKA Noel Viktor",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 8,
+    "q_score": 68.65
+   },
+   {
+    "rank": null,
+    "name": "DOCS Balazs",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 67.8
+   },
+   {
+    "rank": null,
+    "name": "SZONTAGH Almos Zsigmond",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 65.9
+   },
+   {
+    "rank": null,
+    "name": "KIRN Gasper",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 11,
+    "q_score": 65.3
+   },
+   {
+    "rank": null,
+    "name": "SLIWINSKI Jakub",
+    "country": "POL",
+    "score": null,
+    "q_rank": 12,
+    "q_score": 64.9
+   },
+   {
+    "rank": null,
+    "name": "KOPERSKI Filip",
+    "country": "POL",
+    "score": null,
+    "q_rank": 13,
+    "q_score": 63.6
+   },
+   {
+    "rank": null,
+    "name": "TOTH Nimrod",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 14,
+    "q_score": 62.4
+   },
+   {
+    "rank": null,
+    "name": "SAS Nandor",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 15,
+    "q_score": 46.95
+   },
+   {
+    "rank": null,
+    "name": "STERNAD HITER Timon",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 16,
+    "q_score": 25.15
+   },
+   {
+    "rank": null,
+    "name": "LUKACIC Nik",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 17,
+    "q_score": 23.35
+   },
+   {
+    "rank": null,
+    "name": "BIZJAN Max",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 18,
+    "q_score": 22.4
+   },
+   {
+    "rank": null,
+    "name": "NEVESCANIN Niko",
+    "country": "CRO",
+    "score": null,
+    "q_rank": 19,
+    "q_score": 22.1
+   },
+   {
+    "rank": null,
+    "name": "PERESTEGI Filip",
+    "country": "CRO",
+    "score": null,
+    "q_rank": 20,
+    "q_score": 12.6
+   },
+   {
+    "rank": null,
+    "name": "KAVNIK Filip",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 21,
+    "q_score": 12.55
+   },
+   {
+    "rank": null,
+    "name": "KOPAC Vid",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 22,
+    "q_score": 12.55
+   },
+   {
+    "rank": null,
+    "name": "BANKI Mark",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 23,
+    "q_score": 11.35
+   }
+  ],
+  "Floor Exercise": [
+   {
+    "rank": null,
+    "name": "PELI Dominik",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 1,
+    "q_score": 12.6
+   },
+   {
+    "rank": null,
+    "name": "PERESTEGI Filip",
+    "country": "CRO",
+    "score": null,
+    "q_rank": 2,
+    "q_score": 12.6
+   },
+   {
+    "rank": null,
+    "name": "KOPAC Vid",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 3,
+    "q_score": 12.55
+   },
+   {
+    "rank": null,
+    "name": "KAVNIK Filip",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 4,
+    "q_score": 12.55
+   },
+   {
+    "rank": null,
+    "name": "PATAKI Oliver",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 5,
+    "q_score": 12.4
+   },
+   {
+    "rank": null,
+    "name": "SAROSI Peter",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 6,
+    "q_score": 12.25
+   },
+   {
+    "rank": null,
+    "name": "KIS Dominik",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 7,
+    "q_score": 12.15
+   },
+   {
+    "rank": null,
+    "name": "DOCS Balazs",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 8,
+    "q_score": 11.9
+   },
+   {
+    "rank": null,
+    "name": "KIRN Gasper",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 11.9
+   },
+   {
+    "rank": null,
+    "name": "LUDANYI Levente Laszlo",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 11.85
+   },
+   {
+    "rank": null,
+    "name": "LUKACS Gabor",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 11,
+    "q_score": 11.5
+   },
+   {
+    "rank": null,
+    "name": "DARUKA Noel Viktor",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 12,
+    "q_score": 11.45
+   },
+   {
+    "rank": null,
+    "name": "LE KHAC Tomasz",
+    "country": "POL",
+    "score": null,
+    "q_rank": 13,
+    "q_score": 11.35
+   },
+   {
+    "rank": null,
+    "name": "SZONTAGH Almos Zsigmond",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 14,
+    "q_score": 11.2
+   },
+   {
+    "rank": null,
+    "name": "SLIWINSKI Jakub",
+    "country": "POL",
+    "score": null,
+    "q_rank": 15,
+    "q_score": 10.75
+   },
+   {
+    "rank": null,
+    "name": "KOPERSKI Filip",
+    "country": "POL",
+    "score": null,
+    "q_rank": 16,
+    "q_score": 10.6
+   },
+   {
+    "rank": null,
+    "name": "TOTH Nimrod",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 17,
+    "q_score": 10.4
+   },
+   {
+    "rank": null,
+    "name": "NEVESCANIN Niko",
+    "country": "CRO",
+    "score": null,
+    "q_rank": 18,
+    "q_score": 10.3
+   }
+  ],
+  "Pommel Horse": [
+   {
+    "rank": null,
+    "name": "STERNAD HITER Timon",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 1,
+    "q_score": 13.05
+   },
+   {
+    "rank": null,
+    "name": "LE KHAC Tomasz",
+    "country": "POL",
+    "score": null,
+    "q_rank": 2,
+    "q_score": 13
+   },
+   {
+    "rank": null,
+    "name": "PELI Dominik",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 3,
+    "q_score": 12.6
+   },
+   {
+    "rank": null,
+    "name": "KIS Dominik",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 4,
+    "q_score": 12.5
+   },
+   {
+    "rank": null,
+    "name": "LUKACIC Nik",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 5,
+    "q_score": 12.05
+   },
+   {
+    "rank": null,
+    "name": "SAS Nandor",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 6,
+    "q_score": 12
+   },
+   {
+    "rank": null,
+    "name": "DOCS Balazs",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 7,
+    "q_score": 11.75
+   },
+   {
+    "rank": null,
+    "name": "LUDANYI Levente Laszlo",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 8,
+    "q_score": 11.65
+   },
+   {
+    "rank": null,
+    "name": "SAROSI Peter",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 11.55
+   },
+   {
+    "rank": null,
+    "name": "BANKI Mark",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 11.35
+   },
+   {
+    "rank": null,
+    "name": "SZONTAGH Almos Zsigmond",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 11,
+    "q_score": 11.2
+   },
+   {
+    "rank": null,
+    "name": "PATAKI Oliver",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 12,
+    "q_score": 11.05
+   },
+   {
+    "rank": null,
+    "name": "SLIWINSKI Jakub",
+    "country": "POL",
+    "score": null,
+    "q_rank": 13,
+    "q_score": 11
+   },
+   {
+    "rank": null,
+    "name": "LUKACS Gabor",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 14,
+    "q_score": 10.35
+   },
+   {
+    "rank": null,
+    "name": "TOTH Nimrod",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 15,
+    "q_score": 9.55
+   },
+   {
+    "rank": null,
+    "name": "DARUKA Noel Viktor",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 16,
+    "q_score": 9
+   },
+   {
+    "rank": null,
+    "name": "KOPERSKI Filip",
+    "country": "POL",
+    "score": null,
+    "q_rank": 17,
+    "q_score": 8.7
+   },
+   {
+    "rank": null,
+    "name": "KIRN Gasper",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 18,
+    "q_score": 8.05
+   }
+  ],
+  "Still Rings": [
+   {
+    "rank": null,
+    "name": "KIS Dominik",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 1,
+    "q_score": 12.8
+   },
+   {
+    "rank": null,
+    "name": "PATAKI Oliver",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 2,
+    "q_score": 12.55
+   },
+   {
+    "rank": null,
+    "name": "PELI Dominik",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 3,
+    "q_score": 12.05
+   },
+   {
+    "rank": null,
+    "name": "LUKACS Gabor",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 4,
+    "q_score": 12.05
+   },
+   {
+    "rank": null,
+    "name": "KOPERSKI Filip",
+    "country": "POL",
+    "score": null,
+    "q_rank": 5,
+    "q_score": 12
+   },
+   {
+    "rank": null,
+    "name": "KIRN Gasper",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 6,
+    "q_score": 11.95
+   },
+   {
+    "rank": null,
+    "name": "SAROSI Peter",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 7,
+    "q_score": 11.9
+   },
+   {
+    "rank": null,
+    "name": "DARUKA Noel Viktor",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 8,
+    "q_score": 11.85
+   },
+   {
+    "rank": null,
+    "name": "LE KHAC Tomasz",
+    "country": "POL",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 11.85
+   },
+   {
+    "rank": null,
+    "name": "BIZJAN Max",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 11.65
+   },
+   {
+    "rank": null,
+    "name": "LUDANYI Levente Laszlo",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 11,
+    "q_score": 11.65
+   },
+   {
+    "rank": null,
+    "name": "SAS Nandor",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 12,
+    "q_score": 11.65
+   },
+   {
+    "rank": null,
+    "name": "LUKACIC Nik",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 13,
+    "q_score": 11.3
+   },
+   {
+    "rank": null,
+    "name": "DOCS Balazs",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 14,
+    "q_score": 11.15
+   },
+   {
+    "rank": null,
+    "name": "SZONTAGH Almos Zsigmond",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 15,
+    "q_score": 11.05
+   },
+   {
+    "rank": null,
+    "name": "SLIWINSKI Jakub",
+    "country": "POL",
+    "score": null,
+    "q_rank": 16,
+    "q_score": 10.95
+   },
+   {
+    "rank": null,
+    "name": "TOTH Nimrod",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 17,
+    "q_score": 10.8
+   }
+  ],
+  "Vault": [
+   {
+    "rank": null,
+    "name": "KIS Dominik",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 1,
+    "q_score": 13.125
+   },
+   {
+    "rank": null,
+    "name": "PATAKI Oliver",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 2,
+    "q_score": 12.375
+   },
+   {
+    "rank": null,
+    "name": "DARUKA Noel Viktor",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 3,
+    "q_score": 12.175
+   },
+   {
+    "rank": null,
+    "name": "LE KHAC Tomasz",
+    "country": "POL",
+    "score": null,
+    "q_rank": 3,
+    "q_score": 12.275
+   },
+   {
+    "rank": null,
+    "name": "KOPERSKI Filip",
+    "country": "POL",
+    "score": null,
+    "q_rank": 5,
+    "q_score": 12.075
+   },
+   {
+    "rank": null,
+    "name": "PELI Dominik",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 6,
+    "q_score": 11.975
+   }
+  ],
+  "Parallel Bars": [
+   {
+    "rank": null,
+    "name": "LE KHAC Tomasz",
+    "country": "POL",
+    "score": null,
+    "q_rank": 1,
+    "q_score": 12.8
+   },
+   {
+    "rank": null,
+    "name": "KIS Dominik",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 2,
+    "q_score": 12.75
+   },
+   {
+    "rank": null,
+    "name": "SAROSI Peter",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 3,
+    "q_score": 12.55
+   },
+   {
+    "rank": null,
+    "name": "PELI Dominik",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 4,
+    "q_score": 12.2
+   },
+   {
+    "rank": null,
+    "name": "LUDANYI Levente Laszlo",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 5,
+    "q_score": 12.15
+   },
+   {
+    "rank": null,
+    "name": "KOPERSKI Filip",
+    "country": "POL",
+    "score": null,
+    "q_rank": 6,
+    "q_score": 11.85
+   },
+   {
+    "rank": null,
+    "name": "PATAKI Oliver",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 6,
+    "q_score": 11.85
+   },
+   {
+    "rank": null,
+    "name": "DOCS Balazs",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 8,
+    "q_score": 11.65
+   },
+   {
+    "rank": null,
+    "name": "SAS Nandor",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 11.65
+   },
+   {
+    "rank": null,
+    "name": "LUKACS Gabor",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 11.55
+   },
+   {
+    "rank": null,
+    "name": "DARUKA Noel Viktor",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 11,
+    "q_score": 11.3
+   },
+   {
+    "rank": null,
+    "name": "TOTH Nimrod",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 12,
+    "q_score": 11.05
+   },
+   {
+    "rank": null,
+    "name": "KIRN Gasper",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 13,
+    "q_score": 11
+   },
+   {
+    "rank": null,
+    "name": "BIZJAN Max",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 14,
+    "q_score": 10.75
+   },
+   {
+    "rank": null,
+    "name": "SZONTAGH Almos Zsigmond",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 15,
+    "q_score": 10.7
+   },
+   {
+    "rank": null,
+    "name": "SLIWINSKI Jakub",
+    "country": "POL",
+    "score": null,
+    "q_rank": 16,
+    "q_score": 10.5
+   }
+  ],
+  "Horizontal Bar": [
+   {
+    "rank": null,
+    "name": "DARUKA Noel Viktor",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 1,
+    "q_score": 12.3
+   },
+   {
+    "rank": null,
+    "name": "STERNAD HITER Timon",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 2,
+    "q_score": 12.1
+   },
+   {
+    "rank": null,
+    "name": "LE KHAC Tomasz",
+    "country": "POL",
+    "score": null,
+    "q_rank": 3,
+    "q_score": 11.9
+   },
+   {
+    "rank": null,
+    "name": "NEVESCANIN Niko",
+    "country": "CRO",
+    "score": null,
+    "q_rank": 4,
+    "q_score": 11.8
+   },
+   {
+    "rank": null,
+    "name": "SAS Nandor",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 5,
+    "q_score": 11.65
+   },
+   {
+    "rank": null,
+    "name": "PATAKI Oliver",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 6,
+    "q_score": 11.6
+   },
+   {
+    "rank": null,
+    "name": "LUKACS Gabor",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 7,
+    "q_score": 11.3
+   },
+   {
+    "rank": null,
+    "name": "SAROSI Peter",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 8,
+    "q_score": 11
+   },
+   {
+    "rank": null,
+    "name": "SZONTAGH Almos Zsigmond",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 10.85
+   },
+   {
+    "rank": null,
+    "name": "SLIWINSKI Jakub",
+    "country": "POL",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 10.8
+   },
+   {
+    "rank": null,
+    "name": "KIS Dominik",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 11,
+    "q_score": 10.65
+   },
+   {
+    "rank": null,
+    "name": "PELI Dominik",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 12,
+    "q_score": 10.4
+   },
+   {
+    "rank": null,
+    "name": "LUDANYI Levente Laszlo",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 13,
+    "q_score": 10.15
+   },
+   {
+    "rank": null,
+    "name": "KIRN Gasper",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 13,
+    "q_score": 10.15
+   },
+   {
+    "rank": null,
+    "name": "DOCS Balazs",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 15,
+    "q_score": 9.65
+   },
+   {
+    "rank": null,
+    "name": "TOTH Nimrod",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 16,
+    "q_score": 9.6
+   },
+   {
+    "rank": null,
+    "name": "KOPERSKI Filip",
+    "country": "POL",
+    "score": null,
+    "q_rank": 17,
+    "q_score": 8.25
+   }
+  ]
+ },
+ "Senior": {
+  "All-Around": [
+   {
+    "rank": null,
+    "name": "CHRUSCIEL Szymon",
+    "country": "POL",
+    "score": null,
+    "q_rank": 1,
+    "q_score": 69.45
+   },
+   {
+    "rank": null,
+    "name": "ZAGONYI Gergo",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 2,
+    "q_score": 60
+   },
+   {
+    "rank": null,
+    "name": "SZYMCZYK Radoslaw",
+    "country": "POL",
+    "score": null,
+    "q_rank": 3,
+    "q_score": 34.45
+   },
+   {
+    "rank": null,
+    "name": "BOZIC Nikolaj",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 4,
+    "q_score": 11.9
+   },
+   {
+    "rank": null,
+    "name": "RAKOVIC Gregor",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 5,
+    "q_score": 11.45
+   },
+   {
+    "rank": null,
+    "name": "TURK Gregor",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 6,
+    "q_score": 10.35
+   },
+   {
+    "rank": null,
+    "name": "KASTELIC Toni",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 7,
+    "q_score": 10.25
+   }
+  ],
+  "Floor Exercise": [
+   {
+    "rank": null,
+    "name": "BOZIC Nikolaj",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 1,
+    "q_score": 11.9
+   },
+   {
+    "rank": null,
+    "name": "CHRUSCIEL Szymon",
+    "country": "POL",
+    "score": null,
+    "q_rank": 2,
+    "q_score": 11.25
+   },
+   {
+    "rank": null,
+    "name": "TURK Gregor",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 3,
+    "q_score": 10.35
+   },
+   {
+    "rank": null,
+    "name": "SZYMCZYK Radoslaw",
+    "country": "POL",
+    "score": null,
+    "q_rank": 4,
+    "q_score": 9.8
+   },
+   {
+    "rank": null,
+    "name": "ZAGONYI Gergo",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 5,
+    "q_score": 8.1
+   }
+  ],
+  "Pommel Horse": [
+   {
+    "rank": null,
+    "name": "SZYMCZYK Radoslaw",
+    "country": "POL",
+    "score": null,
+    "q_rank": 1,
+    "q_score": 12.5
+   },
+   {
+    "rank": null,
+    "name": "RAKOVIC Gregor",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 2,
+    "q_score": 11.45
+   },
+   {
+    "rank": null,
+    "name": "CHRUSCIEL Szymon",
+    "country": "POL",
+    "score": null,
+    "q_rank": 3,
+    "q_score": 10.15
+   },
+   {
+    "rank": null,
+    "name": "ZAGONYI Gergo",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 4,
+    "q_score": 8.85
+   }
+  ],
+  "Still Rings": [
+   {
+    "rank": null,
+    "name": "CHRUSCIEL Szymon",
+    "country": "POL",
+    "score": null,
+    "q_rank": 1,
+    "q_score": 12.5
+   },
+   {
+    "rank": null,
+    "name": "ZAGONYI Gergo",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 2,
+    "q_score": 11.15
+   }
+  ],
+  "Vault": [
+   {
+    "rank": null,
+    "name": "SZYMCZYK Radoslaw",
+    "country": "POL",
+    "score": null,
+    "q_rank": 1,
+    "q_score": 12.35
+   },
+   {
+    "rank": null,
+    "name": "CHRUSCIEL Szymon",
+    "country": "POL",
+    "score": null,
+    "q_rank": 2,
+    "q_score": 12.075
+   },
+   {
+    "rank": null,
+    "name": "ZAGONYI Gergo",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 3,
+    "q_score": 11.575
+   }
+  ],
+  "Parallel Bars": [
+   {
+    "rank": null,
+    "name": "CHRUSCIEL Szymon",
+    "country": "POL",
+    "score": null,
+    "q_rank": 1,
+    "q_score": 12
+   },
+   {
+    "rank": null,
+    "name": "ZAGONYI Gergo",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 2,
+    "q_score": 11.15
+   }
+  ],
+  "Horizontal Bar": [
+   {
+    "rank": null,
+    "name": "CHRUSCIEL Szymon",
+    "country": "POL",
+    "score": null,
+    "q_rank": 1,
+    "q_score": 11.15
+   },
+   {
+    "rank": null,
+    "name": "KASTELIC Toni",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 2,
+    "q_score": 10.25
+   },
+   {
+    "rank": null,
+    "name": "ZAGONYI Gergo",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 3,
+    "q_score": 8.15
+   }
+  ]
+ }
+}

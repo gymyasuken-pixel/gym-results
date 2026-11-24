@@ -1,0 +1,7012 @@
+{
+ "Senior": {
+  "All-Around": [
+   {
+    "rank": 1,
+    "name": "HASHIMOTO Daiki",
+    "country": "JPN",
+    "score": 85.998,
+    "q_rank": 2,
+    "q_score": 84.632
+   },
+   {
+    "rank": 2,
+    "name": "YANG Haonan",
+    "country": "CHN",
+    "score": 84.199,
+    "q_rank": 6,
+    "q_score": 83.464
+   },
+   {
+    "rank": 3,
+    "name": "FRASER Joe",
+    "country": "GBR",
+    "score": 83.531,
+    "q_rank": 8,
+    "q_score": 83.065
+   },
+   {
+    "rank": 4,
+    "name": "MARINOV Daniel",
+    "country": "RUS",
+    "score": 83.297,
+    "q_rank": 12,
+    "q_score": 81.564
+   },
+   {
+    "rank": 5,
+    "name": "BARAJAS Angel",
+    "country": "COL",
+    "score": 83.232,
+    "q_rank": 9,
+    "q_score": 82.831
+   },
+   {
+    "rank": 6,
+    "name": "JARMAN Jake",
+    "country": "GBR",
+    "score": 82.865,
+    "q_rank": 5,
+    "q_score": 83.698
+   },
+   {
+    "rank": 7,
+    "name": "DUKHNO Arsenii",
+    "country": "RUS",
+    "score": 82.697,
+    "q_rank": 3,
+    "q_score": 83.866
+   },
+   {
+    "rank": 8,
+    "name": "OKA Shinnosuke",
+    "country": "JPN",
+    "score": 82.165,
+    "q_rank": 1,
+    "q_score": 85.098
+   },
+   {
+    "rank": 9,
+    "name": "RICHARD Frederick",
+    "country": "USA",
+    "score": 82.165,
+    "q_rank": 11,
+    "q_score": 82.098
+   },
+   {
+    "rank": 10,
+    "name": "SEIFERT Noe",
+    "country": "SUI",
+    "score": 81.198,
+    "q_rank": 15,
+    "q_score": 80.598
+   },
+   {
+    "rank": 11,
+    "name": "KOVTUN Illia",
+    "country": "CRO",
+    "score": 80.264,
+    "q_rank": 7,
+    "q_score": 83.099
+   },
+   {
+    "rank": 12,
+    "name": "LEYKIN Danila",
+    "country": "USA",
+    "score": 79.665,
+    "q_rank": 24,
+    "q_score": 78.998
+   },
+   {
+    "rank": 13,
+    "name": "ABBADINI Yumin",
+    "country": "ITA",
+    "score": 79.632,
+    "q_rank": 13,
+    "q_score": 81.065
+   },
+   {
+    "rank": 14,
+    "name": "EDER Timo",
+    "country": "GER",
+    "score": 79.632,
+    "q_rank": 26,
+    "q_score": 78.465
+   },
+   {
+    "rank": 15,
+    "name": "SAKOUHI Nael",
+    "country": "FRA",
+    "score": 79.498,
+    "q_rank": 23,
+    "q_score": 78.999
+   },
+   {
+    "rank": 16,
+    "name": "LANGENEGGER Florian",
+    "country": "SUI",
+    "score": 77.798,
+    "q_rank": 14,
+    "q_score": 80.599
+   },
+   {
+    "rank": 17,
+    "name": "MANSARD Anthony",
+    "country": "FRA",
+    "score": 77.533,
+    "q_rank": 21,
+    "q_score": 79.199
+   },
+   {
+    "rank": 18,
+    "name": "MARTINEZ Victor",
+    "country": "BEL",
+    "score": 77.465,
+    "q_rank": 22,
+    "q_score": 79.063
+   },
+   {
+    "rank": 19,
+    "name": "ZAKUTNEY Samuel",
+    "country": "CAN",
+    "score": 77.432,
+    "q_rank": 25,
+    "q_score": 78.764
+   },
+   {
+    "rank": 20,
+    "name": "FAVERUS Elijah",
+    "country": "NED",
+    "score": 76.264,
+    "q_rank": 18,
+    "q_score": 79.466
+   },
+   {
+    "rank": 21,
+    "name": "MESZAROS Krisztofer",
+    "country": "HUN",
+    "score": 75.165,
+    "q_rank": 16,
+    "q_score": 80.264
+   },
+   {
+    "rank": 22,
+    "name": "GRUENBERG Jermain",
+    "country": "NED",
+    "score": 74.697,
+    "q_rank": 27,
+    "q_score": 78.432
+   },
+   {
+    "rank": 23,
+    "name": "IDRISSOV Nurtan",
+    "country": "KAZ",
+    "score": 74.397,
+    "q_rank": 17,
+    "q_score": 79.665
+   },
+   {
+    "rank": 24,
+    "name": "VERA Camilo",
+    "country": "COL",
+    "score": 73.899,
+    "q_rank": 10,
+    "q_score": 82.764
+   },
+   {
+    "rank": null,
+    "name": "KAWAKAMI Shohei",
+    "country": "JPN",
+    "score": null,
+    "q_rank": 4,
+    "q_score": 83.699
+   },
+   {
+    "rank": null,
+    "name": "SIEEDIN Savelii",
+    "country": "RUS",
+    "score": null,
+    "q_rank": 19,
+    "q_score": 79.331
+   },
+   {
+    "rank": null,
+    "name": "GIUBELLINI Matteo",
+    "country": "SUI",
+    "score": null,
+    "q_rank": 20,
+    "q_score": 79.299
+   },
+   {
+    "rank": null,
+    "name": "SCHMIDT Casimir",
+    "country": "NED",
+    "score": null,
+    "q_rank": 28,
+    "q_score": 78.264
+   },
+   {
+    "rank": null,
+    "name": "TANG Chia-Hung",
+    "country": "TPE",
+    "score": null,
+    "q_rank": 29,
+    "q_score": 78.132
+   },
+   {
+    "rank": null,
+    "name": "WISKUS Shane",
+    "country": "USA",
+    "score": null,
+    "q_rank": 30,
+    "q_score": 78.099
+   },
+   {
+    "rank": null,
+    "name": "MACCHIATI Mario",
+    "country": "ITA",
+    "score": null,
+    "q_rank": 31,
+    "q_score": 77.965
+   },
+   {
+    "rank": null,
+    "name": "MOHAMED Omar",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 32,
+    "q_score": 77.899
+   },
+   {
+    "rank": null,
+    "name": "YOCKERS Ignacio",
+    "country": "ESP",
+    "score": null,
+    "q_rank": 33,
+    "q_score": 77.832
+   },
+   {
+    "rank": null,
+    "name": "YULO Carlos Edriel",
+    "country": "PHI",
+    "score": null,
+    "q_rank": 34,
+    "q_score": 77.631
+   },
+   {
+    "rank": null,
+    "name": "AZIZOV Ilyas",
+    "country": "KAZ",
+    "score": null,
+    "q_rank": 35,
+    "q_score": 77.631
+   },
+   {
+    "rank": null,
+    "name": "SOARES Diogo",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 36,
+    "q_score": 77.564
+   },
+   {
+    "rank": null,
+    "name": "BERKOVICH Noam",
+    "country": "ISR",
+    "score": null,
+    "q_rank": 37,
+    "q_score": 77.065
+   },
+   {
+    "rank": null,
+    "name": "COURNOYER Rene",
+    "country": "CAN",
+    "score": null,
+    "q_rank": 38,
+    "q_score": 76.964
+   },
+   {
+    "rank": null,
+    "name": "STELMAKH Radomyr",
+    "country": "GER",
+    "score": null,
+    "q_rank": 39,
+    "q_score": 76.931
+   },
+   {
+    "rank": null,
+    "name": "CUYLE Nicola",
+    "country": "BEL",
+    "score": null,
+    "q_rank": 40,
+    "q_score": 76.765
+   },
+   {
+    "rank": null,
+    "name": "HRYKO Vladyslav",
+    "country": "UKR",
+    "score": null,
+    "q_rank": 41,
+    "q_score": 76.732
+   },
+   {
+    "rank": null,
+    "name": "MIR Nicolau",
+    "country": "ESP",
+    "score": null,
+    "q_rank": 42,
+    "q_score": 76.699
+   },
+   {
+    "rank": null,
+    "name": "MELNYKOV Mykyta",
+    "country": "UKR",
+    "score": null,
+    "q_rank": 43,
+    "q_score": 76.632
+   },
+   {
+    "rank": null,
+    "name": "GUIMARAES Vitaliy",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 44,
+    "q_score": 76.565
+   },
+   {
+    "rank": null,
+    "name": "MALIK Ritam",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 45,
+    "q_score": 76.365
+   },
+   {
+    "rank": null,
+    "name": "TANTALIDIS Antonios",
+    "country": "GRE",
+    "score": null,
+    "q_rank": 46,
+    "q_score": 76.164
+   },
+   {
+    "rank": null,
+    "name": "ERKHEMBAYAR Usukhbayar",
+    "country": "MGL",
+    "score": null,
+    "q_rank": 47,
+    "q_score": 75.966
+   },
+   {
+    "rank": null,
+    "name": "DAVIDSSON Agust Ingi",
+    "country": "ISL",
+    "score": null,
+    "q_rank": 48,
+    "q_score": 75.898
+   },
+   {
+    "rank": null,
+    "name": "SPERANZA Simone",
+    "country": "ITA",
+    "score": null,
+    "q_rank": 49,
+    "q_score": 75.865
+   },
+   {
+    "rank": null,
+    "name": "DOLCI Felix",
+    "country": "CAN",
+    "score": null,
+    "q_rank": 50,
+    "q_score": 75.831
+   },
+   {
+    "rank": null,
+    "name": "HUNG Yuan-Hsi",
+    "country": "TPE",
+    "score": null,
+    "q_rank": 51,
+    "q_score": 75.798
+   },
+   {
+    "rank": null,
+    "name": "GARNCZAREK Kacper",
+    "country": "POL",
+    "score": null,
+    "q_rank": 52,
+    "q_score": 75.697
+   },
+   {
+    "rank": null,
+    "name": "GEORGIOU Ilias",
+    "country": "CYP",
+    "score": null,
+    "q_rank": 53,
+    "q_score": 75.665
+   },
+   {
+    "rank": null,
+    "name": "OLAFSSON Dagur Kari",
+    "country": "ISL",
+    "score": null,
+    "q_rank": 54,
+    "q_score": 75.532
+   },
+   {
+    "rank": null,
+    "name": "CARRION CARO Daniel",
+    "country": "ESP",
+    "score": null,
+    "q_rank": 55,
+    "q_score": 75.331
+   },
+   {
+    "rank": null,
+    "name": "MEJIA Thomas",
+    "country": "COL",
+    "score": null,
+    "q_rank": 56,
+    "q_score": 75.265
+   },
+   {
+    "rank": null,
+    "name": "CHIOU Min-Han",
+    "country": "TPE",
+    "score": null,
+    "q_rank": 57,
+    "q_score": 75.231
+   },
+   {
+    "rank": null,
+    "name": "BRANDENBURGER Quentin",
+    "country": "LUX",
+    "score": null,
+    "q_rank": 58,
+    "q_score": 75.198
+   },
+   {
+    "rank": null,
+    "name": "CHRONOPOULOS Ioannis",
+    "country": "GRE",
+    "score": null,
+    "q_rank": 59,
+    "q_score": 75.099
+   },
+   {
+    "rank": null,
+    "name": "LEE Junghyo",
+    "country": "KOR",
+    "score": null,
+    "q_rank": 60,
+    "q_score": 75.031
+   },
+   {
+    "rank": null,
+    "name": "HOSSAINI Hamza",
+    "country": "MAR",
+    "score": null,
+    "q_rank": 61,
+    "q_score": 75.03
+   },
+   {
+    "rank": null,
+    "name": "LAKOMY Adam",
+    "country": "CZE",
+    "score": null,
+    "q_rank": 62,
+    "q_score": 74.765
+   },
+   {
+    "rank": null,
+    "name": "TRAORE-MALATRE Leeroy",
+    "country": "FRA",
+    "score": null,
+    "q_rank": 63,
+    "q_score": 74.764
+   },
+   {
+    "rank": null,
+    "name": "VETTER Gino",
+    "country": "AUT",
+    "score": null,
+    "q_rank": 64,
+    "q_score": 74.764
+   },
+   {
+    "rank": null,
+    "name": "KILICER Mert Efe",
+    "country": "TUR",
+    "score": null,
+    "q_rank": 65,
+    "q_score": 74.666
+   },
+   {
+    "rank": null,
+    "name": "SKOGVANG Peder",
+    "country": "NOR",
+    "score": null,
+    "q_rank": 66,
+    "q_score": 74.631
+   },
+   {
+    "rank": null,
+    "name": "ZAVORY Szilard",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 67,
+    "q_score": 74.599
+   },
+   {
+    "rank": null,
+    "name": "SAMPAIO Patrick",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 68,
+    "q_score": 74.498
+   },
+   {
+    "rank": null,
+    "name": "AVCI Alperen Ege",
+    "country": "TUR",
+    "score": null,
+    "q_rank": 69,
+    "q_score": 74.331
+   },
+   {
+    "rank": null,
+    "name": "GONZALES Edward",
+    "country": "PER",
+    "score": null,
+    "q_rank": 70,
+    "q_score": 74.265
+   },
+   {
+    "rank": null,
+    "name": "KAMILJANOV Ravshan",
+    "country": "UZB",
+    "score": null,
+    "q_rank": 71,
+    "q_score": 73.997
+   },
+   {
+    "rank": null,
+    "name": "MAYOL Santiago",
+    "country": "ARG",
+    "score": null,
+    "q_rank": 72,
+    "q_score": 73.732
+   },
+   {
+    "rank": null,
+    "name": "LOPEZ Jose",
+    "country": "PUR",
+    "score": null,
+    "q_rank": 73,
+    "q_score": 73.565
+   },
+   {
+    "rank": null,
+    "name": "COGAT Adam",
+    "country": "ALG",
+    "score": null,
+    "q_rank": 74,
+    "q_score": 73.498
+   },
+   {
+    "rank": null,
+    "name": "AHMED Mostafa",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 75,
+    "q_score": 73.398
+   },
+   {
+    "rank": null,
+    "name": "KOSKI Elias",
+    "country": "FIN",
+    "score": null,
+    "q_rank": 76,
+    "q_score": 73.365
+   },
+   {
+    "rank": null,
+    "name": "NUNEZ Isaac",
+    "country": "MEX",
+    "score": null,
+    "q_rank": 77,
+    "q_score": 73.331
+   },
+   {
+    "rank": null,
+    "name": "STEELE Adam",
+    "country": "IRL",
+    "score": null,
+    "q_rank": 78,
+    "q_score": 73.231
+   },
+   {
+    "rank": null,
+    "name": "TVARDOUSKI Daniil",
+    "country": "BLR",
+    "score": null,
+    "q_rank": 79,
+    "q_score": 73.131
+   },
+   {
+    "rank": null,
+    "name": "TARCA Nicholas",
+    "country": "ROU",
+    "score": null,
+    "q_rank": 80,
+    "q_score": 73.099
+   },
+   {
+    "rank": null,
+    "name": "SPONEVIK Sebastian",
+    "country": "NOR",
+    "score": null,
+    "q_rank": 81,
+    "q_score": 73.064
+   },
+   {
+    "rank": null,
+    "name": "ANGONAS Georgios",
+    "country": "CYP",
+    "score": null,
+    "q_rank": 82,
+    "q_score": 72.966
+   },
+   {
+    "rank": null,
+    "name": "FRICK Aiden",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 83,
+    "q_score": 72.798
+   },
+   {
+    "rank": null,
+    "name": "BAOBENMAD Suphacheep",
+    "country": "THA",
+    "score": null,
+    "q_rank": 84,
+    "q_score": 72.532
+   },
+   {
+    "rank": null,
+    "name": "LAN Xingyu",
+    "country": "CHN",
+    "score": null,
+    "q_rank": 85,
+    "q_score": 72.498
+   },
+   {
+    "rank": null,
+    "name": "HRYHARCHUK Danila",
+    "country": "BLR",
+    "score": null,
+    "q_rank": 86,
+    "q_score": 72.498
+   },
+   {
+    "rank": null,
+    "name": "ROMERO Stefano",
+    "country": "ECU",
+    "score": null,
+    "q_rank": 87,
+    "q_score": 71.864
+   },
+   {
+    "rank": null,
+    "name": "PARK Seungho",
+    "country": "KOR",
+    "score": null,
+    "q_rank": 88,
+    "q_score": 71.832
+   },
+   {
+    "rank": null,
+    "name": "ERGASHEV Khabibullo",
+    "country": "UZB",
+    "score": null,
+    "q_rank": 89,
+    "q_score": 71.531
+   },
+   {
+    "rank": null,
+    "name": "GAGAMOV Jack",
+    "country": "CZE",
+    "score": null,
+    "q_rank": 90,
+    "q_score": 71.465
+   },
+   {
+    "rank": null,
+    "name": "PARDO Nahuel Nicolas",
+    "country": "ARG",
+    "score": null,
+    "q_rank": 91,
+    "q_score": 71.298
+   },
+   {
+    "rank": null,
+    "name": "TIAN Hao",
+    "country": "CHN",
+    "score": null,
+    "q_rank": 92,
+    "q_score": 71.098
+   },
+   {
+    "rank": null,
+    "name": "WAHRMANN-BAKER Elel",
+    "country": "JAM",
+    "score": null,
+    "q_rank": 93,
+    "q_score": 70.898
+   },
+   {
+    "rank": null,
+    "name": "TRIFONOV Daniel",
+    "country": "BUL",
+    "score": null,
+    "q_rank": 94,
+    "q_score": 70.765
+   },
+   {
+    "rank": null,
+    "name": "GRIKINIS Nedas",
+    "country": "LTU",
+    "score": null,
+    "q_rank": 95,
+    "q_score": 69.998
+   },
+   {
+    "rank": null,
+    "name": "SOTO RODRIGUEZ Jensuel J",
+    "country": "PUR",
+    "score": null,
+    "q_rank": 96,
+    "q_score": 68.897
+   },
+   {
+    "rank": null,
+    "name": "ISTOCK Alexander",
+    "country": "NZL",
+    "score": null,
+    "q_rank": 97,
+    "q_score": 68.431
+   },
+   {
+    "rank": null,
+    "name": "MCLEAN Daniel",
+    "country": "RSA",
+    "score": null,
+    "q_rank": 98,
+    "q_score": 67.732
+   },
+   {
+    "rank": null,
+    "name": "YULO Karl Jahrel Eldrew",
+    "country": "PHI",
+    "score": null,
+    "q_rank": 99,
+    "q_score": 67.032
+   },
+   {
+    "rank": null,
+    "name": "PUA Asher",
+    "country": "SGP",
+    "score": null,
+    "q_rank": 100,
+    "q_score": 64.199
+   },
+   {
+    "rank": null,
+    "name": "ZULFA Luqman Al Hafiz",
+    "country": "MAS",
+    "score": null,
+    "q_rank": 101,
+    "q_score": 63.098
+   },
+   {
+    "rank": null,
+    "name": "LECHAUD Luis",
+    "country": "POR",
+    "score": null,
+    "q_rank": 102,
+    "q_score": 61.132
+   }
+  ],
+  "Floor Exercise": [
+   {
+    "rank": 1,
+    "name": "RICHARD Frederick",
+    "country": "USA",
+    "score": 14.633,
+    "q_rank": 4,
+    "q_score": 14.233
+   },
+   {
+    "rank": 2,
+    "name": "JARMAN Jake",
+    "country": "GBR",
+    "score": 14.6,
+    "q_rank": 5,
+    "q_score": 14.133
+   },
+   {
+    "rank": 3,
+    "name": "DOLGOPYAT Artem",
+    "country": "ISR",
+    "score": 14.466,
+    "q_rank": 3,
+    "q_score": 14.3
+   },
+   {
+    "rank": 4,
+    "name": "DOI Ryosuke",
+    "country": "JPN",
+    "score": 14.366,
+    "q_rank": 7,
+    "q_score": 14.033
+   },
+   {
+    "rank": 5,
+    "name": "SHARAMKOU Yahor",
+    "country": "BLR",
+    "score": 14,
+    "q_rank": 6,
+    "q_score": 14.1
+   },
+   {
+    "rank": 6,
+    "name": "DUKHNO Arsenii",
+    "country": "RUS",
+    "score": 13.666,
+    "q_rank": 1,
+    "q_score": 14.7
+   },
+   {
+    "rank": 7,
+    "name": "BERKOVICH Noam",
+    "country": "ISR",
+    "score": 13.5,
+    "q_rank": 7,
+    "q_score": 14.033
+   },
+   {
+    "rank": 8,
+    "name": "YULO Carlos Edriel",
+    "country": "PHI",
+    "score": 13.233,
+    "q_rank": 2,
+    "q_score": 14.5
+   },
+   {
+    "rank": null,
+    "name": "LEYKIN Danila",
+    "country": "USA",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 14
+   },
+   {
+    "rank": null,
+    "name": "KOVTUN Illia",
+    "country": "CRO",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 14
+   },
+   {
+    "rank": null,
+    "name": "HEPWORTH Harry",
+    "country": "GBR",
+    "score": null,
+    "q_rank": 11,
+    "q_score": 13.966
+   },
+   {
+    "rank": null,
+    "name": "LI Hongyan",
+    "country": "CHN",
+    "score": null,
+    "q_rank": 12,
+    "q_score": 13.866
+   },
+   {
+    "rank": null,
+    "name": "HRIBAR Anze",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 13,
+    "q_score": 13.833
+   },
+   {
+    "rank": null,
+    "name": "OKA Shinnosuke",
+    "country": "JPN",
+    "score": null,
+    "q_rank": 14,
+    "q_score": 13.8
+   },
+   {
+    "rank": null,
+    "name": "AZIZOV Ilyas",
+    "country": "KAZ",
+    "score": null,
+    "q_rank": 15,
+    "q_score": 13.766
+   },
+   {
+    "rank": null,
+    "name": "PIFFARETTI Mattia",
+    "country": "SUI",
+    "score": null,
+    "q_rank": 16,
+    "q_score": 13.7
+   },
+   {
+    "rank": null,
+    "name": "ZAPATA Rayderley",
+    "country": "ESP",
+    "score": null,
+    "q_rank": 17,
+    "q_score": 13.7
+   },
+   {
+    "rank": null,
+    "name": "ABBADINI Yumin",
+    "country": "ITA",
+    "score": null,
+    "q_rank": 18,
+    "q_score": 13.6
+   },
+   {
+    "rank": null,
+    "name": "HASHIMOTO Daiki",
+    "country": "JPN",
+    "score": null,
+    "q_rank": 19,
+    "q_score": 13.6
+   },
+   {
+    "rank": null,
+    "name": "BARAJAS Angel",
+    "country": "COL",
+    "score": null,
+    "q_rank": 20,
+    "q_score": 13.566
+   },
+   {
+    "rank": null,
+    "name": "NELSON Kameron",
+    "country": "USA",
+    "score": null,
+    "q_rank": 21,
+    "q_score": 13.533
+   },
+   {
+    "rank": null,
+    "name": "MONTGOMERY Eamon",
+    "country": "IRL",
+    "score": null,
+    "q_rank": 22,
+    "q_score": 13.5
+   },
+   {
+    "rank": null,
+    "name": "TIAN Hao",
+    "country": "CHN",
+    "score": null,
+    "q_rank": 23,
+    "q_score": 13.5
+   },
+   {
+    "rank": null,
+    "name": "FRASER Joe",
+    "country": "GBR",
+    "score": null,
+    "q_rank": 24,
+    "q_score": 13.5
+   },
+   {
+    "rank": null,
+    "name": "DAVIDSSON Agust Ingi",
+    "country": "ISL",
+    "score": null,
+    "q_rank": 25,
+    "q_score": 13.466
+   },
+   {
+    "rank": null,
+    "name": "SEIFERT Noe",
+    "country": "SUI",
+    "score": null,
+    "q_rank": 26,
+    "q_score": 13.466
+   },
+   {
+    "rank": null,
+    "name": "SPONEVIK Sebastian",
+    "country": "NOR",
+    "score": null,
+    "q_rank": 27,
+    "q_score": 13.466
+   },
+   {
+    "rank": null,
+    "name": "ABAIDI Amine",
+    "country": "NED",
+    "score": null,
+    "q_rank": 28,
+    "q_score": 13.433
+   },
+   {
+    "rank": null,
+    "name": "MIR Nicolau",
+    "country": "ESP",
+    "score": null,
+    "q_rank": 29,
+    "q_score": 13.433
+   },
+   {
+    "rank": null,
+    "name": "CHEUNG Ching",
+    "country": "HKG",
+    "score": null,
+    "q_rank": 30,
+    "q_score": 13.433
+   },
+   {
+    "rank": null,
+    "name": "LAKOMY Adam",
+    "country": "CZE",
+    "score": null,
+    "q_rank": 31,
+    "q_score": 13.4
+   },
+   {
+    "rank": null,
+    "name": "YANG Haonan",
+    "country": "CHN",
+    "score": null,
+    "q_rank": 32,
+    "q_score": 13.4
+   },
+   {
+    "rank": null,
+    "name": "GRUENBERG Jermain",
+    "country": "NED",
+    "score": null,
+    "q_rank": 33,
+    "q_score": 13.366
+   },
+   {
+    "rank": null,
+    "name": "VERA Camilo",
+    "country": "COL",
+    "score": null,
+    "q_rank": 34,
+    "q_score": 13.366
+   },
+   {
+    "rank": null,
+    "name": "MARTINEZ Victor",
+    "country": "BEL",
+    "score": null,
+    "q_rank": 35,
+    "q_score": 13.366
+   },
+   {
+    "rank": null,
+    "name": "KAWAKAMI Shohei",
+    "country": "JPN",
+    "score": null,
+    "q_rank": 36,
+    "q_score": 13.333
+   },
+   {
+    "rank": null,
+    "name": "ZAKUTNEY Samuel",
+    "country": "CAN",
+    "score": null,
+    "q_rank": 37,
+    "q_score": 13.333
+   },
+   {
+    "rank": null,
+    "name": "SCHMIDT Casimir",
+    "country": "NED",
+    "score": null,
+    "q_rank": 37,
+    "q_score": 13.333
+   },
+   {
+    "rank": null,
+    "name": "PARK Seungho",
+    "country": "KOR",
+    "score": null,
+    "q_rank": 39,
+    "q_score": 13.3
+   },
+   {
+    "rank": null,
+    "name": "HARDY James",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 40,
+    "q_score": 13.3
+   },
+   {
+    "rank": null,
+    "name": "SAKOUHI Nael",
+    "country": "FRA",
+    "score": null,
+    "q_rank": 41,
+    "q_score": 13.3
+   },
+   {
+    "rank": null,
+    "name": "TANTALIDIS Antonios",
+    "country": "GRE",
+    "score": null,
+    "q_rank": 42,
+    "q_score": 13.233
+   },
+   {
+    "rank": null,
+    "name": "MACCHIATI Mario",
+    "country": "ITA",
+    "score": null,
+    "q_rank": 43,
+    "q_score": 13.2
+   },
+   {
+    "rank": null,
+    "name": "DANEK Jonas",
+    "country": "CZE",
+    "score": null,
+    "q_rank": 44,
+    "q_score": 13.2
+   },
+   {
+    "rank": null,
+    "name": "PARK Jinho",
+    "country": "KOR",
+    "score": null,
+    "q_rank": 45,
+    "q_score": 13.166
+   },
+   {
+    "rank": null,
+    "name": "GARCIA Rahi",
+    "country": "GUA",
+    "score": null,
+    "q_rank": 46,
+    "q_score": 13.1
+   },
+   {
+    "rank": null,
+    "name": "GIUBELLINI Matteo",
+    "country": "SUI",
+    "score": null,
+    "q_rank": 46,
+    "q_score": 13.1
+   },
+   {
+    "rank": null,
+    "name": "ERKHEMBAYAR Usukhbayar",
+    "country": "MGL",
+    "score": null,
+    "q_rank": 48,
+    "q_score": 13.1
+   },
+   {
+    "rank": null,
+    "name": "WARD Reuben",
+    "country": "GBR",
+    "score": null,
+    "q_rank": 49,
+    "q_score": 13.066
+   },
+   {
+    "rank": null,
+    "name": "FRICK Aiden",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 50,
+    "q_score": 13.033
+   },
+   {
+    "rank": null,
+    "name": "IDRISSOV Nurtan",
+    "country": "KAZ",
+    "score": null,
+    "q_rank": 51,
+    "q_score": 13.033
+   },
+   {
+    "rank": null,
+    "name": "CUYLE Glen",
+    "country": "BEL",
+    "score": null,
+    "q_rank": 52,
+    "q_score": 13.033
+   },
+   {
+    "rank": null,
+    "name": "OLASZ Xavier",
+    "country": "CAN",
+    "score": null,
+    "q_rank": 53,
+    "q_score": 13.033
+   },
+   {
+    "rank": null,
+    "name": "MESZAROS Krisztofer",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 54,
+    "q_score": 13.033
+   },
+   {
+    "rank": null,
+    "name": "CHEPURNYI Nazar",
+    "country": "UKR",
+    "score": null,
+    "q_rank": 55,
+    "q_score": 13
+   },
+   {
+    "rank": null,
+    "name": "MANSARD Anthony",
+    "country": "FRA",
+    "score": null,
+    "q_rank": 56,
+    "q_score": 13
+   },
+   {
+    "rank": null,
+    "name": "SPERANZA Simone",
+    "country": "ITA",
+    "score": null,
+    "q_rank": 57,
+    "q_score": 12.966
+   },
+   {
+    "rank": null,
+    "name": "SOARES Diogo",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 58,
+    "q_score": 12.966
+   },
+   {
+    "rank": null,
+    "name": "GEORGIOU Ilias",
+    "country": "CYP",
+    "score": null,
+    "q_rank": 59,
+    "q_score": 12.933
+   },
+   {
+    "rank": null,
+    "name": "PATANIN Dmitriy",
+    "country": "KAZ",
+    "score": null,
+    "q_rank": 60,
+    "q_score": 12.933
+   },
+   {
+    "rank": null,
+    "name": "VETTER Gino",
+    "country": "AUT",
+    "score": null,
+    "q_rank": 61,
+    "q_score": 12.933
+   },
+   {
+    "rank": null,
+    "name": "MALIK Ritam",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 62,
+    "q_score": 12.9
+   },
+   {
+    "rank": null,
+    "name": "OLAFSSON Dagur Kari",
+    "country": "ISL",
+    "score": null,
+    "q_rank": 63,
+    "q_score": 12.9
+   },
+   {
+    "rank": null,
+    "name": "CUYLE Nicola",
+    "country": "BEL",
+    "score": null,
+    "q_rank": 64,
+    "q_score": 12.9
+   },
+   {
+    "rank": null,
+    "name": "LANGENEGGER Florian",
+    "country": "SUI",
+    "score": null,
+    "q_rank": 64,
+    "q_score": 12.9
+   },
+   {
+    "rank": null,
+    "name": "KILICER Mert Efe",
+    "country": "TUR",
+    "score": null,
+    "q_rank": 66,
+    "q_score": 12.8
+   },
+   {
+    "rank": null,
+    "name": "ORTAL Ron",
+    "country": "ISR",
+    "score": null,
+    "q_rank": 67,
+    "q_score": 12.8
+   },
+   {
+    "rank": null,
+    "name": "CHIOU Min-Han",
+    "country": "TPE",
+    "score": null,
+    "q_rank": 68,
+    "q_score": 12.8
+   },
+   {
+    "rank": null,
+    "name": "GONZALES Edward",
+    "country": "PER",
+    "score": null,
+    "q_rank": 69,
+    "q_score": 12.8
+   },
+   {
+    "rank": null,
+    "name": "ENRIQUEZ Chester",
+    "country": "IRL",
+    "score": null,
+    "q_rank": 70,
+    "q_score": 12.8
+   },
+   {
+    "rank": null,
+    "name": "FAVERUS Elijah",
+    "country": "NED",
+    "score": null,
+    "q_rank": 71,
+    "q_score": 12.766
+   },
+   {
+    "rank": null,
+    "name": "KYRIAKOU Neofytos",
+    "country": "CYP",
+    "score": null,
+    "q_rank": 72,
+    "q_score": 12.766
+   },
+   {
+    "rank": null,
+    "name": "SUPRUN Bohdan",
+    "country": "UKR",
+    "score": null,
+    "q_rank": 73,
+    "q_score": 12.766
+   },
+   {
+    "rank": null,
+    "name": "TRAORE-MALATRE Leeroy",
+    "country": "FRA",
+    "score": null,
+    "q_rank": 74,
+    "q_score": 12.766
+   },
+   {
+    "rank": null,
+    "name": "SAMPAIO Patrick",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 74,
+    "q_score": 12.766
+   },
+   {
+    "rank": null,
+    "name": "WANG Yi-Hsiang",
+    "country": "TPE",
+    "score": null,
+    "q_rank": 76,
+    "q_score": 12.7
+   },
+   {
+    "rank": null,
+    "name": "MAYOL Santiago",
+    "country": "ARG",
+    "score": null,
+    "q_rank": 77,
+    "q_score": 12.7
+   },
+   {
+    "rank": null,
+    "name": "NAIDIN Sergei",
+    "country": "RUS",
+    "score": null,
+    "q_rank": 77,
+    "q_score": 12.7
+   },
+   {
+    "rank": null,
+    "name": "GARNCZAREK Kacper",
+    "country": "POL",
+    "score": null,
+    "q_rank": 79,
+    "q_score": 12.666
+   },
+   {
+    "rank": null,
+    "name": "TVARDOUSKI Daniil",
+    "country": "BLR",
+    "score": null,
+    "q_rank": 80,
+    "q_score": 12.633
+   },
+   {
+    "rank": null,
+    "name": "KARIMI Milad",
+    "country": "KAZ",
+    "score": null,
+    "q_rank": 81,
+    "q_score": 12.566
+   },
+   {
+    "rank": null,
+    "name": "SOTO RODRIGUEZ Jensuel J",
+    "country": "PUR",
+    "score": null,
+    "q_rank": 82,
+    "q_score": 12.566
+   },
+   {
+    "rank": null,
+    "name": "NUNEZ Isaac",
+    "country": "MEX",
+    "score": null,
+    "q_rank": 83,
+    "q_score": 12.533
+   },
+   {
+    "rank": null,
+    "name": "KIS Dominik",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 84,
+    "q_score": 12.533
+   },
+   {
+    "rank": null,
+    "name": "MOLNAR Botond",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 85,
+    "q_score": 12.533
+   },
+   {
+    "rank": null,
+    "name": "KAMILJANOV Ravshan",
+    "country": "UZB",
+    "score": null,
+    "q_rank": 86,
+    "q_score": 12.466
+   },
+   {
+    "rank": null,
+    "name": "MELNYKOV Mykyta",
+    "country": "UKR",
+    "score": null,
+    "q_rank": 87,
+    "q_score": 12.466
+   },
+   {
+    "rank": null,
+    "name": "HOSSAINI Hamza",
+    "country": "MAR",
+    "score": null,
+    "q_rank": 88,
+    "q_score": 12.466
+   },
+   {
+    "rank": null,
+    "name": "SKOGVANG Peder",
+    "country": "NOR",
+    "score": null,
+    "q_rank": 89,
+    "q_score": 12.466
+   },
+   {
+    "rank": null,
+    "name": "YOCKERS Ignacio",
+    "country": "ESP",
+    "score": null,
+    "q_rank": 90,
+    "q_score": 12.433
+   },
+   {
+    "rank": null,
+    "name": "BRANDENBURGER Quentin",
+    "country": "LUX",
+    "score": null,
+    "q_rank": 91,
+    "q_score": 12.4
+   },
+   {
+    "rank": null,
+    "name": "GRIKINIS Nedas",
+    "country": "LTU",
+    "score": null,
+    "q_rank": 92,
+    "q_score": 12.366
+   },
+   {
+    "rank": null,
+    "name": "COURNOYER Rene",
+    "country": "CAN",
+    "score": null,
+    "q_rank": 93,
+    "q_score": 12.366
+   },
+   {
+    "rank": null,
+    "name": "AHMED Mostafa",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 94,
+    "q_score": 12.333
+   },
+   {
+    "rank": null,
+    "name": "ERGASHEV Khabibullo",
+    "country": "UZB",
+    "score": null,
+    "q_rank": 94,
+    "q_score": 12.333
+   },
+   {
+    "rank": null,
+    "name": "GAGAMOV Jack",
+    "country": "CZE",
+    "score": null,
+    "q_rank": 96,
+    "q_score": 12.3
+   },
+   {
+    "rank": null,
+    "name": "LOPEZ Jose",
+    "country": "PUR",
+    "score": null,
+    "q_rank": 97,
+    "q_score": 12.266
+   },
+   {
+    "rank": null,
+    "name": "ZABALA Yan",
+    "country": "COL",
+    "score": null,
+    "q_rank": 97,
+    "q_score": 12.266
+   },
+   {
+    "rank": null,
+    "name": "TARCA Nicholas",
+    "country": "ROU",
+    "score": null,
+    "q_rank": 99,
+    "q_score": 12.233
+   },
+   {
+    "rank": null,
+    "name": "MARINOV Daniel",
+    "country": "RUS",
+    "score": null,
+    "q_rank": 100,
+    "q_score": 12.233
+   },
+   {
+    "rank": null,
+    "name": "MCLEAN Daniel",
+    "country": "RSA",
+    "score": null,
+    "q_rank": 101,
+    "q_score": 12.2
+   },
+   {
+    "rank": null,
+    "name": "HRYHARCHUK Danila",
+    "country": "BLR",
+    "score": null,
+    "q_rank": 102,
+    "q_score": 12.2
+   },
+   {
+    "rank": null,
+    "name": "HRYKO Vladyslav",
+    "country": "UKR",
+    "score": null,
+    "q_rank": 103,
+    "q_score": 12.2
+   },
+   {
+    "rank": null,
+    "name": "MOHAMED Omar",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 104,
+    "q_score": 12.2
+   },
+   {
+    "rank": null,
+    "name": "ALI Mazen",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 105,
+    "q_score": 12.1
+   },
+   {
+    "rank": null,
+    "name": "YULO Karl Jahrel Eldrew",
+    "country": "PHI",
+    "score": null,
+    "q_rank": 106,
+    "q_score": 12.1
+   },
+   {
+    "rank": null,
+    "name": "CARVALHO Kevin",
+    "country": "FRA",
+    "score": null,
+    "q_rank": 107,
+    "q_score": 12.066
+   },
+   {
+    "rank": null,
+    "name": "ZULFA Luqman Al Hafiz",
+    "country": "MAS",
+    "score": null,
+    "q_rank": 108,
+    "q_score": 12.066
+   },
+   {
+    "rank": null,
+    "name": "DUNKEL Nils",
+    "country": "GER",
+    "score": null,
+    "q_rank": 109,
+    "q_score": 12.066
+   },
+   {
+    "rank": null,
+    "name": "KUAVITA Noah",
+    "country": "BEL",
+    "score": null,
+    "q_rank": 110,
+    "q_score": 12.033
+   },
+   {
+    "rank": null,
+    "name": "TANG Chia-Hung",
+    "country": "TPE",
+    "score": null,
+    "q_rank": 111,
+    "q_score": 12.033
+   },
+   {
+    "rank": null,
+    "name": "CHRONOPOULOS Ioannis",
+    "country": "GRE",
+    "score": null,
+    "q_rank": 112,
+    "q_score": 12
+   },
+   {
+    "rank": null,
+    "name": "ZAVORY Szilard",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 113,
+    "q_score": 12
+   },
+   {
+    "rank": null,
+    "name": "SIEEDIN Savelii",
+    "country": "RUS",
+    "score": null,
+    "q_rank": 114,
+    "q_score": 11.966
+   },
+   {
+    "rank": null,
+    "name": "HUNG Yuan-Hsi",
+    "country": "TPE",
+    "score": null,
+    "q_rank": 115,
+    "q_score": 11.933
+   },
+   {
+    "rank": null,
+    "name": "KOSKI Elias",
+    "country": "FIN",
+    "score": null,
+    "q_rank": 116,
+    "q_score": 11.933
+   },
+   {
+    "rank": null,
+    "name": "COGAT Adam",
+    "country": "ALG",
+    "score": null,
+    "q_rank": 117,
+    "q_score": 11.866
+   },
+   {
+    "rank": null,
+    "name": "VANNUCCHI Niccolo",
+    "country": "ITA",
+    "score": null,
+    "q_rank": 118,
+    "q_score": 11.833
+   },
+   {
+    "rank": null,
+    "name": "EDER Timo",
+    "country": "GER",
+    "score": null,
+    "q_rank": 119,
+    "q_score": 11.833
+   },
+   {
+    "rank": null,
+    "name": "WISKUS Shane",
+    "country": "USA",
+    "score": null,
+    "q_rank": 120,
+    "q_score": 11.8
+   },
+   {
+    "rank": null,
+    "name": "LEE Junghyo",
+    "country": "KOR",
+    "score": null,
+    "q_rank": 121,
+    "q_score": 11.766
+   },
+   {
+    "rank": null,
+    "name": "ANGONAS Georgios",
+    "country": "CYP",
+    "score": null,
+    "q_rank": 122,
+    "q_score": 11.6
+   },
+   {
+    "rank": null,
+    "name": "KIRMES Robert",
+    "country": "FIN",
+    "score": null,
+    "q_rank": 123,
+    "q_score": 11.6
+   },
+   {
+    "rank": null,
+    "name": "KOCHAN Lucas",
+    "country": "GER",
+    "score": null,
+    "q_rank": 124,
+    "q_score": 11.566
+   },
+   {
+    "rank": null,
+    "name": "ISTOCK Alexander",
+    "country": "NZL",
+    "score": null,
+    "q_rank": 125,
+    "q_score": 11.433
+   },
+   {
+    "rank": null,
+    "name": "CARRION CARO Daniel",
+    "country": "ESP",
+    "score": null,
+    "q_rank": 126,
+    "q_score": 11.433
+   },
+   {
+    "rank": null,
+    "name": "GUIMARAES Vitaliy",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 127,
+    "q_score": 11.366
+   },
+   {
+    "rank": null,
+    "name": "DOLCI Felix",
+    "country": "CAN",
+    "score": null,
+    "q_rank": 128,
+    "q_score": 11.366
+   },
+   {
+    "rank": null,
+    "name": "ROMERO Stefano",
+    "country": "ECU",
+    "score": null,
+    "q_rank": 129,
+    "q_score": 11.233
+   },
+   {
+    "rank": null,
+    "name": "TRIFONOV Daniel",
+    "country": "BUL",
+    "score": null,
+    "q_rank": 130,
+    "q_score": 11.2
+   },
+   {
+    "rank": null,
+    "name": "AVCI Alperen Ege",
+    "country": "TUR",
+    "score": null,
+    "q_rank": 131,
+    "q_score": 11.2
+   },
+   {
+    "rank": null,
+    "name": "PENEV Kevin",
+    "country": "BUL",
+    "score": null,
+    "q_rank": 132,
+    "q_score": 11.1
+   },
+   {
+    "rank": null,
+    "name": "STELMAKH Radomyr",
+    "country": "GER",
+    "score": null,
+    "q_rank": 133,
+    "q_score": 11.066
+   },
+   {
+    "rank": null,
+    "name": "BAOBENMAD Suphacheep",
+    "country": "THA",
+    "score": null,
+    "q_rank": 134,
+    "q_score": 11.033
+   },
+   {
+    "rank": null,
+    "name": "LAN Xingyu",
+    "country": "CHN",
+    "score": null,
+    "q_rank": 135,
+    "q_score": 10.833
+   },
+   {
+    "rank": null,
+    "name": "MEJIA Thomas",
+    "country": "COL",
+    "score": null,
+    "q_rank": 136,
+    "q_score": 10.766
+   },
+   {
+    "rank": null,
+    "name": "PARDO Nahuel Nicolas",
+    "country": "ARG",
+    "score": null,
+    "q_rank": 137,
+    "q_score": 10.666
+   },
+   {
+    "rank": null,
+    "name": "AFIFY Mohamed",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 138,
+    "q_score": 10.633
+   },
+   {
+    "rank": null,
+    "name": "WAHRMANN-BAKER Elel",
+    "country": "JAM",
+    "score": null,
+    "q_rank": 139,
+    "q_score": 10.433
+   },
+   {
+    "rank": null,
+    "name": "LECHAUD Luis",
+    "country": "POR",
+    "score": null,
+    "q_rank": 140,
+    "q_score": 10.333
+   },
+   {
+    "rank": null,
+    "name": "STEELE Adam",
+    "country": "IRL",
+    "score": null,
+    "q_rank": 141,
+    "q_score": 10.233
+   },
+   {
+    "rank": null,
+    "name": "PUA Asher",
+    "country": "SGP",
+    "score": null,
+    "q_rank": 142,
+    "q_score": 10.1
+   }
+  ],
+  "Pommel Horse": [
+   {
+    "rank": 1,
+    "name": "MANUKYAN Hamlet",
+    "country": "ARM",
+    "score": 15.3,
+    "q_rank": 1,
+    "q_score": 14.933
+   },
+   {
+    "rank": 2,
+    "name": "TARGHETTA Gabriele",
+    "country": "ITA",
+    "score": 15.233,
+    "q_rank": 3,
+    "q_score": 14.833
+   },
+   {
+    "rank": 3,
+    "name": "KHACHATRYAN Mamikon",
+    "country": "ARM",
+    "score": 15,
+    "q_rank": 4,
+    "q_score": 14.733
+   },
+   {
+    "rank": 4,
+    "name": "KURBANOV Nariman",
+    "country": "KAZ",
+    "score": 14.933,
+    "q_rank": 2,
+    "q_score": 14.866
+   },
+   {
+    "rank": 5,
+    "name": "HOOPES Patrick",
+    "country": "USA",
+    "score": 14.933,
+    "q_rank": 5,
+    "q_score": 14.666
+   },
+   {
+    "rank": 6,
+    "name": "HUR Woong",
+    "country": "KOR",
+    "score": 14.833,
+    "q_rank": 6,
+    "q_score": 14.633
+   },
+   {
+    "rank": 7,
+    "name": "VAN DER AA Kilan",
+    "country": "BEL",
+    "score": 14.733,
+    "q_rank": 7,
+    "q_score": 14.6
+   },
+   {
+    "rank": 8,
+    "name": "HASHIMOTO Daiki",
+    "country": "JPN",
+    "score": 13.466,
+    "q_rank": 8,
+    "q_score": 14.533
+   },
+   {
+    "rank": null,
+    "name": "WARD Reuben",
+    "country": "GBR",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 14.466
+   },
+   {
+    "rank": null,
+    "name": "MC CLENAGHAN Rhys",
+    "country": "IRL",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 14.4
+   },
+   {
+    "rank": null,
+    "name": "YOCKERS Ignacio",
+    "country": "ESP",
+    "score": null,
+    "q_rank": 11,
+    "q_score": 14.3
+   },
+   {
+    "rank": null,
+    "name": "LEE Chih-Kai",
+    "country": "TPE",
+    "score": null,
+    "q_rank": 12,
+    "q_score": 14.266
+   },
+   {
+    "rank": null,
+    "name": "PETROV Matvei",
+    "country": "ALB",
+    "score": null,
+    "q_rank": 13,
+    "q_score": 14.233
+   },
+   {
+    "rank": null,
+    "name": "CARROLL Jordan",
+    "country": "CAN",
+    "score": null,
+    "q_rank": 14,
+    "q_score": 14.233
+   },
+   {
+    "rank": null,
+    "name": "RAKOVIC Gregor",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 15,
+    "q_score": 14.2
+   },
+   {
+    "rank": null,
+    "name": "KAMILJANOV Ravshan",
+    "country": "UZB",
+    "score": null,
+    "q_rank": 16,
+    "q_score": 14.166
+   },
+   {
+    "rank": null,
+    "name": "ZOU Jingyuan",
+    "country": "CHN",
+    "score": null,
+    "q_rank": 17,
+    "q_score": 14.066
+   },
+   {
+    "rank": null,
+    "name": "GIUBELLINI Matteo",
+    "country": "SUI",
+    "score": null,
+    "q_rank": 18,
+    "q_score": 14.066
+   },
+   {
+    "rank": null,
+    "name": "AZIZOV Ilyas",
+    "country": "KAZ",
+    "score": null,
+    "q_rank": 18,
+    "q_score": 14.066
+   },
+   {
+    "rank": null,
+    "name": "JARMAN Jake",
+    "country": "GBR",
+    "score": null,
+    "q_rank": 20,
+    "q_score": 14.033
+   },
+   {
+    "rank": null,
+    "name": "SIEEDIN Savelii",
+    "country": "RUS",
+    "score": null,
+    "q_rank": 21,
+    "q_score": 14
+   },
+   {
+    "rank": null,
+    "name": "ABBADINI Yumin",
+    "country": "ITA",
+    "score": null,
+    "q_rank": 21,
+    "q_score": 14
+   },
+   {
+    "rank": null,
+    "name": "YANG Haonan",
+    "country": "CHN",
+    "score": null,
+    "q_rank": 23,
+    "q_score": 13.966
+   },
+   {
+    "rank": null,
+    "name": "RICHARD Frederick",
+    "country": "USA",
+    "score": null,
+    "q_rank": 24,
+    "q_score": 13.933
+   },
+   {
+    "rank": null,
+    "name": "OKA Shinnosuke",
+    "country": "JPN",
+    "score": null,
+    "q_rank": 25,
+    "q_score": 13.9
+   },
+   {
+    "rank": null,
+    "name": "DE MUNCK Loran",
+    "country": "NED",
+    "score": null,
+    "q_rank": 26,
+    "q_score": 13.833
+   },
+   {
+    "rank": null,
+    "name": "LANGENEGGER Florian",
+    "country": "SUI",
+    "score": null,
+    "q_rank": 27,
+    "q_score": 13.8
+   },
+   {
+    "rank": null,
+    "name": "DUNKEL Nils",
+    "country": "GER",
+    "score": null,
+    "q_rank": 27,
+    "q_score": 13.8
+   },
+   {
+    "rank": null,
+    "name": "AHMADZADA Rasul",
+    "country": "AZE",
+    "score": null,
+    "q_rank": 29,
+    "q_score": 13.766
+   },
+   {
+    "rank": null,
+    "name": "ERGASHEV Khabibullo",
+    "country": "UZB",
+    "score": null,
+    "q_rank": 30,
+    "q_score": 13.733
+   },
+   {
+    "rank": null,
+    "name": "TAMSEL Dominic",
+    "country": "SUI",
+    "score": null,
+    "q_rank": 31,
+    "q_score": 13.7
+   },
+   {
+    "rank": null,
+    "name": "FRASER Joe",
+    "country": "GBR",
+    "score": null,
+    "q_rank": 32,
+    "q_score": 13.7
+   },
+   {
+    "rank": null,
+    "name": "FAVERUS Elijah",
+    "country": "NED",
+    "score": null,
+    "q_rank": 33,
+    "q_score": 13.7
+   },
+   {
+    "rank": null,
+    "name": "OLAFSSON Dagur Kari",
+    "country": "ISL",
+    "score": null,
+    "q_rank": 34,
+    "q_score": 13.666
+   },
+   {
+    "rank": null,
+    "name": "SUNDELL William",
+    "country": "SWE",
+    "score": null,
+    "q_rank": 35,
+    "q_score": 13.666
+   },
+   {
+    "rank": null,
+    "name": "BARAJAS Angel",
+    "country": "COL",
+    "score": null,
+    "q_rank": 35,
+    "q_score": 13.666
+   },
+   {
+    "rank": null,
+    "name": "TARCA Nicholas",
+    "country": "ROU",
+    "score": null,
+    "q_rank": 37,
+    "q_score": 13.6
+   },
+   {
+    "rank": null,
+    "name": "MARINOV Daniel",
+    "country": "RUS",
+    "score": null,
+    "q_rank": 38,
+    "q_score": 13.566
+   },
+   {
+    "rank": null,
+    "name": "EDER Timo",
+    "country": "GER",
+    "score": null,
+    "q_rank": 39,
+    "q_score": 13.566
+   },
+   {
+    "rank": null,
+    "name": "VERA Camilo",
+    "country": "COL",
+    "score": null,
+    "q_rank": 40,
+    "q_score": 13.533
+   },
+   {
+    "rank": null,
+    "name": "TOUCHAIS Melwin",
+    "country": "FRA",
+    "score": null,
+    "q_rank": 41,
+    "q_score": 13.533
+   },
+   {
+    "rank": null,
+    "name": "DOI Ryosuke",
+    "country": "JPN",
+    "score": null,
+    "q_rank": 42,
+    "q_score": 13.533
+   },
+   {
+    "rank": null,
+    "name": "IVANOV David",
+    "country": "BUL",
+    "score": null,
+    "q_rank": 43,
+    "q_score": 13.5
+   },
+   {
+    "rank": null,
+    "name": "SAKOUHI Nael",
+    "country": "FRA",
+    "score": null,
+    "q_rank": 44,
+    "q_score": 13.433
+   },
+   {
+    "rank": null,
+    "name": "GUIMARAES Vitaliy",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 45,
+    "q_score": 13.4
+   },
+   {
+    "rank": null,
+    "name": "KOVTUN Illia",
+    "country": "CRO",
+    "score": null,
+    "q_rank": 46,
+    "q_score": 13.4
+   },
+   {
+    "rank": null,
+    "name": "KIM Jaeho",
+    "country": "KOR",
+    "score": null,
+    "q_rank": 47,
+    "q_score": 13.3
+   },
+   {
+    "rank": null,
+    "name": "SEIFERT Noe",
+    "country": "SUI",
+    "score": null,
+    "q_rank": 48,
+    "q_score": 13.266
+   },
+   {
+    "rank": null,
+    "name": "NAIDIN Sergei",
+    "country": "RUS",
+    "score": null,
+    "q_rank": 49,
+    "q_score": 13.233
+   },
+   {
+    "rank": null,
+    "name": "MOORE Jesse",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 50,
+    "q_score": 13.233
+   },
+   {
+    "rank": null,
+    "name": "PLATA Joel",
+    "country": "ESP",
+    "score": null,
+    "q_rank": 51,
+    "q_score": 13.2
+   },
+   {
+    "rank": null,
+    "name": "KAWAKAMI Shohei",
+    "country": "JPN",
+    "score": null,
+    "q_rank": 51,
+    "q_score": 13.2
+   },
+   {
+    "rank": null,
+    "name": "STELMAKH Radomyr",
+    "country": "GER",
+    "score": null,
+    "q_rank": 53,
+    "q_score": 13.2
+   },
+   {
+    "rank": null,
+    "name": "GEORGIOU Marios",
+    "country": "CYP",
+    "score": null,
+    "q_rank": 54,
+    "q_score": 13.166
+   },
+   {
+    "rank": null,
+    "name": "SCHMIDT Casimir",
+    "country": "NED",
+    "score": null,
+    "q_rank": 55,
+    "q_score": 13.166
+   },
+   {
+    "rank": null,
+    "name": "LIUBIMOV Ilia",
+    "country": "ISR",
+    "score": null,
+    "q_rank": 56,
+    "q_score": 13.166
+   },
+   {
+    "rank": null,
+    "name": "KARIMI Milad",
+    "country": "KAZ",
+    "score": null,
+    "q_rank": 57,
+    "q_score": 13.133
+   },
+   {
+    "rank": null,
+    "name": "DUKHNO Arsenii",
+    "country": "RUS",
+    "score": null,
+    "q_rank": 58,
+    "q_score": 13.133
+   },
+   {
+    "rank": null,
+    "name": "SKHILADZE Levan",
+    "country": "GEO",
+    "score": null,
+    "q_rank": 59,
+    "q_score": 13.1
+   },
+   {
+    "rank": null,
+    "name": "TREBING Glenn",
+    "country": "GER",
+    "score": null,
+    "q_rank": 60,
+    "q_score": 13.066
+   },
+   {
+    "rank": null,
+    "name": "HAGENS Tru",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 61,
+    "q_score": 13.066
+   },
+   {
+    "rank": null,
+    "name": "IDRISSOV Nurtan",
+    "country": "KAZ",
+    "score": null,
+    "q_rank": 62,
+    "q_score": 13.033
+   },
+   {
+    "rank": null,
+    "name": "CHRONOPOULOS Ioannis",
+    "country": "GRE",
+    "score": null,
+    "q_rank": 63,
+    "q_score": 13
+   },
+   {
+    "rank": null,
+    "name": "KIS Dominik",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 64,
+    "q_score": 12.966
+   },
+   {
+    "rank": null,
+    "name": "HRYKO Vladyslav",
+    "country": "UKR",
+    "score": null,
+    "q_rank": 65,
+    "q_score": 12.933
+   },
+   {
+    "rank": null,
+    "name": "MEJIA Thomas",
+    "country": "COL",
+    "score": null,
+    "q_rank": 66,
+    "q_score": 12.9
+   },
+   {
+    "rank": null,
+    "name": "OSHIRO Johnny",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 67,
+    "q_score": 12.9
+   },
+   {
+    "rank": null,
+    "name": "VETTER Gino",
+    "country": "AUT",
+    "score": null,
+    "q_rank": 68,
+    "q_score": 12.833
+   },
+   {
+    "rank": null,
+    "name": "DOLGOPYAT Artem",
+    "country": "ISR",
+    "score": null,
+    "q_rank": 69,
+    "q_score": 12.833
+   },
+   {
+    "rank": null,
+    "name": "STEELE Adam",
+    "country": "IRL",
+    "score": null,
+    "q_rank": 70,
+    "q_score": 12.8
+   },
+   {
+    "rank": null,
+    "name": "KILICER Mert Efe",
+    "country": "TUR",
+    "score": null,
+    "q_rank": 70,
+    "q_score": 12.8
+   },
+   {
+    "rank": null,
+    "name": "MESZAROS Krisztofer",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 72,
+    "q_score": 12.766
+   },
+   {
+    "rank": null,
+    "name": "PARK Seungho",
+    "country": "KOR",
+    "score": null,
+    "q_rank": 73,
+    "q_score": 12.7
+   },
+   {
+    "rank": null,
+    "name": "MELNYKOV Mykyta",
+    "country": "UKR",
+    "score": null,
+    "q_rank": 74,
+    "q_score": 12.7
+   },
+   {
+    "rank": null,
+    "name": "HRYHARCHUK Danila",
+    "country": "BLR",
+    "score": null,
+    "q_rank": 75,
+    "q_score": 12.666
+   },
+   {
+    "rank": null,
+    "name": "ZAKUTNEY Samuel",
+    "country": "CAN",
+    "score": null,
+    "q_rank": 76,
+    "q_score": 12.666
+   },
+   {
+    "rank": null,
+    "name": "MANSARD Anthony",
+    "country": "FRA",
+    "score": null,
+    "q_rank": 77,
+    "q_score": 12.633
+   },
+   {
+    "rank": null,
+    "name": "MALIK Ritam",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 78,
+    "q_score": 12.633
+   },
+   {
+    "rank": null,
+    "name": "TRAORE-MALATRE Leeroy",
+    "country": "FRA",
+    "score": null,
+    "q_rank": 79,
+    "q_score": 12.633
+   },
+   {
+    "rank": null,
+    "name": "TANG Chia-Hung",
+    "country": "TPE",
+    "score": null,
+    "q_rank": 80,
+    "q_score": 12.6
+   },
+   {
+    "rank": null,
+    "name": "MOHAMED Omar",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 81,
+    "q_score": 12.6
+   },
+   {
+    "rank": null,
+    "name": "AFIFY Mohamed",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 82,
+    "q_score": 12.566
+   },
+   {
+    "rank": null,
+    "name": "GAGAMOV Jack",
+    "country": "CZE",
+    "score": null,
+    "q_rank": 83,
+    "q_score": 12.566
+   },
+   {
+    "rank": null,
+    "name": "COURNOYER Rene",
+    "country": "CAN",
+    "score": null,
+    "q_rank": 84,
+    "q_score": 12.566
+   },
+   {
+    "rank": null,
+    "name": "GARNCZAREK Kacper",
+    "country": "POL",
+    "score": null,
+    "q_rank": 85,
+    "q_score": 12.566
+   },
+   {
+    "rank": null,
+    "name": "GRUENBERG Jermain",
+    "country": "NED",
+    "score": null,
+    "q_rank": 86,
+    "q_score": 12.533
+   },
+   {
+    "rank": null,
+    "name": "GONZALES Edward",
+    "country": "PER",
+    "score": null,
+    "q_rank": 87,
+    "q_score": 12.533
+   },
+   {
+    "rank": null,
+    "name": "SOARES Diogo",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 88,
+    "q_score": 12.533
+   },
+   {
+    "rank": null,
+    "name": "MIR Nicolau",
+    "country": "ESP",
+    "score": null,
+    "q_rank": 89,
+    "q_score": 12.5
+   },
+   {
+    "rank": null,
+    "name": "GEORGIOU Ilias",
+    "country": "CYP",
+    "score": null,
+    "q_rank": 89,
+    "q_score": 12.5
+   },
+   {
+    "rank": null,
+    "name": "CARRION CARO Daniel",
+    "country": "ESP",
+    "score": null,
+    "q_rank": 91,
+    "q_score": 12.5
+   },
+   {
+    "rank": null,
+    "name": "ERKHEMBAYAR Usukhbayar",
+    "country": "MGL",
+    "score": null,
+    "q_rank": 91,
+    "q_score": 12.5
+   },
+   {
+    "rank": null,
+    "name": "HICKEY James",
+    "country": "IRL",
+    "score": null,
+    "q_rank": 93,
+    "q_score": 12.4
+   },
+   {
+    "rank": null,
+    "name": "BRANDENBURGER Quentin",
+    "country": "LUX",
+    "score": null,
+    "q_rank": 94,
+    "q_score": 12.366
+   },
+   {
+    "rank": null,
+    "name": "TANTALIDIS Antonios",
+    "country": "GRE",
+    "score": null,
+    "q_rank": 95,
+    "q_score": 12.333
+   },
+   {
+    "rank": null,
+    "name": "WAHRMANN-BAKER Elel",
+    "country": "JAM",
+    "score": null,
+    "q_rank": 96,
+    "q_score": 12.266
+   },
+   {
+    "rank": null,
+    "name": "KUAVITA Noah",
+    "country": "BEL",
+    "score": null,
+    "q_rank": 97,
+    "q_score": 12.233
+   },
+   {
+    "rank": null,
+    "name": "SPONEVIK Sebastian",
+    "country": "NOR",
+    "score": null,
+    "q_rank": 98,
+    "q_score": 12.233
+   },
+   {
+    "rank": null,
+    "name": "LEE Junghyo",
+    "country": "KOR",
+    "score": null,
+    "q_rank": 99,
+    "q_score": 12.233
+   },
+   {
+    "rank": null,
+    "name": "MARTINEZ Victor",
+    "country": "BEL",
+    "score": null,
+    "q_rank": 100,
+    "q_score": 12.166
+   },
+   {
+    "rank": null,
+    "name": "MAYOL Santiago",
+    "country": "ARG",
+    "score": null,
+    "q_rank": 101,
+    "q_score": 12.166
+   },
+   {
+    "rank": null,
+    "name": "ELSHOBKI Omar",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 102,
+    "q_score": 12.166
+   },
+   {
+    "rank": null,
+    "name": "TIAN Hao",
+    "country": "CHN",
+    "score": null,
+    "q_rank": 103,
+    "q_score": 12.133
+   },
+   {
+    "rank": null,
+    "name": "PENEV Kevin",
+    "country": "BUL",
+    "score": null,
+    "q_rank": 104,
+    "q_score": 12.066
+   },
+   {
+    "rank": null,
+    "name": "COGAT Adam",
+    "country": "ALG",
+    "score": null,
+    "q_rank": 105,
+    "q_score": 12.066
+   },
+   {
+    "rank": null,
+    "name": "GARCIA Rahi",
+    "country": "GUA",
+    "score": null,
+    "q_rank": 106,
+    "q_score": 12.066
+   },
+   {
+    "rank": null,
+    "name": "FRICK Aiden",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 107,
+    "q_score": 12.033
+   },
+   {
+    "rank": null,
+    "name": "WISKUS Shane",
+    "country": "USA",
+    "score": null,
+    "q_rank": 108,
+    "q_score": 12
+   },
+   {
+    "rank": null,
+    "name": "BERKOVICH Noam",
+    "country": "ISR",
+    "score": null,
+    "q_rank": 109,
+    "q_score": 11.933
+   },
+   {
+    "rank": null,
+    "name": "ZAVORY Szilard",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 110,
+    "q_score": 11.933
+   },
+   {
+    "rank": null,
+    "name": "YULO Karl Jahrel Eldrew",
+    "country": "PHI",
+    "score": null,
+    "q_rank": 110,
+    "q_score": 11.933
+   },
+   {
+    "rank": null,
+    "name": "CHIOU Min-Han",
+    "country": "TPE",
+    "score": null,
+    "q_rank": 112,
+    "q_score": 11.933
+   },
+   {
+    "rank": null,
+    "name": "LAKOMY Adam",
+    "country": "CZE",
+    "score": null,
+    "q_rank": 113,
+    "q_score": 11.9
+   },
+   {
+    "rank": null,
+    "name": "BAOBENMAD Suphacheep",
+    "country": "THA",
+    "score": null,
+    "q_rank": 114,
+    "q_score": 11.9
+   },
+   {
+    "rank": null,
+    "name": "PUA Asher",
+    "country": "SGP",
+    "score": null,
+    "q_rank": 115,
+    "q_score": 11.9
+   },
+   {
+    "rank": null,
+    "name": "SKOGVANG Peder",
+    "country": "NOR",
+    "score": null,
+    "q_rank": 116,
+    "q_score": 11.866
+   },
+   {
+    "rank": null,
+    "name": "ANGONAS Georgios",
+    "country": "CYP",
+    "score": null,
+    "q_rank": 117,
+    "q_score": 11.833
+   },
+   {
+    "rank": null,
+    "name": "CUYLE Nicola",
+    "country": "BEL",
+    "score": null,
+    "q_rank": 118,
+    "q_score": 11.833
+   },
+   {
+    "rank": null,
+    "name": "DAVIDSSON Agust Ingi",
+    "country": "ISL",
+    "score": null,
+    "q_rank": 119,
+    "q_score": 11.8
+   },
+   {
+    "rank": null,
+    "name": "TOMCSANYI Benedek",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 120,
+    "q_score": 11.8
+   },
+   {
+    "rank": null,
+    "name": "HOSSAINI Hamza",
+    "country": "MAR",
+    "score": null,
+    "q_rank": 121,
+    "q_score": 11.766
+   },
+   {
+    "rank": null,
+    "name": "LEYKIN Danila",
+    "country": "USA",
+    "score": null,
+    "q_rank": 122,
+    "q_score": 11.666
+   },
+   {
+    "rank": null,
+    "name": "DOLCI Felix",
+    "country": "CAN",
+    "score": null,
+    "q_rank": 123,
+    "q_score": 11.633
+   },
+   {
+    "rank": null,
+    "name": "ORTAL Ron",
+    "country": "ISR",
+    "score": null,
+    "q_rank": 124,
+    "q_score": 11.6
+   },
+   {
+    "rank": null,
+    "name": "ZABALA Yan",
+    "country": "COL",
+    "score": null,
+    "q_rank": 125,
+    "q_score": 11.566
+   },
+   {
+    "rank": null,
+    "name": "MACCHIATI Mario",
+    "country": "ITA",
+    "score": null,
+    "q_rank": 126,
+    "q_score": 11.533
+   },
+   {
+    "rank": null,
+    "name": "AHMED Mostafa",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 127,
+    "q_score": 11.466
+   },
+   {
+    "rank": null,
+    "name": "PARDO Nahuel Nicolas",
+    "country": "ARG",
+    "score": null,
+    "q_rank": 128,
+    "q_score": 11.4
+   },
+   {
+    "rank": null,
+    "name": "SUPRUN Bohdan",
+    "country": "UKR",
+    "score": null,
+    "q_rank": 129,
+    "q_score": 11.4
+   },
+   {
+    "rank": null,
+    "name": "VERNIAIEV Oleg",
+    "country": "UKR",
+    "score": null,
+    "q_rank": 130,
+    "q_score": 11.366
+   },
+   {
+    "rank": null,
+    "name": "AVCI Alperen Ege",
+    "country": "TUR",
+    "score": null,
+    "q_rank": 131,
+    "q_score": 11.266
+   },
+   {
+    "rank": null,
+    "name": "TVARDOUSKI Daniil",
+    "country": "BLR",
+    "score": null,
+    "q_rank": 132,
+    "q_score": 11.233
+   },
+   {
+    "rank": null,
+    "name": "KOSKI Elias",
+    "country": "FIN",
+    "score": null,
+    "q_rank": 133,
+    "q_score": 11.2
+   },
+   {
+    "rank": null,
+    "name": "YULO Carlos Edriel",
+    "country": "PHI",
+    "score": null,
+    "q_rank": 134,
+    "q_score": 11.166
+   },
+   {
+    "rank": null,
+    "name": "ROMERO Stefano",
+    "country": "ECU",
+    "score": null,
+    "q_rank": 135,
+    "q_score": 11.133
+   },
+   {
+    "rank": null,
+    "name": "HUNG Yuan-Hsi",
+    "country": "TPE",
+    "score": null,
+    "q_rank": 136,
+    "q_score": 11.033
+   },
+   {
+    "rank": null,
+    "name": "GRIKINIS Nedas",
+    "country": "LTU",
+    "score": null,
+    "q_rank": 137,
+    "q_score": 10.8
+   },
+   {
+    "rank": null,
+    "name": "ISTOCK Alexander",
+    "country": "NZL",
+    "score": null,
+    "q_rank": 138,
+    "q_score": 10.533
+   },
+   {
+    "rank": null,
+    "name": "TRIFONOV Daniel",
+    "country": "BUL",
+    "score": null,
+    "q_rank": 139,
+    "q_score": 10.333
+   },
+   {
+    "rank": null,
+    "name": "MCLEAN Daniel",
+    "country": "RSA",
+    "score": null,
+    "q_rank": 140,
+    "q_score": 10
+   },
+   {
+    "rank": null,
+    "name": "NUNEZ Isaac",
+    "country": "MEX",
+    "score": null,
+    "q_rank": 141,
+    "q_score": 10
+   },
+   {
+    "rank": null,
+    "name": "LOPEZ Jose",
+    "country": "PUR",
+    "score": null,
+    "q_rank": 142,
+    "q_score": 10
+   },
+   {
+    "rank": null,
+    "name": "SAMPAIO Patrick",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 142,
+    "q_score": 10
+   },
+   {
+    "rank": null,
+    "name": "SPERANZA Simone",
+    "country": "ITA",
+    "score": null,
+    "q_rank": 144,
+    "q_score": 9.633
+   },
+   {
+    "rank": null,
+    "name": "KYRIAKOU Neofytos",
+    "country": "CYP",
+    "score": null,
+    "q_rank": 145,
+    "q_score": 9.233
+   },
+   {
+    "rank": null,
+    "name": "LAN Xingyu",
+    "country": "CHN",
+    "score": null,
+    "q_rank": 146,
+    "q_score": 8.1
+   },
+   {
+    "rank": null,
+    "name": "SOTO RODRIGUEZ Jensuel J",
+    "country": "PUR",
+    "score": null,
+    "q_rank": 147,
+    "q_score": 7.933
+   },
+   {
+    "rank": null,
+    "name": "ZULFA Luqman Al Hafiz",
+    "country": "MAS",
+    "score": null,
+    "q_rank": 148,
+    "q_score": 5
+   },
+   {
+    "rank": null,
+    "name": "LECHAUD Luis",
+    "country": "POR",
+    "score": null,
+    "q_rank": 149,
+    "q_score": 4.6
+   }
+  ],
+  "Still Rings": [
+   {
+    "rank": 1,
+    "name": "LAN Xingyu",
+    "country": "CHN",
+    "score": 14.766,
+    "q_rank": 1,
+    "q_score": 14.733
+   },
+   {
+    "rank": 2,
+    "name": "PETROUNIAS Eleftherios",
+    "country": "GRE",
+    "score": 14.333,
+    "q_rank": 8,
+    "q_score": 14.033
+   },
+   {
+    "rank": 3,
+    "name": "AVETISYAN Artur",
+    "country": "ARM",
+    "score": 14.233,
+    "q_rank": 4,
+    "q_score": 14.233
+   },
+   {
+    "rank": 4,
+    "name": "OKA Shinnosuke",
+    "country": "JPN",
+    "score": 14.133,
+    "q_rank": 7,
+    "q_score": 14.066
+   },
+   {
+    "rank": 5,
+    "name": "ZAIKA Ilia",
+    "country": "RUS",
+    "score": 14.1,
+    "q_rank": 2,
+    "q_score": 14.533
+   },
+   {
+    "rank": 6,
+    "name": "KOSAK Mehmet Ayberk",
+    "country": "TUR",
+    "score": 13.8,
+    "q_rank": 5,
+    "q_score": 14.233
+   },
+   {
+    "rank": 7,
+    "name": "TULLOCH Courtney",
+    "country": "GBR",
+    "score": 13.366,
+    "q_rank": 3,
+    "q_score": 14.5
+   },
+   {
+    "rank": 8,
+    "name": "CUYLE Glen",
+    "country": "BEL",
+    "score": 12.833,
+    "q_rank": 6,
+    "q_score": 14.1
+   },
+   {
+    "rank": null,
+    "name": "SIMONOV Nikita",
+    "country": "AZE",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 13.9
+   },
+   {
+    "rank": null,
+    "name": "NELSON Kameron",
+    "country": "USA",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 13.833
+   },
+   {
+    "rank": null,
+    "name": "HASHIMOTO Daiki",
+    "country": "JPN",
+    "score": null,
+    "q_rank": 11,
+    "q_score": 13.733
+   },
+   {
+    "rank": null,
+    "name": "YANG Haonan",
+    "country": "CHN",
+    "score": null,
+    "q_rank": 12,
+    "q_score": 13.733
+   },
+   {
+    "rank": null,
+    "name": "ALVAREZ Joaquin",
+    "country": "CHI",
+    "score": null,
+    "q_rank": 13,
+    "q_score": 13.7
+   },
+   {
+    "rank": null,
+    "name": "FRASER Joe",
+    "country": "GBR",
+    "score": null,
+    "q_rank": 14,
+    "q_score": 13.666
+   },
+   {
+    "rank": null,
+    "name": "HEPWORTH Harry",
+    "country": "GBR",
+    "score": null,
+    "q_rank": 15,
+    "q_score": 13.666
+   },
+   {
+    "rank": null,
+    "name": "TANG Chia-Hung",
+    "country": "TPE",
+    "score": null,
+    "q_rank": 16,
+    "q_score": 13.6
+   },
+   {
+    "rank": null,
+    "name": "VANNUCCHI Niccolo",
+    "country": "ITA",
+    "score": null,
+    "q_rank": 17,
+    "q_score": 13.6
+   },
+   {
+    "rank": null,
+    "name": "MOHAMED Omar",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 18,
+    "q_score": 13.6
+   },
+   {
+    "rank": null,
+    "name": "IDRISSOV Nurtan",
+    "country": "KAZ",
+    "score": null,
+    "q_rank": 19,
+    "q_score": 13.5
+   },
+   {
+    "rank": null,
+    "name": "KAWAKAMI Shohei",
+    "country": "JPN",
+    "score": null,
+    "q_rank": 20,
+    "q_score": 13.466
+   },
+   {
+    "rank": null,
+    "name": "SPERANZA Simone",
+    "country": "ITA",
+    "score": null,
+    "q_rank": 21,
+    "q_score": 13.466
+   },
+   {
+    "rank": null,
+    "name": "ZOU Jingyuan",
+    "country": "CHN",
+    "score": null,
+    "q_rank": 22,
+    "q_score": 13.466
+   },
+   {
+    "rank": null,
+    "name": "VERA Camilo",
+    "country": "COL",
+    "score": null,
+    "q_rank": 23,
+    "q_score": 13.433
+   },
+   {
+    "rank": null,
+    "name": "CUYLE Nicola",
+    "country": "BEL",
+    "score": null,
+    "q_rank": 24,
+    "q_score": 13.4
+   },
+   {
+    "rank": null,
+    "name": "FAVERUS Elijah",
+    "country": "NED",
+    "score": null,
+    "q_rank": 25,
+    "q_score": 13.4
+   },
+   {
+    "rank": null,
+    "name": "MARINOV Daniel",
+    "country": "RUS",
+    "score": null,
+    "q_rank": 26,
+    "q_score": 13.366
+   },
+   {
+    "rank": null,
+    "name": "PILAKOURIS Sokratis",
+    "country": "CYP",
+    "score": null,
+    "q_rank": 27,
+    "q_score": 13.333
+   },
+   {
+    "rank": null,
+    "name": "BARAJAS Angel",
+    "country": "COL",
+    "score": null,
+    "q_rank": 28,
+    "q_score": 13.3
+   },
+   {
+    "rank": null,
+    "name": "DOLCI Felix",
+    "country": "CAN",
+    "score": null,
+    "q_rank": 29,
+    "q_score": 13.3
+   },
+   {
+    "rank": null,
+    "name": "PATANIN Dmitriy",
+    "country": "KAZ",
+    "score": null,
+    "q_rank": 30,
+    "q_score": 13.266
+   },
+   {
+    "rank": null,
+    "name": "SUPRUN Bohdan",
+    "country": "UKR",
+    "score": null,
+    "q_rank": 31,
+    "q_score": 13.266
+   },
+   {
+    "rank": null,
+    "name": "TOMCSANYI Benedek",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 32,
+    "q_score": 13.233
+   },
+   {
+    "rank": null,
+    "name": "WANG Yi-Hsiang",
+    "country": "TPE",
+    "score": null,
+    "q_rank": 33,
+    "q_score": 13.233
+   },
+   {
+    "rank": null,
+    "name": "GIUBELLINI Matteo",
+    "country": "SUI",
+    "score": null,
+    "q_rank": 34,
+    "q_score": 13.2
+   },
+   {
+    "rank": null,
+    "name": "TOUCHAIS Melwin",
+    "country": "FRA",
+    "score": null,
+    "q_rank": 35,
+    "q_score": 13.2
+   },
+   {
+    "rank": null,
+    "name": "RICHARD Frederick",
+    "country": "USA",
+    "score": null,
+    "q_rank": 36,
+    "q_score": 13.166
+   },
+   {
+    "rank": null,
+    "name": "HARDY James",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 37,
+    "q_score": 13.133
+   },
+   {
+    "rank": null,
+    "name": "SEIFERT Noe",
+    "country": "SUI",
+    "score": null,
+    "q_rank": 38,
+    "q_score": 13.133
+   },
+   {
+    "rank": null,
+    "name": "BOJANC Luka",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 39,
+    "q_score": 13.133
+   },
+   {
+    "rank": null,
+    "name": "DUKHNO Arsenii",
+    "country": "RUS",
+    "score": null,
+    "q_rank": 40,
+    "q_score": 13.1
+   },
+   {
+    "rank": null,
+    "name": "KOVTUN Illia",
+    "country": "CRO",
+    "score": null,
+    "q_rank": 41,
+    "q_score": 13.1
+   },
+   {
+    "rank": null,
+    "name": "MARTINEZ Victor",
+    "country": "BEL",
+    "score": null,
+    "q_rank": 42,
+    "q_score": 13.066
+   },
+   {
+    "rank": null,
+    "name": "LEE Junghyo",
+    "country": "KOR",
+    "score": null,
+    "q_rank": 43,
+    "q_score": 13.033
+   },
+   {
+    "rank": null,
+    "name": "YULO Carlos Edriel",
+    "country": "PHI",
+    "score": null,
+    "q_rank": 43,
+    "q_score": 13.033
+   },
+   {
+    "rank": null,
+    "name": "PIFFARETTI Mattia",
+    "country": "SUI",
+    "score": null,
+    "q_rank": 45,
+    "q_score": 13
+   },
+   {
+    "rank": null,
+    "name": "MESZAROS Krisztofer",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 46,
+    "q_score": 12.933
+   },
+   {
+    "rank": null,
+    "name": "SCHMIDT Casimir",
+    "country": "NED",
+    "score": null,
+    "q_rank": 47,
+    "q_score": 12.866
+   },
+   {
+    "rank": null,
+    "name": "CHRONOPOULOS Ioannis",
+    "country": "GRE",
+    "score": null,
+    "q_rank": 48,
+    "q_score": 12.866
+   },
+   {
+    "rank": null,
+    "name": "TVARDOUSKI Daniil",
+    "country": "BLR",
+    "score": null,
+    "q_rank": 49,
+    "q_score": 12.866
+   },
+   {
+    "rank": null,
+    "name": "JARMAN Jake",
+    "country": "GBR",
+    "score": null,
+    "q_rank": 50,
+    "q_score": 12.833
+   },
+   {
+    "rank": null,
+    "name": "DAVIDSSON Agust Ingi",
+    "country": "ISL",
+    "score": null,
+    "q_rank": 51,
+    "q_score": 12.833
+   },
+   {
+    "rank": null,
+    "name": "VERNIAIEV Oleg",
+    "country": "UKR",
+    "score": null,
+    "q_rank": 51,
+    "q_score": 12.833
+   },
+   {
+    "rank": null,
+    "name": "ALVAREZ Jorman",
+    "country": "COL",
+    "score": null,
+    "q_rank": 53,
+    "q_score": 12.833
+   },
+   {
+    "rank": null,
+    "name": "TREBING Glenn",
+    "country": "GER",
+    "score": null,
+    "q_rank": 54,
+    "q_score": 12.8
+   },
+   {
+    "rank": null,
+    "name": "PLATA Joel",
+    "country": "ESP",
+    "score": null,
+    "q_rank": 55,
+    "q_score": 12.733
+   },
+   {
+    "rank": null,
+    "name": "OLASZ Xavier",
+    "country": "CAN",
+    "score": null,
+    "q_rank": 56,
+    "q_score": 12.733
+   },
+   {
+    "rank": null,
+    "name": "STELMAKH Radomyr",
+    "country": "GER",
+    "score": null,
+    "q_rank": 56,
+    "q_score": 12.733
+   },
+   {
+    "rank": null,
+    "name": "SAKOUHI Nael",
+    "country": "FRA",
+    "score": null,
+    "q_rank": 58,
+    "q_score": 12.733
+   },
+   {
+    "rank": null,
+    "name": "PARK Jinho",
+    "country": "KOR",
+    "score": null,
+    "q_rank": 59,
+    "q_score": 12.733
+   },
+   {
+    "rank": null,
+    "name": "LEYKIN Danila",
+    "country": "USA",
+    "score": null,
+    "q_rank": 60,
+    "q_score": 12.7
+   },
+   {
+    "rank": null,
+    "name": "SAMPAIO Patrick",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 61,
+    "q_score": 12.7
+   },
+   {
+    "rank": null,
+    "name": "ABBADINI Yumin",
+    "country": "ITA",
+    "score": null,
+    "q_rank": 62,
+    "q_score": 12.7
+   },
+   {
+    "rank": null,
+    "name": "KOSKI Elias",
+    "country": "FIN",
+    "score": null,
+    "q_rank": 63,
+    "q_score": 12.633
+   },
+   {
+    "rank": null,
+    "name": "ELSHOBKI Omar",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 64,
+    "q_score": 12.633
+   },
+   {
+    "rank": null,
+    "name": "MANSARD Anthony",
+    "country": "FRA",
+    "score": null,
+    "q_rank": 65,
+    "q_score": 12.633
+   },
+   {
+    "rank": null,
+    "name": "DUNKEL Nils",
+    "country": "GER",
+    "score": null,
+    "q_rank": 66,
+    "q_score": 12.633
+   },
+   {
+    "rank": null,
+    "name": "VILLAFANE Daniel",
+    "country": "ARG",
+    "score": null,
+    "q_rank": 67,
+    "q_score": 12.6
+   },
+   {
+    "rank": null,
+    "name": "HUNG Yuan-Hsi",
+    "country": "TPE",
+    "score": null,
+    "q_rank": 68,
+    "q_score": 12.566
+   },
+   {
+    "rank": null,
+    "name": "DOI Ryosuke",
+    "country": "JPN",
+    "score": null,
+    "q_rank": 69,
+    "q_score": 12.566
+   },
+   {
+    "rank": null,
+    "name": "LANGENEGGER Florian",
+    "country": "SUI",
+    "score": null,
+    "q_rank": 70,
+    "q_score": 12.533
+   },
+   {
+    "rank": null,
+    "name": "ABAIDI Amine",
+    "country": "NED",
+    "score": null,
+    "q_rank": 71,
+    "q_score": 12.533
+   },
+   {
+    "rank": null,
+    "name": "SOARES Diogo",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 72,
+    "q_score": 12.533
+   },
+   {
+    "rank": null,
+    "name": "MEJIA Thomas",
+    "country": "COL",
+    "score": null,
+    "q_rank": 73,
+    "q_score": 12.466
+   },
+   {
+    "rank": null,
+    "name": "SKOGVANG Peder",
+    "country": "NOR",
+    "score": null,
+    "q_rank": 74,
+    "q_score": 12.433
+   },
+   {
+    "rank": null,
+    "name": "MOORE Jesse",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 75,
+    "q_score": 12.433
+   },
+   {
+    "rank": null,
+    "name": "ROMERO Stefano",
+    "country": "ECU",
+    "score": null,
+    "q_rank": 75,
+    "q_score": 12.433
+   },
+   {
+    "rank": null,
+    "name": "MELNYKOV Mykyta",
+    "country": "UKR",
+    "score": null,
+    "q_rank": 77,
+    "q_score": 12.4
+   },
+   {
+    "rank": null,
+    "name": "AHMED Mostafa",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 78,
+    "q_score": 12.4
+   },
+   {
+    "rank": null,
+    "name": "ZAVORY Szilard",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 79,
+    "q_score": 12.4
+   },
+   {
+    "rank": null,
+    "name": "ZAKUTNEY Samuel",
+    "country": "CAN",
+    "score": null,
+    "q_rank": 80,
+    "q_score": 12.366
+   },
+   {
+    "rank": null,
+    "name": "EDER Timo",
+    "country": "GER",
+    "score": null,
+    "q_rank": 81,
+    "q_score": 12.366
+   },
+   {
+    "rank": null,
+    "name": "COURNOYER Rene",
+    "country": "CAN",
+    "score": null,
+    "q_rank": 82,
+    "q_score": 12.366
+   },
+   {
+    "rank": null,
+    "name": "MOLNAR Botond",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 83,
+    "q_score": 12.3
+   },
+   {
+    "rank": null,
+    "name": "GRIKINIS Nedas",
+    "country": "LTU",
+    "score": null,
+    "q_rank": 84,
+    "q_score": 12.3
+   },
+   {
+    "rank": null,
+    "name": "MALIK Ritam",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 85,
+    "q_score": 12.266
+   },
+   {
+    "rank": null,
+    "name": "AVCI Alperen Ege",
+    "country": "TUR",
+    "score": null,
+    "q_rank": 86,
+    "q_score": 12.266
+   },
+   {
+    "rank": null,
+    "name": "VETTER Gino",
+    "country": "AUT",
+    "score": null,
+    "q_rank": 87,
+    "q_score": 12.266
+   },
+   {
+    "rank": null,
+    "name": "ERGASHEV Khabibullo",
+    "country": "UZB",
+    "score": null,
+    "q_rank": 88,
+    "q_score": 12.266
+   },
+   {
+    "rank": null,
+    "name": "KIM Jaeho",
+    "country": "KOR",
+    "score": null,
+    "q_rank": 89,
+    "q_score": 12.233
+   },
+   {
+    "rank": null,
+    "name": "MACCHIATI Mario",
+    "country": "ITA",
+    "score": null,
+    "q_rank": 89,
+    "q_score": 12.233
+   },
+   {
+    "rank": null,
+    "name": "LOPEZ Jose",
+    "country": "PUR",
+    "score": null,
+    "q_rank": 91,
+    "q_score": 12.2
+   },
+   {
+    "rank": null,
+    "name": "AZIZOV Ilyas",
+    "country": "KAZ",
+    "score": null,
+    "q_rank": 92,
+    "q_score": 12.2
+   },
+   {
+    "rank": null,
+    "name": "GEORGIOU Ilias",
+    "country": "CYP",
+    "score": null,
+    "q_rank": 93,
+    "q_score": 12.166
+   },
+   {
+    "rank": null,
+    "name": "NUNEZ Isaac",
+    "country": "MEX",
+    "score": null,
+    "q_rank": 94,
+    "q_score": 12.166
+   },
+   {
+    "rank": null,
+    "name": "CARRION CARO Daniel",
+    "country": "ESP",
+    "score": null,
+    "q_rank": 95,
+    "q_score": 12.166
+   },
+   {
+    "rank": null,
+    "name": "GUIMARAES Vitaliy",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 96,
+    "q_score": 12.133
+   },
+   {
+    "rank": null,
+    "name": "WISKUS Shane",
+    "country": "USA",
+    "score": null,
+    "q_rank": 97,
+    "q_score": 12.1
+   },
+   {
+    "rank": null,
+    "name": "BRANDENBURGER Quentin",
+    "country": "LUX",
+    "score": null,
+    "q_rank": 98,
+    "q_score": 12.033
+   },
+   {
+    "rank": null,
+    "name": "LAKOMY Adam",
+    "country": "CZE",
+    "score": null,
+    "q_rank": 99,
+    "q_score": 12.033
+   },
+   {
+    "rank": null,
+    "name": "ANGONAS Georgios",
+    "country": "CYP",
+    "score": null,
+    "q_rank": 100,
+    "q_score": 12
+   },
+   {
+    "rank": null,
+    "name": "ERKHEMBAYAR Usukhbayar",
+    "country": "MGL",
+    "score": null,
+    "q_rank": 101,
+    "q_score": 12
+   },
+   {
+    "rank": null,
+    "name": "HOSSAINI Hamza",
+    "country": "MAR",
+    "score": null,
+    "q_rank": 102,
+    "q_score": 12
+   },
+   {
+    "rank": null,
+    "name": "STEELE Adam",
+    "country": "IRL",
+    "score": null,
+    "q_rank": 103,
+    "q_score": 11.933
+   },
+   {
+    "rank": null,
+    "name": "KAMILJANOV Ravshan",
+    "country": "UZB",
+    "score": null,
+    "q_rank": 104,
+    "q_score": 11.933
+   },
+   {
+    "rank": null,
+    "name": "HRYKO Vladyslav",
+    "country": "UKR",
+    "score": null,
+    "q_rank": 105,
+    "q_score": 11.933
+   },
+   {
+    "rank": null,
+    "name": "BERKOVICH Noam",
+    "country": "ISR",
+    "score": null,
+    "q_rank": 106,
+    "q_score": 11.9
+   },
+   {
+    "rank": null,
+    "name": "TARCA Nicholas",
+    "country": "ROU",
+    "score": null,
+    "q_rank": 107,
+    "q_score": 11.9
+   },
+   {
+    "rank": null,
+    "name": "MIR Nicolau",
+    "country": "ESP",
+    "score": null,
+    "q_rank": 108,
+    "q_score": 11.9
+   },
+   {
+    "rank": null,
+    "name": "TRAORE-MALATRE Leeroy",
+    "country": "FRA",
+    "score": null,
+    "q_rank": 109,
+    "q_score": 11.833
+   },
+   {
+    "rank": null,
+    "name": "GARNCZAREK Kacper",
+    "country": "POL",
+    "score": null,
+    "q_rank": 110,
+    "q_score": 11.8
+   },
+   {
+    "rank": null,
+    "name": "PARDO Nahuel Nicolas",
+    "country": "ARG",
+    "score": null,
+    "q_rank": 111,
+    "q_score": 11.8
+   },
+   {
+    "rank": null,
+    "name": "ORTAL Ron",
+    "country": "ISR",
+    "score": null,
+    "q_rank": 112,
+    "q_score": 11.8
+   },
+   {
+    "rank": null,
+    "name": "WAHRMANN-BAKER Elel",
+    "country": "JAM",
+    "score": null,
+    "q_rank": 113,
+    "q_score": 11.8
+   },
+   {
+    "rank": null,
+    "name": "CHIOU Min-Han",
+    "country": "TPE",
+    "score": null,
+    "q_rank": 114,
+    "q_score": 11.733
+   },
+   {
+    "rank": null,
+    "name": "SIEEDIN Savelii",
+    "country": "RUS",
+    "score": null,
+    "q_rank": 115,
+    "q_score": 11.733
+   },
+   {
+    "rank": null,
+    "name": "GRUENBERG Jermain",
+    "country": "NED",
+    "score": null,
+    "q_rank": 116,
+    "q_score": 11.7
+   },
+   {
+    "rank": null,
+    "name": "FRICK Aiden",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 117,
+    "q_score": 11.666
+   },
+   {
+    "rank": null,
+    "name": "YOCKERS Ignacio",
+    "country": "ESP",
+    "score": null,
+    "q_rank": 118,
+    "q_score": 11.666
+   },
+   {
+    "rank": null,
+    "name": "OLAFSSON Dagur Kari",
+    "country": "ISL",
+    "score": null,
+    "q_rank": 119,
+    "q_score": 11.666
+   },
+   {
+    "rank": null,
+    "name": "TANTALIDIS Antonios",
+    "country": "GRE",
+    "score": null,
+    "q_rank": 120,
+    "q_score": 11.633
+   },
+   {
+    "rank": null,
+    "name": "OSHIRO Johnny",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 121,
+    "q_score": 11.633
+   },
+   {
+    "rank": null,
+    "name": "HRYHARCHUK Danila",
+    "country": "BLR",
+    "score": null,
+    "q_rank": 122,
+    "q_score": 11.6
+   },
+   {
+    "rank": null,
+    "name": "ALI Mazen",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 123,
+    "q_score": 11.566
+   },
+   {
+    "rank": null,
+    "name": "BAOBENMAD Suphacheep",
+    "country": "THA",
+    "score": null,
+    "q_rank": 124,
+    "q_score": 11.533
+   },
+   {
+    "rank": null,
+    "name": "ISTOCK Alexander",
+    "country": "NZL",
+    "score": null,
+    "q_rank": 125,
+    "q_score": 11.5
+   },
+   {
+    "rank": null,
+    "name": "LIUBIMOV Ilia",
+    "country": "ISR",
+    "score": null,
+    "q_rank": 126,
+    "q_score": 11.466
+   },
+   {
+    "rank": null,
+    "name": "MAYOL Santiago",
+    "country": "ARG",
+    "score": null,
+    "q_rank": 127,
+    "q_score": 11.4
+   },
+   {
+    "rank": null,
+    "name": "ZULFA Luqman Al Hafiz",
+    "country": "MAS",
+    "score": null,
+    "q_rank": 128,
+    "q_score": 11.3
+   },
+   {
+    "rank": null,
+    "name": "KILICER Mert Efe",
+    "country": "TUR",
+    "score": null,
+    "q_rank": 129,
+    "q_score": 11.3
+   },
+   {
+    "rank": null,
+    "name": "GONZALES Edward",
+    "country": "PER",
+    "score": null,
+    "q_rank": 130,
+    "q_score": 11.3
+   },
+   {
+    "rank": null,
+    "name": "SOTO RODRIGUEZ Jensuel J",
+    "country": "PUR",
+    "score": null,
+    "q_rank": 131,
+    "q_score": 11.033
+   },
+   {
+    "rank": null,
+    "name": "COGAT Adam",
+    "country": "ALG",
+    "score": null,
+    "q_rank": 132,
+    "q_score": 10.8
+   },
+   {
+    "rank": null,
+    "name": "LECHAUD Luis",
+    "country": "POR",
+    "score": null,
+    "q_rank": 133,
+    "q_score": 10.5
+   },
+   {
+    "rank": null,
+    "name": "MCLEAN Daniel",
+    "country": "RSA",
+    "score": null,
+    "q_rank": 134,
+    "q_score": 10.4
+   },
+   {
+    "rank": null,
+    "name": "GAGAMOV Jack",
+    "country": "CZE",
+    "score": null,
+    "q_rank": 135,
+    "q_score": 10.3
+   },
+   {
+    "rank": null,
+    "name": "PARK Seungho",
+    "country": "KOR",
+    "score": null,
+    "q_rank": 136,
+    "q_score": 10.166
+   },
+   {
+    "rank": null,
+    "name": "TRIFONOV Daniel",
+    "country": "BUL",
+    "score": null,
+    "q_rank": 137,
+    "q_score": 10.133
+   },
+   {
+    "rank": null,
+    "name": "YULO Karl Jahrel Eldrew",
+    "country": "PHI",
+    "score": null,
+    "q_rank": 138,
+    "q_score": 9.833
+   },
+   {
+    "rank": null,
+    "name": "SPONEVIK Sebastian",
+    "country": "NOR",
+    "score": null,
+    "q_rank": 139,
+    "q_score": 9.266
+   },
+   {
+    "rank": null,
+    "name": "TIAN Hao",
+    "country": "CHN",
+    "score": null,
+    "q_rank": 140,
+    "q_score": 7.766
+   },
+   {
+    "rank": null,
+    "name": "PUA Asher",
+    "country": "SGP",
+    "score": null,
+    "q_rank": 141,
+    "q_score": 7.333
+   }
+  ],
+  "Vault": [
+   {
+    "rank": 1,
+    "name": "DAVTYAN Artur",
+    "country": "ARM",
+    "score": 14.85,
+    "q_rank": 2,
+    "q_score": 14.633
+   },
+   {
+    "rank": 2,
+    "name": "JARMAN Jake",
+    "country": "GBR",
+    "score": 14.65,
+    "q_rank": 1,
+    "q_score": 14.633
+   },
+   {
+    "rank": 3,
+    "name": "SPONEVIK Sebastian",
+    "country": "NOR",
+    "score": 14.366,
+    "q_rank": 7,
+    "q_score": 14.233
+   },
+   {
+    "rank": 4,
+    "name": "CHEPURNYI Nazar",
+    "country": "UKR",
+    "score": 14.35,
+    "q_rank": 3,
+    "q_score": 14.45
+   },
+   {
+    "rank": 4,
+    "name": "DUKHNO Arsenii",
+    "country": "RUS",
+    "score": 14.35,
+    "q_rank": 4,
+    "q_score": 14.35
+   },
+   {
+    "rank": 6,
+    "name": "HEPWORTH Harry",
+    "country": "GBR",
+    "score": 14.066,
+    "q_rank": 8,
+    "q_score": 14.216
+   },
+   {
+    "rank": 7,
+    "name": "YULO Carlos Edriel",
+    "country": "PHI",
+    "score": 13.883,
+    "q_rank": 6,
+    "q_score": 14.266
+   },
+   {
+    "rank": 8,
+    "name": "KAWAKAMI Shohei",
+    "country": "JPN",
+    "score": 13.333,
+    "q_rank": 5,
+    "q_score": 14.283
+   },
+   {
+    "rank": null,
+    "name": "SHARAMKOU Yahor",
+    "country": "BLR",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 14.166
+   },
+   {
+    "rank": null,
+    "name": "NELSON Kameron",
+    "country": "USA",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 14.15
+   },
+   {
+    "rank": null,
+    "name": "SPERANZA Simone",
+    "country": "ITA",
+    "score": null,
+    "q_rank": 11,
+    "q_score": 13.95
+   },
+   {
+    "rank": null,
+    "name": "KYRIAKOU Neofytos",
+    "country": "CYP",
+    "score": null,
+    "q_rank": 12,
+    "q_score": 13.883
+   },
+   {
+    "rank": null,
+    "name": "TRIFONOV Daniel",
+    "country": "BUL",
+    "score": null,
+    "q_rank": 13,
+    "q_score": 13.883
+   },
+   {
+    "rank": null,
+    "name": "MARINOV Daniel",
+    "country": "RUS",
+    "score": null,
+    "q_rank": 14,
+    "q_score": 13.866
+   },
+   {
+    "rank": null,
+    "name": "PENEV Kevin",
+    "country": "BUL",
+    "score": null,
+    "q_rank": 15,
+    "q_score": 13.833
+   },
+   {
+    "rank": null,
+    "name": "AVCI Alperen Ege",
+    "country": "TUR",
+    "score": null,
+    "q_rank": 16,
+    "q_score": 13.816
+   },
+   {
+    "rank": null,
+    "name": "DANEK Jonas",
+    "country": "CZE",
+    "score": null,
+    "q_rank": 17,
+    "q_score": 13.799
+   },
+   {
+    "rank": null,
+    "name": "CONTRERAS Wilfry",
+    "country": "DOM",
+    "score": null,
+    "q_rank": 18,
+    "q_score": 13.783
+   },
+   {
+    "rank": null,
+    "name": "HARDY James",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 19,
+    "q_score": 13.733
+   },
+   {
+    "rank": null,
+    "name": "ARMIJO Josue",
+    "country": "CHI",
+    "score": null,
+    "q_rank": 20,
+    "q_score": 13.666
+   },
+   {
+    "rank": null,
+    "name": "HOSSAINI Hamza",
+    "country": "MAR",
+    "score": null,
+    "q_rank": 21,
+    "q_score": 13.616
+   },
+   {
+    "rank": null,
+    "name": "ROMERO Stefano",
+    "country": "ECU",
+    "score": null,
+    "q_rank": 22,
+    "q_score": 13.066
+   },
+   {
+    "rank": null,
+    "name": "MOLNAR Botond",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 23,
+    "q_score": 13.033
+   },
+   {
+    "rank": null,
+    "name": "CHEUNG Ching",
+    "country": "HKG",
+    "score": null,
+    "q_rank": 24,
+    "q_score": 12.933
+   },
+   {
+    "rank": null,
+    "name": "KUNST Beno",
+    "country": "SLO",
+    "score": null,
+    "q_rank": 25,
+    "q_score": 12.816
+   },
+   {
+    "rank": null,
+    "name": "VARAS Ignacio",
+    "country": "CHI",
+    "score": null,
+    "q_rank": 26,
+    "q_score": 12.416
+   },
+   {
+    "rank": null,
+    "name": "MCLEAN Daniel",
+    "country": "RSA",
+    "score": null,
+    "q_rank": 27,
+    "q_score": 12.349
+   },
+   {
+    "rank": null,
+    "name": "ZAPATA Rayderley",
+    "country": "ESP",
+    "score": null,
+    "q_rank": 28,
+    "q_score": 6.75
+   }
+  ],
+  "Parallel Bars": [
+   {
+    "rank": 1,
+    "name": "ZOU Jingyuan",
+    "country": "CHN",
+    "score": 15.733,
+    "q_rank": 1,
+    "q_score": 15.466
+   },
+   {
+    "rank": 2,
+    "name": "KOVTUN Illia",
+    "country": "CRO",
+    "score": 14.9,
+    "q_rank": 2,
+    "q_score": 14.9
+   },
+   {
+    "rank": 3,
+    "name": "MARINOV Daniel",
+    "country": "RUS",
+    "score": 14.866,
+    "q_rank": 6,
+    "q_score": 14.7
+   },
+   {
+    "rank": 4,
+    "name": "HASHIMOTO Daiki",
+    "country": "JPN",
+    "score": 14.6,
+    "q_rank": 4,
+    "q_score": 14.8
+   },
+   {
+    "rank": 5,
+    "name": "OKA Shinnosuke",
+    "country": "JPN",
+    "score": 14.566,
+    "q_rank": 3,
+    "q_score": 14.866
+   },
+   {
+    "rank": 6,
+    "name": "DUKHNO Arsenii",
+    "country": "RUS",
+    "score": 14.1,
+    "q_rank": 7,
+    "q_score": 14.6
+   },
+   {
+    "rank": 7,
+    "name": "RUMBUTIS David",
+    "country": "SWE",
+    "score": 13.866,
+    "q_rank": 9,
+    "q_score": 14.5
+   },
+   {
+    "rank": 8,
+    "name": "SEIFERT Noe",
+    "country": "SUI",
+    "score": 12.5,
+    "q_rank": 8,
+    "q_score": 14.6
+   },
+   {
+    "rank": null,
+    "name": "KAWAKAMI Shohei",
+    "country": "JPN",
+    "score": null,
+    "q_rank": 5,
+    "q_score": 14.8
+   },
+   {
+    "rank": null,
+    "name": "JARMAN Jake",
+    "country": "GBR",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 14.466
+   },
+   {
+    "rank": null,
+    "name": "WISKUS Shane",
+    "country": "USA",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 14.466
+   },
+   {
+    "rank": null,
+    "name": "YANG Haonan",
+    "country": "CHN",
+    "score": null,
+    "q_rank": 12,
+    "q_score": 14.466
+   },
+   {
+    "rank": null,
+    "name": "CHEPURNYI Nazar",
+    "country": "UKR",
+    "score": null,
+    "q_rank": 13,
+    "q_score": 14.4
+   },
+   {
+    "rank": null,
+    "name": "ABDURAKHIMOV Rasuljon",
+    "country": "UZB",
+    "score": null,
+    "q_rank": 13,
+    "q_score": 14.4
+   },
+   {
+    "rank": null,
+    "name": "FRASER Joe",
+    "country": "GBR",
+    "score": null,
+    "q_rank": 15,
+    "q_score": 14.4
+   },
+   {
+    "rank": null,
+    "name": "VERA Camilo",
+    "country": "COL",
+    "score": null,
+    "q_rank": 16,
+    "q_score": 14.333
+   },
+   {
+    "rank": null,
+    "name": "STELMAKH Radomyr",
+    "country": "GER",
+    "score": null,
+    "q_rank": 17,
+    "q_score": 14.3
+   },
+   {
+    "rank": null,
+    "name": "BARAJAS Angel",
+    "country": "COL",
+    "score": null,
+    "q_rank": 18,
+    "q_score": 14.3
+   },
+   {
+    "rank": null,
+    "name": "DOI Ryosuke",
+    "country": "JPN",
+    "score": null,
+    "q_rank": 19,
+    "q_score": 14.266
+   },
+   {
+    "rank": null,
+    "name": "GRUENBERG Jermain",
+    "country": "NED",
+    "score": null,
+    "q_rank": 20,
+    "q_score": 14.233
+   },
+   {
+    "rank": null,
+    "name": "PIFFARETTI Mattia",
+    "country": "SUI",
+    "score": null,
+    "q_rank": 21,
+    "q_score": 14.2
+   },
+   {
+    "rank": null,
+    "name": "LANGENEGGER Florian",
+    "country": "SUI",
+    "score": null,
+    "q_rank": 22,
+    "q_score": 14.166
+   },
+   {
+    "rank": null,
+    "name": "MESZAROS Krisztofer",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 23,
+    "q_score": 14.166
+   },
+   {
+    "rank": null,
+    "name": "YULO Carlos Edriel",
+    "country": "PHI",
+    "score": null,
+    "q_rank": 24,
+    "q_score": 14.166
+   },
+   {
+    "rank": null,
+    "name": "MACCHIATI Mario",
+    "country": "ITA",
+    "score": null,
+    "q_rank": 25,
+    "q_score": 14.133
+   },
+   {
+    "rank": null,
+    "name": "GIUBELLINI Matteo",
+    "country": "SUI",
+    "score": null,
+    "q_rank": 26,
+    "q_score": 14.1
+   },
+   {
+    "rank": null,
+    "name": "HUNG Yuan-Hsi",
+    "country": "TPE",
+    "score": null,
+    "q_rank": 27,
+    "q_score": 14.1
+   },
+   {
+    "rank": null,
+    "name": "VEFIC Petar",
+    "country": "SRB",
+    "score": null,
+    "q_rank": 28,
+    "q_score": 14.066
+   },
+   {
+    "rank": null,
+    "name": "CUYLE Nicola",
+    "country": "BEL",
+    "score": null,
+    "q_rank": 29,
+    "q_score": 14.033
+   },
+   {
+    "rank": null,
+    "name": "TULLOCH Courtney",
+    "country": "GBR",
+    "score": null,
+    "q_rank": 30,
+    "q_score": 14.033
+   },
+   {
+    "rank": null,
+    "name": "COURNOYER Rene",
+    "country": "CAN",
+    "score": null,
+    "q_rank": 31,
+    "q_score": 14
+   },
+   {
+    "rank": null,
+    "name": "ZAKUTNEY Samuel",
+    "country": "CAN",
+    "score": null,
+    "q_rank": 32,
+    "q_score": 14
+   },
+   {
+    "rank": null,
+    "name": "BERKOVICH Noam",
+    "country": "ISR",
+    "score": null,
+    "q_rank": 33,
+    "q_score": 13.966
+   },
+   {
+    "rank": null,
+    "name": "PLATA Joel",
+    "country": "ESP",
+    "score": null,
+    "q_rank": 34,
+    "q_score": 13.966
+   },
+   {
+    "rank": null,
+    "name": "PYATOV Ron",
+    "country": "ISR",
+    "score": null,
+    "q_rank": 35,
+    "q_score": 13.933
+   },
+   {
+    "rank": null,
+    "name": "ARICAN Ferhat",
+    "country": "TUR",
+    "score": null,
+    "q_rank": 36,
+    "q_score": 13.933
+   },
+   {
+    "rank": null,
+    "name": "CUYLE Glen",
+    "country": "BEL",
+    "score": null,
+    "q_rank": 37,
+    "q_score": 13.9
+   },
+   {
+    "rank": null,
+    "name": "IDRISSOV Nurtan",
+    "country": "KAZ",
+    "score": null,
+    "q_rank": 38,
+    "q_score": 13.833
+   },
+   {
+    "rank": null,
+    "name": "NAIDIN Sergei",
+    "country": "RUS",
+    "score": null,
+    "q_rank": 39,
+    "q_score": 13.833
+   },
+   {
+    "rank": null,
+    "name": "EDER Timo",
+    "country": "GER",
+    "score": null,
+    "q_rank": 40,
+    "q_score": 13.8
+   },
+   {
+    "rank": null,
+    "name": "MEJIA Thomas",
+    "country": "COL",
+    "score": null,
+    "q_rank": 41,
+    "q_score": 13.8
+   },
+   {
+    "rank": null,
+    "name": "TOMCSANYI Benedek",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 42,
+    "q_score": 13.733
+   },
+   {
+    "rank": null,
+    "name": "WARD Reuben",
+    "country": "GBR",
+    "score": null,
+    "q_rank": 43,
+    "q_score": 13.733
+   },
+   {
+    "rank": null,
+    "name": "ABAIDI Amine",
+    "country": "NED",
+    "score": null,
+    "q_rank": 44,
+    "q_score": 13.733
+   },
+   {
+    "rank": null,
+    "name": "SCHMIDT Casimir",
+    "country": "NED",
+    "score": null,
+    "q_rank": 45,
+    "q_score": 13.7
+   },
+   {
+    "rank": null,
+    "name": "HOSSAINI Hamza",
+    "country": "MAR",
+    "score": null,
+    "q_rank": 46,
+    "q_score": 13.666
+   },
+   {
+    "rank": null,
+    "name": "KUAVITA Noah",
+    "country": "BEL",
+    "score": null,
+    "q_rank": 47,
+    "q_score": 13.633
+   },
+   {
+    "rank": null,
+    "name": "MELNYKOV Mykyta",
+    "country": "UKR",
+    "score": null,
+    "q_rank": 47,
+    "q_score": 13.633
+   },
+   {
+    "rank": null,
+    "name": "LAN Xingyu",
+    "country": "CHN",
+    "score": null,
+    "q_rank": 49,
+    "q_score": 13.633
+   },
+   {
+    "rank": null,
+    "name": "HRYKO Vladyslav",
+    "country": "UKR",
+    "score": null,
+    "q_rank": 50,
+    "q_score": 13.6
+   },
+   {
+    "rank": null,
+    "name": "LIUBIMOV Ilia",
+    "country": "ISR",
+    "score": null,
+    "q_rank": 51,
+    "q_score": 13.6
+   },
+   {
+    "rank": null,
+    "name": "SIEEDIN Savelii",
+    "country": "RUS",
+    "score": null,
+    "q_rank": 52,
+    "q_score": 13.566
+   },
+   {
+    "rank": null,
+    "name": "MANSARD Anthony",
+    "country": "FRA",
+    "score": null,
+    "q_rank": 53,
+    "q_score": 13.533
+   },
+   {
+    "rank": null,
+    "name": "YOCKERS Ignacio",
+    "country": "ESP",
+    "score": null,
+    "q_rank": 54,
+    "q_score": 13.533
+   },
+   {
+    "rank": null,
+    "name": "VANNUCCHI Niccolo",
+    "country": "ITA",
+    "score": null,
+    "q_rank": 55,
+    "q_score": 13.533
+   },
+   {
+    "rank": null,
+    "name": "PATANIN Dmitriy",
+    "country": "KAZ",
+    "score": null,
+    "q_rank": 56,
+    "q_score": 13.533
+   },
+   {
+    "rank": null,
+    "name": "NUNEZ Isaac",
+    "country": "MEX",
+    "score": null,
+    "q_rank": 56,
+    "q_score": 13.533
+   },
+   {
+    "rank": null,
+    "name": "AFIFY Mohamed",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 58,
+    "q_score": 13.533
+   },
+   {
+    "rank": null,
+    "name": "MOORE Jesse",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 58,
+    "q_score": 13.533
+   },
+   {
+    "rank": null,
+    "name": "MARTINEZ Victor",
+    "country": "BEL",
+    "score": null,
+    "q_rank": 60,
+    "q_score": 13.533
+   },
+   {
+    "rank": null,
+    "name": "MARIANO Arthur",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 61,
+    "q_score": 13.5
+   },
+   {
+    "rank": null,
+    "name": "SAKOUHI Nael",
+    "country": "FRA",
+    "score": null,
+    "q_rank": 62,
+    "q_score": 13.5
+   },
+   {
+    "rank": null,
+    "name": "TREBING Glenn",
+    "country": "GER",
+    "score": null,
+    "q_rank": 63,
+    "q_score": 13.466
+   },
+   {
+    "rank": null,
+    "name": "MOHAMED Omar",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 64,
+    "q_score": 13.433
+   },
+   {
+    "rank": null,
+    "name": "ABBADINI Yumin",
+    "country": "ITA",
+    "score": null,
+    "q_rank": 65,
+    "q_score": 13.366
+   },
+   {
+    "rank": null,
+    "name": "GEORGIOU Ilias",
+    "country": "CYP",
+    "score": null,
+    "q_rank": 66,
+    "q_score": 13.333
+   },
+   {
+    "rank": null,
+    "name": "SPERANZA Simone",
+    "country": "ITA",
+    "score": null,
+    "q_rank": 67,
+    "q_score": 13.3
+   },
+   {
+    "rank": null,
+    "name": "VERNIAIEV Oleg",
+    "country": "UKR",
+    "score": null,
+    "q_rank": 68,
+    "q_score": 13.233
+   },
+   {
+    "rank": null,
+    "name": "OLAFSSON Dagur Kari",
+    "country": "ISL",
+    "score": null,
+    "q_rank": 69,
+    "q_score": 13.2
+   },
+   {
+    "rank": null,
+    "name": "CARRION CARO Daniel",
+    "country": "ESP",
+    "score": null,
+    "q_rank": 70,
+    "q_score": 13.166
+   },
+   {
+    "rank": null,
+    "name": "COGAT Adam",
+    "country": "ALG",
+    "score": null,
+    "q_rank": 70,
+    "q_score": 13.166
+   },
+   {
+    "rank": null,
+    "name": "GARNCZAREK Kacper",
+    "country": "POL",
+    "score": null,
+    "q_rank": 72,
+    "q_score": 13.166
+   },
+   {
+    "rank": null,
+    "name": "GUIMARAES Vitaliy",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 73,
+    "q_score": 13.133
+   },
+   {
+    "rank": null,
+    "name": "DOLCI Felix",
+    "country": "CAN",
+    "score": null,
+    "q_rank": 74,
+    "q_score": 13.133
+   },
+   {
+    "rank": null,
+    "name": "DAVIDSSON Agust Ingi",
+    "country": "ISL",
+    "score": null,
+    "q_rank": 75,
+    "q_score": 13.1
+   },
+   {
+    "rank": null,
+    "name": "PARK Jinho",
+    "country": "KOR",
+    "score": null,
+    "q_rank": 76,
+    "q_score": 13.066
+   },
+   {
+    "rank": null,
+    "name": "HARDY James",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 77,
+    "q_score": 13.033
+   },
+   {
+    "rank": null,
+    "name": "AHMED Mostafa",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 78,
+    "q_score": 13
+   },
+   {
+    "rank": null,
+    "name": "MIR Nicolau",
+    "country": "ESP",
+    "score": null,
+    "q_rank": 79,
+    "q_score": 13
+   },
+   {
+    "rank": null,
+    "name": "AVCI Alperen Ege",
+    "country": "TUR",
+    "score": null,
+    "q_rank": 80,
+    "q_score": 12.966
+   },
+   {
+    "rank": null,
+    "name": "PARDO Nahuel Nicolas",
+    "country": "ARG",
+    "score": null,
+    "q_rank": 81,
+    "q_score": 12.933
+   },
+   {
+    "rank": null,
+    "name": "KIRMES Robert",
+    "country": "FIN",
+    "score": null,
+    "q_rank": 82,
+    "q_score": 12.933
+   },
+   {
+    "rank": null,
+    "name": "BRANDENBURGER Quentin",
+    "country": "LUX",
+    "score": null,
+    "q_rank": 83,
+    "q_score": 12.9
+   },
+   {
+    "rank": null,
+    "name": "LEE Junghyo",
+    "country": "KOR",
+    "score": null,
+    "q_rank": 84,
+    "q_score": 12.9
+   },
+   {
+    "rank": null,
+    "name": "VETTER Gino",
+    "country": "AUT",
+    "score": null,
+    "q_rank": 85,
+    "q_score": 12.866
+   },
+   {
+    "rank": null,
+    "name": "MALIK Ritam",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 86,
+    "q_score": 12.833
+   },
+   {
+    "rank": null,
+    "name": "RICHARD Frederick",
+    "country": "USA",
+    "score": null,
+    "q_rank": 87,
+    "q_score": 12.833
+   },
+   {
+    "rank": null,
+    "name": "OLASZ Xavier",
+    "country": "CAN",
+    "score": null,
+    "q_rank": 88,
+    "q_score": 12.8
+   },
+   {
+    "rank": null,
+    "name": "FAVERUS Elijah",
+    "country": "NED",
+    "score": null,
+    "q_rank": 89,
+    "q_score": 12.8
+   },
+   {
+    "rank": null,
+    "name": "SAMPAIO Patrick",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 90,
+    "q_score": 12.766
+   },
+   {
+    "rank": null,
+    "name": "LEYKIN Danila",
+    "country": "USA",
+    "score": null,
+    "q_rank": 91,
+    "q_score": 12.766
+   },
+   {
+    "rank": null,
+    "name": "WIBYE Harald",
+    "country": "NOR",
+    "score": null,
+    "q_rank": 92,
+    "q_score": 12.733
+   },
+   {
+    "rank": null,
+    "name": "NELSON Kameron",
+    "country": "USA",
+    "score": null,
+    "q_rank": 93,
+    "q_score": 12.7
+   },
+   {
+    "rank": null,
+    "name": "CARVALHO Kevin",
+    "country": "FRA",
+    "score": null,
+    "q_rank": 94,
+    "q_score": 12.7
+   },
+   {
+    "rank": null,
+    "name": "TIAN Hao",
+    "country": "CHN",
+    "score": null,
+    "q_rank": 95,
+    "q_score": 12.633
+   },
+   {
+    "rank": null,
+    "name": "TANTALIDIS Antonios",
+    "country": "GRE",
+    "score": null,
+    "q_rank": 96,
+    "q_score": 12.633
+   },
+   {
+    "rank": null,
+    "name": "CHIOU Min-Han",
+    "country": "TPE",
+    "score": null,
+    "q_rank": 97,
+    "q_score": 12.633
+   },
+   {
+    "rank": null,
+    "name": "ANGONAS Georgios",
+    "country": "CYP",
+    "score": null,
+    "q_rank": 98,
+    "q_score": 12.6
+   },
+   {
+    "rank": null,
+    "name": "LEE Chih-Kai",
+    "country": "TPE",
+    "score": null,
+    "q_rank": 99,
+    "q_score": 12.6
+   },
+   {
+    "rank": null,
+    "name": "LOPEZ Jose",
+    "country": "PUR",
+    "score": null,
+    "q_rank": 100,
+    "q_score": 12.566
+   },
+   {
+    "rank": null,
+    "name": "ZAVORY Szilard",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 101,
+    "q_score": 12.533
+   },
+   {
+    "rank": null,
+    "name": "ALI Mazen",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 102,
+    "q_score": 12.533
+   },
+   {
+    "rank": null,
+    "name": "ERKHEMBAYAR Usukhbayar",
+    "country": "MGL",
+    "score": null,
+    "q_rank": 103,
+    "q_score": 12.5
+   },
+   {
+    "rank": null,
+    "name": "SKOGVANG Peder",
+    "country": "NOR",
+    "score": null,
+    "q_rank": 104,
+    "q_score": 12.5
+   },
+   {
+    "rank": null,
+    "name": "TRIFONOV Daniel",
+    "country": "BUL",
+    "score": null,
+    "q_rank": 105,
+    "q_score": 12.5
+   },
+   {
+    "rank": null,
+    "name": "STEELE Adam",
+    "country": "IRL",
+    "score": null,
+    "q_rank": 106,
+    "q_score": 12.466
+   },
+   {
+    "rank": null,
+    "name": "KILICER Mert Efe",
+    "country": "TUR",
+    "score": null,
+    "q_rank": 107,
+    "q_score": 12.466
+   },
+   {
+    "rank": null,
+    "name": "HRYHARCHUK Danila",
+    "country": "BLR",
+    "score": null,
+    "q_rank": 108,
+    "q_score": 12.466
+   },
+   {
+    "rank": null,
+    "name": "KIM Jaeho",
+    "country": "KOR",
+    "score": null,
+    "q_rank": 109,
+    "q_score": 12.466
+   },
+   {
+    "rank": null,
+    "name": "BAOBENMAD Suphacheep",
+    "country": "THA",
+    "score": null,
+    "q_rank": 110,
+    "q_score": 12.4
+   },
+   {
+    "rank": null,
+    "name": "GONZALES Edward",
+    "country": "PER",
+    "score": null,
+    "q_rank": 111,
+    "q_score": 12.366
+   },
+   {
+    "rank": null,
+    "name": "SOARES Diogo",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 112,
+    "q_score": 12.333
+   },
+   {
+    "rank": null,
+    "name": "AHMADZADA Rasul",
+    "country": "AZE",
+    "score": null,
+    "q_rank": 113,
+    "q_score": 12.3
+   },
+   {
+    "rank": null,
+    "name": "ROMERO Stefano",
+    "country": "ECU",
+    "score": null,
+    "q_rank": 114,
+    "q_score": 12.266
+   },
+   {
+    "rank": null,
+    "name": "MAYOL Santiago",
+    "country": "ARG",
+    "score": null,
+    "q_rank": 115,
+    "q_score": 12.266
+   },
+   {
+    "rank": null,
+    "name": "LECHAUD Luis",
+    "country": "POR",
+    "score": null,
+    "q_rank": 116,
+    "q_score": 12.166
+   },
+   {
+    "rank": null,
+    "name": "SKHILADZE Levan",
+    "country": "GEO",
+    "score": null,
+    "q_rank": 117,
+    "q_score": 12.133
+   },
+   {
+    "rank": null,
+    "name": "WAHRMANN-BAKER Elel",
+    "country": "JAM",
+    "score": null,
+    "q_rank": 118,
+    "q_score": 12.133
+   },
+   {
+    "rank": null,
+    "name": "ZABALA Yan",
+    "country": "COL",
+    "score": null,
+    "q_rank": 119,
+    "q_score": 12.133
+   },
+   {
+    "rank": null,
+    "name": "CHRONOPOULOS Ioannis",
+    "country": "GRE",
+    "score": null,
+    "q_rank": 120,
+    "q_score": 12
+   },
+   {
+    "rank": null,
+    "name": "AZIZOV Ilyas",
+    "country": "KAZ",
+    "score": null,
+    "q_rank": 121,
+    "q_score": 11.966
+   },
+   {
+    "rank": null,
+    "name": "LAKOMY Adam",
+    "country": "CZE",
+    "score": null,
+    "q_rank": 122,
+    "q_score": 11.9
+   },
+   {
+    "rank": null,
+    "name": "DUNKEL Nils",
+    "country": "GER",
+    "score": null,
+    "q_rank": 123,
+    "q_score": 11.9
+   },
+   {
+    "rank": null,
+    "name": "KAMILJANOV Ravshan",
+    "country": "UZB",
+    "score": null,
+    "q_rank": 124,
+    "q_score": 11.833
+   },
+   {
+    "rank": null,
+    "name": "ZULFA Luqman Al Hafiz",
+    "country": "MAS",
+    "score": null,
+    "q_rank": 125,
+    "q_score": 11.833
+   },
+   {
+    "rank": null,
+    "name": "TVARDOUSKI Daniil",
+    "country": "BLR",
+    "score": null,
+    "q_rank": 126,
+    "q_score": 11.7
+   },
+   {
+    "rank": null,
+    "name": "PARK Seungho",
+    "country": "KOR",
+    "score": null,
+    "q_rank": 127,
+    "q_score": 11.666
+   },
+   {
+    "rank": null,
+    "name": "PUA Asher",
+    "country": "SGP",
+    "score": null,
+    "q_rank": 128,
+    "q_score": 11.633
+   },
+   {
+    "rank": null,
+    "name": "GARCIA Rahi",
+    "country": "GUA",
+    "score": null,
+    "q_rank": 129,
+    "q_score": 11.566
+   },
+   {
+    "rank": null,
+    "name": "SPONEVIK Sebastian",
+    "country": "NOR",
+    "score": null,
+    "q_rank": 130,
+    "q_score": 11.466
+   },
+   {
+    "rank": null,
+    "name": "GADDERUD Theodor",
+    "country": "NOR",
+    "score": null,
+    "q_rank": 131,
+    "q_score": 11.433
+   },
+   {
+    "rank": null,
+    "name": "GAGAMOV Jack",
+    "country": "CZE",
+    "score": null,
+    "q_rank": 132,
+    "q_score": 11.333
+   },
+   {
+    "rank": null,
+    "name": "SUNDELL William",
+    "country": "SWE",
+    "score": null,
+    "q_rank": 133,
+    "q_score": 11.3
+   },
+   {
+    "rank": null,
+    "name": "TANG Chia-Hung",
+    "country": "TPE",
+    "score": null,
+    "q_rank": 134,
+    "q_score": 11.2
+   },
+   {
+    "rank": null,
+    "name": "TRAORE-MALATRE Leeroy",
+    "country": "FRA",
+    "score": null,
+    "q_rank": 135,
+    "q_score": 11.166
+   },
+   {
+    "rank": null,
+    "name": "KOSKI Elias",
+    "country": "FIN",
+    "score": null,
+    "q_rank": 136,
+    "q_score": 11.133
+   },
+   {
+    "rank": null,
+    "name": "MOLNAR Botond",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 137,
+    "q_score": 11.1
+   },
+   {
+    "rank": null,
+    "name": "MCLEAN Daniel",
+    "country": "RSA",
+    "score": null,
+    "q_rank": 138,
+    "q_score": 10.966
+   },
+   {
+    "rank": null,
+    "name": "KYRIAKOU Neofytos",
+    "country": "CYP",
+    "score": null,
+    "q_rank": 139,
+    "q_score": 10.833
+   },
+   {
+    "rank": null,
+    "name": "ISTOCK Alexander",
+    "country": "NZL",
+    "score": null,
+    "q_rank": 140,
+    "q_score": 10.766
+   },
+   {
+    "rank": null,
+    "name": "SOTO RODRIGUEZ Jensuel J",
+    "country": "PUR",
+    "score": null,
+    "q_rank": 141,
+    "q_score": 10.766
+   },
+   {
+    "rank": null,
+    "name": "ERGASHEV Khabibullo",
+    "country": "UZB",
+    "score": null,
+    "q_rank": 142,
+    "q_score": 10.6
+   },
+   {
+    "rank": null,
+    "name": "TARCA Nicholas",
+    "country": "ROU",
+    "score": null,
+    "q_rank": 143,
+    "q_score": 10.4
+   },
+   {
+    "rank": null,
+    "name": "FRICK Aiden",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 144,
+    "q_score": 10.333
+   },
+   {
+    "rank": null,
+    "name": "GRIKINIS Nedas",
+    "country": "LTU",
+    "score": null,
+    "q_rank": 145,
+    "q_score": 9.9
+   },
+   {
+    "rank": null,
+    "name": "YULO Karl Jahrel Eldrew",
+    "country": "PHI",
+    "score": null,
+    "q_rank": 146,
+    "q_score": 8.6
+   }
+  ],
+  "Horizontal Bar": [
+   {
+    "rank": 1,
+    "name": "TANG Chia-Hung",
+    "country": "TPE",
+    "score": 14.966,
+    "q_rank": 2,
+    "q_score": 14.566
+   },
+   {
+    "rank": 2,
+    "name": "OKA Shinnosuke",
+    "country": "JPN",
+    "score": 14.8,
+    "q_rank": 3,
+    "q_score": 14.5
+   },
+   {
+    "rank": 3,
+    "name": "NAIDIN Sergei",
+    "country": "RUS",
+    "score": 14.8,
+    "q_rank": 6,
+    "q_score": 14.233
+   },
+   {
+    "rank": 4,
+    "name": "KAWAKAMI Shohei",
+    "country": "JPN",
+    "score": 14.6,
+    "q_rank": 1,
+    "q_score": 14.6
+   },
+   {
+    "rank": 5,
+    "name": "MOORE Jesse",
+    "country": "AUS",
+    "score": 14.433,
+    "q_rank": 4,
+    "q_score": 14.366
+   },
+   {
+    "rank": 6,
+    "name": "VERA Camilo",
+    "country": "COL",
+    "score": 13.333,
+    "q_rank": 7,
+    "q_score": 14.166
+   },
+   {
+    "rank": 7,
+    "name": "BARAJAS Angel",
+    "country": "COL",
+    "score": 13.333,
+    "q_rank": 5,
+    "q_score": 14.333
+   },
+   {
+    "rank": 8,
+    "name": "ABBADINI Yumin",
+    "country": "ITA",
+    "score": 12.6,
+    "q_rank": 8,
+    "q_score": 14.166
+   },
+   {
+    "rank": null,
+    "name": "RICHARD Frederick",
+    "country": "USA",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 14.133
+   },
+   {
+    "rank": null,
+    "name": "DUKHNO Arsenii",
+    "country": "RUS",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 14.033
+   },
+   {
+    "rank": null,
+    "name": "DOLCI Felix",
+    "country": "CAN",
+    "score": null,
+    "q_rank": 11,
+    "q_score": 14.033
+   },
+   {
+    "rank": null,
+    "name": "TIAN Hao",
+    "country": "CHN",
+    "score": null,
+    "q_rank": 12,
+    "q_score": 14
+   },
+   {
+    "rank": null,
+    "name": "FRASER Joe",
+    "country": "GBR",
+    "score": null,
+    "q_rank": 13,
+    "q_score": 13.933
+   },
+   {
+    "rank": null,
+    "name": "SIEEDIN Savelii",
+    "country": "RUS",
+    "score": null,
+    "q_rank": 14,
+    "q_score": 13.833
+   },
+   {
+    "rank": null,
+    "name": "CARVALHO Kevin",
+    "country": "FRA",
+    "score": null,
+    "q_rank": 15,
+    "q_score": 13.833
+   },
+   {
+    "rank": null,
+    "name": "LEYKIN Danila",
+    "country": "USA",
+    "score": null,
+    "q_rank": 16,
+    "q_score": 13.8
+   },
+   {
+    "rank": null,
+    "name": "MARINOV Daniel",
+    "country": "RUS",
+    "score": null,
+    "q_rank": 17,
+    "q_score": 13.733
+   },
+   {
+    "rank": null,
+    "name": "KOVTUN Illia",
+    "country": "CRO",
+    "score": null,
+    "q_rank": 18,
+    "q_score": 13.733
+   },
+   {
+    "rank": null,
+    "name": "MANSARD Anthony",
+    "country": "FRA",
+    "score": null,
+    "q_rank": 19,
+    "q_score": 13.7
+   },
+   {
+    "rank": null,
+    "name": "HASHIMOTO Daiki",
+    "country": "JPN",
+    "score": null,
+    "q_rank": 20,
+    "q_score": 13.7
+   },
+   {
+    "rank": null,
+    "name": "SOARES Diogo",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 21,
+    "q_score": 13.633
+   },
+   {
+    "rank": null,
+    "name": "YANG Haonan",
+    "country": "CHN",
+    "score": null,
+    "q_rank": 22,
+    "q_score": 13.566
+   },
+   {
+    "rank": null,
+    "name": "MAEDA Fusuke",
+    "country": "JPN",
+    "score": null,
+    "q_rank": 23,
+    "q_score": 13.566
+   },
+   {
+    "rank": null,
+    "name": "GRUENBERG Jermain",
+    "country": "NED",
+    "score": null,
+    "q_rank": 24,
+    "q_score": 13.5
+   },
+   {
+    "rank": null,
+    "name": "LEHTINEN Leo",
+    "country": "FIN",
+    "score": null,
+    "q_rank": 25,
+    "q_score": 13.5
+   },
+   {
+    "rank": null,
+    "name": "WISKUS Shane",
+    "country": "USA",
+    "score": null,
+    "q_rank": 26,
+    "q_score": 13.5
+   },
+   {
+    "rank": null,
+    "name": "KIM Jaeho",
+    "country": "KOR",
+    "score": null,
+    "q_rank": 27,
+    "q_score": 13.466
+   },
+   {
+    "rank": null,
+    "name": "LANGENEGGER Florian",
+    "country": "SUI",
+    "score": null,
+    "q_rank": 28,
+    "q_score": 13.4
+   },
+   {
+    "rank": null,
+    "name": "MESZAROS Krisztofer",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 29,
+    "q_score": 13.4
+   },
+   {
+    "rank": null,
+    "name": "SAMPAIO Patrick",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 29,
+    "q_score": 13.4
+   },
+   {
+    "rank": null,
+    "name": "COURNOYER Rene",
+    "country": "CAN",
+    "score": null,
+    "q_rank": 31,
+    "q_score": 13.366
+   },
+   {
+    "rank": null,
+    "name": "JARMAN Jake",
+    "country": "GBR",
+    "score": null,
+    "q_rank": 32,
+    "q_score": 13.333
+   },
+   {
+    "rank": null,
+    "name": "MALIK Ritam",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 33,
+    "q_score": 13.333
+   },
+   {
+    "rank": null,
+    "name": "ZAKUTNEY Samuel",
+    "country": "CAN",
+    "score": null,
+    "q_rank": 34,
+    "q_score": 13.333
+   },
+   {
+    "rank": null,
+    "name": "ZAVORY Szilard",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 34,
+    "q_score": 13.333
+   },
+   {
+    "rank": null,
+    "name": "ABAIDI Amine",
+    "country": "NED",
+    "score": null,
+    "q_rank": 36,
+    "q_score": 13.333
+   },
+   {
+    "rank": null,
+    "name": "FAVERUS Elijah",
+    "country": "NED",
+    "score": null,
+    "q_rank": 37,
+    "q_score": 13.3
+   },
+   {
+    "rank": null,
+    "name": "SOTO RODRIGUEZ Jensuel J",
+    "country": "PUR",
+    "score": null,
+    "q_rank": 38,
+    "q_score": 13.266
+   },
+   {
+    "rank": null,
+    "name": "KOSKI Elias",
+    "country": "FIN",
+    "score": null,
+    "q_rank": 39,
+    "q_score": 13.266
+   },
+   {
+    "rank": null,
+    "name": "LOPEZ Jose",
+    "country": "PUR",
+    "score": null,
+    "q_rank": 40,
+    "q_score": 13.233
+   },
+   {
+    "rank": null,
+    "name": "EDER Timo",
+    "country": "GER",
+    "score": null,
+    "q_rank": 41,
+    "q_score": 13.2
+   },
+   {
+    "rank": null,
+    "name": "TREBING Glenn",
+    "country": "GER",
+    "score": null,
+    "q_rank": 42,
+    "q_score": 13.2
+   },
+   {
+    "rank": null,
+    "name": "MARTINEZ Victor",
+    "country": "BEL",
+    "score": null,
+    "q_rank": 43,
+    "q_score": 13.166
+   },
+   {
+    "rank": null,
+    "name": "TAMSEL Dominic",
+    "country": "SUI",
+    "score": null,
+    "q_rank": 44,
+    "q_score": 13.133
+   },
+   {
+    "rank": null,
+    "name": "TARCA Nicholas",
+    "country": "ROU",
+    "score": null,
+    "q_rank": 45,
+    "q_score": 13.133
+   },
+   {
+    "rank": null,
+    "name": "MACCHIATI Mario",
+    "country": "ITA",
+    "score": null,
+    "q_rank": 46,
+    "q_score": 13.1
+   },
+   {
+    "rank": null,
+    "name": "GARNCZAREK Kacper",
+    "country": "POL",
+    "score": null,
+    "q_rank": 47,
+    "q_score": 13.066
+   },
+   {
+    "rank": null,
+    "name": "KOCHAN Lucas",
+    "country": "GER",
+    "score": null,
+    "q_rank": 48,
+    "q_score": 13.066
+   },
+   {
+    "rank": null,
+    "name": "CARRION CARO Daniel",
+    "country": "ESP",
+    "score": null,
+    "q_rank": 49,
+    "q_score": 13.033
+   },
+   {
+    "rank": null,
+    "name": "VANNUCCHI Niccolo",
+    "country": "ITA",
+    "score": null,
+    "q_rank": 50,
+    "q_score": 13
+   },
+   {
+    "rank": null,
+    "name": "LEE Chih-Kai",
+    "country": "TPE",
+    "score": null,
+    "q_rank": 51,
+    "q_score": 12.966
+   },
+   {
+    "rank": null,
+    "name": "HRYKO Vladyslav",
+    "country": "UKR",
+    "score": null,
+    "q_rank": 52,
+    "q_score": 12.966
+   },
+   {
+    "rank": null,
+    "name": "VAN DER AA Kilan",
+    "country": "BEL",
+    "score": null,
+    "q_rank": 53,
+    "q_score": 12.933
+   },
+   {
+    "rank": null,
+    "name": "AVCI Alperen Ege",
+    "country": "TUR",
+    "score": null,
+    "q_rank": 54,
+    "q_score": 12.9
+   },
+   {
+    "rank": null,
+    "name": "GUIMARAES Vitaliy",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 55,
+    "q_score": 12.9
+   },
+   {
+    "rank": null,
+    "name": "HUNG Yuan-Hsi",
+    "country": "TPE",
+    "score": null,
+    "q_rank": 56,
+    "q_score": 12.9
+   },
+   {
+    "rank": null,
+    "name": "WARD Reuben",
+    "country": "GBR",
+    "score": null,
+    "q_rank": 57,
+    "q_score": 12.866
+   },
+   {
+    "rank": null,
+    "name": "FRICK Aiden",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 58,
+    "q_score": 12.8
+   },
+   {
+    "rank": null,
+    "name": "KYRIAKOU Neofytos",
+    "country": "CYP",
+    "score": null,
+    "q_rank": 59,
+    "q_score": 12.8
+   },
+   {
+    "rank": null,
+    "name": "TANTALIDIS Antonios",
+    "country": "GRE",
+    "score": null,
+    "q_rank": 60,
+    "q_score": 12.766
+   },
+   {
+    "rank": null,
+    "name": "CHIOU Min-Han",
+    "country": "TPE",
+    "score": null,
+    "q_rank": 61,
+    "q_score": 12.766
+   },
+   {
+    "rank": null,
+    "name": "GAGAMOV Jack",
+    "country": "CZE",
+    "score": null,
+    "q_rank": 62,
+    "q_score": 12.766
+   },
+   {
+    "rank": null,
+    "name": "GEORGIOU Ilias",
+    "country": "CYP",
+    "score": null,
+    "q_rank": 63,
+    "q_score": 12.733
+   },
+   {
+    "rank": null,
+    "name": "DOLGOPYAT Artem",
+    "country": "ISR",
+    "score": null,
+    "q_rank": 64,
+    "q_score": 12.733
+   },
+   {
+    "rank": null,
+    "name": "MOLNAR Botond",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 65,
+    "q_score": 12.733
+   },
+   {
+    "rank": null,
+    "name": "BESANA Juancho Miguel",
+    "country": "PHI",
+    "score": null,
+    "q_rank": 65,
+    "q_score": 12.733
+   },
+   {
+    "rank": null,
+    "name": "TRIFONOV Daniel",
+    "country": "BUL",
+    "score": null,
+    "q_rank": 67,
+    "q_score": 12.733
+   },
+   {
+    "rank": null,
+    "name": "KUAVITA Noah",
+    "country": "BEL",
+    "score": null,
+    "q_rank": 68,
+    "q_score": 12.733
+   },
+   {
+    "rank": null,
+    "name": "ELSHOBKI Omar",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 69,
+    "q_score": 12.7
+   },
+   {
+    "rank": null,
+    "name": "KARIMI Milad",
+    "country": "KAZ",
+    "score": null,
+    "q_rank": 70,
+    "q_score": 12.7
+   },
+   {
+    "rank": null,
+    "name": "MOHAMED Omar",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 71,
+    "q_score": 12.666
+   },
+   {
+    "rank": null,
+    "name": "MIR Nicolau",
+    "country": "ESP",
+    "score": null,
+    "q_rank": 72,
+    "q_score": 12.633
+   },
+   {
+    "rank": null,
+    "name": "TRAORE-MALATRE Leeroy",
+    "country": "FRA",
+    "score": null,
+    "q_rank": 73,
+    "q_score": 12.633
+   },
+   {
+    "rank": null,
+    "name": "YOCKERS Ignacio",
+    "country": "ESP",
+    "score": null,
+    "q_rank": 74,
+    "q_score": 12.6
+   },
+   {
+    "rank": null,
+    "name": "IDRISSOV Nurtan",
+    "country": "KAZ",
+    "score": null,
+    "q_rank": 75,
+    "q_score": 12.6
+   },
+   {
+    "rank": null,
+    "name": "LAKOMY Adam",
+    "country": "CZE",
+    "score": null,
+    "q_rank": 76,
+    "q_score": 12.566
+   },
+   {
+    "rank": null,
+    "name": "BAOBENMAD Suphacheep",
+    "country": "THA",
+    "score": null,
+    "q_rank": 77,
+    "q_score": 12.533
+   },
+   {
+    "rank": null,
+    "name": "MELNYKOV Mykyta",
+    "country": "UKR",
+    "score": null,
+    "q_rank": 78,
+    "q_score": 12.533
+   },
+   {
+    "rank": null,
+    "name": "KILICER Mert Efe",
+    "country": "TUR",
+    "score": null,
+    "q_rank": 79,
+    "q_score": 12.5
+   },
+   {
+    "rank": null,
+    "name": "BRANDENBURGER Quentin",
+    "country": "LUX",
+    "score": null,
+    "q_rank": 80,
+    "q_score": 12.466
+   },
+   {
+    "rank": null,
+    "name": "AHMADZADA Rasul",
+    "country": "AZE",
+    "score": null,
+    "q_rank": 81,
+    "q_score": 12.466
+   },
+   {
+    "rank": null,
+    "name": "LETELIER Luciano",
+    "country": "CHI",
+    "score": null,
+    "q_rank": 82,
+    "q_score": 12.466
+   },
+   {
+    "rank": null,
+    "name": "SPONEVIK Sebastian",
+    "country": "NOR",
+    "score": null,
+    "q_rank": 83,
+    "q_score": 12.4
+   },
+   {
+    "rank": null,
+    "name": "SPERANZA Simone",
+    "country": "ITA",
+    "score": null,
+    "q_rank": 84,
+    "q_score": 12.4
+   },
+   {
+    "rank": null,
+    "name": "STELMAKH Radomyr",
+    "country": "GER",
+    "score": null,
+    "q_rank": 85,
+    "q_score": 12.366
+   },
+   {
+    "rank": null,
+    "name": "KANELLOS Apostolos",
+    "country": "GRE",
+    "score": null,
+    "q_rank": 86,
+    "q_score": 12.366
+   },
+   {
+    "rank": null,
+    "name": "ALEKSANDROV Yordan",
+    "country": "BUL",
+    "score": null,
+    "q_rank": 87,
+    "q_score": 12.333
+   },
+   {
+    "rank": null,
+    "name": "MAYOL Santiago",
+    "country": "ARG",
+    "score": null,
+    "q_rank": 88,
+    "q_score": 12.3
+   },
+   {
+    "rank": null,
+    "name": "SEIFERT Noe",
+    "country": "SUI",
+    "score": null,
+    "q_rank": 89,
+    "q_score": 12.3
+   },
+   {
+    "rank": null,
+    "name": "GRIKINIS Nedas",
+    "country": "LTU",
+    "score": null,
+    "q_rank": 90,
+    "q_score": 12.266
+   },
+   {
+    "rank": null,
+    "name": "COGAT Adam",
+    "country": "ALG",
+    "score": null,
+    "q_rank": 91,
+    "q_score": 12.2
+   },
+   {
+    "rank": null,
+    "name": "ERKHEMBAYAR Usukhbayar",
+    "country": "MGL",
+    "score": null,
+    "q_rank": 92,
+    "q_score": 12.166
+   },
+   {
+    "rank": null,
+    "name": "NUNEZ Isaac",
+    "country": "MEX",
+    "score": null,
+    "q_rank": 93,
+    "q_score": 12.166
+   },
+   {
+    "rank": null,
+    "name": "LI Hongyan",
+    "country": "CHN",
+    "score": null,
+    "q_rank": 94,
+    "q_score": 12.133
+   },
+   {
+    "rank": null,
+    "name": "PLATA Joel",
+    "country": "ESP",
+    "score": null,
+    "q_rank": 95,
+    "q_score": 12.1
+   },
+   {
+    "rank": null,
+    "name": "LAN Xingyu",
+    "country": "CHN",
+    "score": null,
+    "q_rank": 96,
+    "q_score": 12.066
+   },
+   {
+    "rank": null,
+    "name": "ALI Mazen",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 97,
+    "q_score": 12.066
+   },
+   {
+    "rank": null,
+    "name": "GONZALES Edward",
+    "country": "PER",
+    "score": null,
+    "q_rank": 98,
+    "q_score": 12.066
+   },
+   {
+    "rank": null,
+    "name": "TOMCSANYI Benedek",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 99,
+    "q_score": 12.066
+   },
+   {
+    "rank": null,
+    "name": "ORTAL Ron",
+    "country": "ISR",
+    "score": null,
+    "q_rank": 100,
+    "q_score": 12.066
+   },
+   {
+    "rank": null,
+    "name": "STEELE Adam",
+    "country": "IRL",
+    "score": null,
+    "q_rank": 101,
+    "q_score": 12.033
+   },
+   {
+    "rank": null,
+    "name": "ISTOCK Alexander",
+    "country": "NZL",
+    "score": null,
+    "q_rank": 102,
+    "q_score": 12.033
+   },
+   {
+    "rank": null,
+    "name": "PARK Jinho",
+    "country": "KOR",
+    "score": null,
+    "q_rank": 103,
+    "q_score": 12.033
+   },
+   {
+    "rank": null,
+    "name": "SAKOUHI Nael",
+    "country": "FRA",
+    "score": null,
+    "q_rank": 104,
+    "q_score": 12.033
+   },
+   {
+    "rank": null,
+    "name": "CHRONOPOULOS Ioannis",
+    "country": "GRE",
+    "score": null,
+    "q_rank": 105,
+    "q_score": 12
+   },
+   {
+    "rank": null,
+    "name": "MEJIA Thomas",
+    "country": "COL",
+    "score": null,
+    "q_rank": 106,
+    "q_score": 12
+   },
+   {
+    "rank": null,
+    "name": "PARK Seungho",
+    "country": "KOR",
+    "score": null,
+    "q_rank": 107,
+    "q_score": 12
+   },
+   {
+    "rank": null,
+    "name": "KALINIC Tomas",
+    "country": "CZE",
+    "score": null,
+    "q_rank": 108,
+    "q_score": 11.966
+   },
+   {
+    "rank": null,
+    "name": "SENER Kerem",
+    "country": "TUR",
+    "score": null,
+    "q_rank": 109,
+    "q_score": 11.933
+   },
+   {
+    "rank": null,
+    "name": "OLAFSSON Dagur Kari",
+    "country": "ISL",
+    "score": null,
+    "q_rank": 110,
+    "q_score": 11.9
+   },
+   {
+    "rank": null,
+    "name": "SKOGVANG Peder",
+    "country": "NOR",
+    "score": null,
+    "q_rank": 111,
+    "q_score": 11.9
+   },
+   {
+    "rank": null,
+    "name": "ZABALA Yan",
+    "country": "COL",
+    "score": null,
+    "q_rank": 112,
+    "q_score": 11.9
+   },
+   {
+    "rank": null,
+    "name": "OLASZ Xavier",
+    "country": "CAN",
+    "score": null,
+    "q_rank": 113,
+    "q_score": 11.833
+   },
+   {
+    "rank": null,
+    "name": "PARDO Nahuel Nicolas",
+    "country": "ARG",
+    "score": null,
+    "q_rank": 114,
+    "q_score": 11.833
+   },
+   {
+    "rank": null,
+    "name": "BERKOVICH Noam",
+    "country": "ISR",
+    "score": null,
+    "q_rank": 115,
+    "q_score": 11.833
+   },
+   {
+    "rank": null,
+    "name": "HARDY James",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 116,
+    "q_score": 11.8
+   },
+   {
+    "rank": null,
+    "name": "ANGONAS Georgios",
+    "country": "CYP",
+    "score": null,
+    "q_rank": 117,
+    "q_score": 11.8
+   },
+   {
+    "rank": null,
+    "name": "GIUBELLINI Matteo",
+    "country": "SUI",
+    "score": null,
+    "q_rank": 118,
+    "q_score": 11.7
+   },
+   {
+    "rank": null,
+    "name": "AZIZOV Ilyas",
+    "country": "KAZ",
+    "score": null,
+    "q_rank": 119,
+    "q_score": 11.7
+   },
+   {
+    "rank": null,
+    "name": "WAHRMANN-BAKER Elel",
+    "country": "JAM",
+    "score": null,
+    "q_rank": 120,
+    "q_score": 11.666
+   },
+   {
+    "rank": null,
+    "name": "AHMED Mostafa",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 121,
+    "q_score": 11.566
+   },
+   {
+    "rank": null,
+    "name": "LEE Junghyo",
+    "country": "KOR",
+    "score": null,
+    "q_rank": 122,
+    "q_score": 11.566
+   },
+   {
+    "rank": null,
+    "name": "DAVIDSSON Agust Ingi",
+    "country": "ISL",
+    "score": null,
+    "q_rank": 123,
+    "q_score": 11.533
+   },
+   {
+    "rank": null,
+    "name": "TVARDOUSKI Daniil",
+    "country": "BLR",
+    "score": null,
+    "q_rank": 124,
+    "q_score": 11.533
+   },
+   {
+    "rank": null,
+    "name": "VETTER Gino",
+    "country": "AUT",
+    "score": null,
+    "q_rank": 125,
+    "q_score": 11.5
+   },
+   {
+    "rank": null,
+    "name": "MARIANO Arthur",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 126,
+    "q_score": 11.3
+   },
+   {
+    "rank": null,
+    "name": "SCHMIDT Casimir",
+    "country": "NED",
+    "score": null,
+    "q_rank": 127,
+    "q_score": 11.266
+   },
+   {
+    "rank": null,
+    "name": "KAMILJANOV Ravshan",
+    "country": "UZB",
+    "score": null,
+    "q_rank": 128,
+    "q_score": 11.166
+   },
+   {
+    "rank": null,
+    "name": "LECHAUD Luis",
+    "country": "POR",
+    "score": null,
+    "q_rank": 129,
+    "q_score": 11.133
+   },
+   {
+    "rank": null,
+    "name": "ROMERO Stefano",
+    "country": "ECU",
+    "score": null,
+    "q_rank": 129,
+    "q_score": 11.133
+   },
+   {
+    "rank": null,
+    "name": "CUYLE Nicola",
+    "country": "BEL",
+    "score": null,
+    "q_rank": 131,
+    "q_score": 11.066
+   },
+   {
+    "rank": null,
+    "name": "HOSSAINI Hamza",
+    "country": "MAR",
+    "score": null,
+    "q_rank": 132,
+    "q_score": 11.066
+   },
+   {
+    "rank": null,
+    "name": "VERNIAIEV Oleg",
+    "country": "UKR",
+    "score": null,
+    "q_rank": 133,
+    "q_score": 11
+   },
+   {
+    "rank": null,
+    "name": "MCLEAN Daniel",
+    "country": "RSA",
+    "score": null,
+    "q_rank": 134,
+    "q_score": 10.933
+   },
+   {
+    "rank": null,
+    "name": "HRYHARCHUK Danila",
+    "country": "BLR",
+    "score": null,
+    "q_rank": 135,
+    "q_score": 10.866
+   },
+   {
+    "rank": null,
+    "name": "YULO Karl Jahrel Eldrew",
+    "country": "PHI",
+    "score": null,
+    "q_rank": 136,
+    "q_score": 10.866
+   },
+   {
+    "rank": null,
+    "name": "YULO Carlos Edriel",
+    "country": "PHI",
+    "score": null,
+    "q_rank": 137,
+    "q_score": 10.766
+   },
+   {
+    "rank": null,
+    "name": "ERGASHEV Khabibullo",
+    "country": "UZB",
+    "score": null,
+    "q_rank": 138,
+    "q_score": 10.733
+   },
+   {
+    "rank": null,
+    "name": "PATANIN Dmitriy",
+    "country": "KAZ",
+    "score": null,
+    "q_rank": 139,
+    "q_score": 10.466
+   },
+   {
+    "rank": null,
+    "name": "PUA Asher",
+    "country": "SGP",
+    "score": null,
+    "q_rank": 140,
+    "q_score": 10.4
+   },
+   {
+    "rank": null,
+    "name": "ZULFA Luqman Al Hafiz",
+    "country": "MAS",
+    "score": null,
+    "q_rank": 141,
+    "q_score": 10.033
+   },
+   {
+    "rank": null,
+    "name": "KIRMES Robert",
+    "country": "FIN",
+    "score": null,
+    "q_rank": 142,
+    "q_score": 9.833
+   }
+  ],
+  "Team": [
+   {
+    "rank": 1,
+    "name": "DOI Ryosuke, HASHIMOTO Daiki, KAWAKAMI Shohei, MAEDA Fusuke, OJIMA Nao, OKA Shinnosuke",
+    "country": "JPN",
+    "score": 251.928,
+    "q_rank": 1,
+    "q_score": 254.529
+   },
+   {
+    "rank": 2,
+    "name": "DUKHNO Arsenii, IAKUBOV Mukhammadzhon, MARINOV Daniel, NAIDIN Sergei, SIEEDIN Savelii, ZAIKA Ilia",
+    "country": "RUS",
+    "score": 250.329,
+    "q_rank": 3,
+    "q_score": 249.162
+   },
+   {
+    "rank": 3,
+    "name": "HONG Yanming, LAN Xingyu, LI Hongyan, TIAN Hao, YANG Haonan, ZOU Jingyuan",
+    "country": "CHN",
+    "score": 249.193,
+    "q_rank": 4,
+    "q_score": 247.493
+   },
+   {
+    "rank": 4,
+    "name": "FRASER Joe, HEPWORTH Harry, JARMAN Jake, RUSHWORTH Jonas, TULLOCH Courtney, WARD Reuben",
+    "country": "GBR",
+    "score": 247.395,
+    "q_rank": 2,
+    "q_score": 251.46
+   },
+   {
+    "rank": 5,
+    "name": "GIUBELLINI Luca, GIUBELLINI Matteo, LANGENEGGER Florian, PIFFARETTI Mattia, SEIFERT Noe, TAMSEL Dominic",
+    "country": "SUI",
+    "score": 246.497,
+    "q_rank": 6,
+    "q_score": 244.43
+   },
+   {
+    "rank": 6,
+    "name": "HOOPES Patrick, LEYKIN Danila, MOLDAUER Yul, NELSON Kameron, RICHARD Frederick, WISKUS Shane",
+    "country": "USA",
+    "score": 245.161,
+    "q_rank": 5,
+    "q_score": 245.961
+   },
+   {
+    "rank": 7,
+    "name": "ABAIDI Amine, DE MUNCK Loran, FAVERUS Elijah, GRUENBERG Jermain, JACOBS Kyan, SCHMIDT Casimir",
+    "country": "NED",
+    "score": 241.294,
+    "q_rank": 7,
+    "q_score": 242.995
+   },
+   {
+    "rank": 8,
+    "name": "ALVAREZ Jorman, BARAJAS Angel, MEJIA Thomas, RAMOS Juan Felipe, VERA Camilo, ZABALA Yan",
+    "country": "COL",
+    "score": 240.093,
+    "q_rank": 8,
+    "q_score": 242.727
+   },
+   {
+    "rank": null,
+    "name": "ABBADINI Yumin, MACCHIATI Mario, SPERANZA Simone, TARGHETTA Gabriele, VANNUCCHI Niccolo, VILLA Riccardo",
+    "country": "ITA",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 242.495
+   },
+   {
+    "rank": null,
+    "name": "CUYLE Glen, CUYLE Nicola, KUAVITA Noah, MARTINEZ Victor, SCHEPERS Kyano, VAN DER AA Kilan",
+    "country": "BEL",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 240.894
+   },
+   {
+    "rank": null,
+    "name": "BELLIL Swaimy, CARVALHO Kevin, MANSARD Anthony, SAKOUHI Nael, TOUCHAIS Melwin, TRAORE-MALATRE Leeroy",
+    "country": "FRA",
+    "score": null,
+    "q_rank": 11,
+    "q_score": 238.663
+   },
+   {
+    "rank": null,
+    "name": "AZIZOV Ilyas, IDRISSOV Nurtan, KARIMI Milad, KHEGAY Roman, KURBANOV Nariman, PATANIN Dmitriy",
+    "country": "KAZ",
+    "score": null,
+    "q_rank": 12,
+    "q_score": 237.594
+   },
+   {
+    "rank": null,
+    "name": "CARROLL Jordan, COURNOYER Rene, DOLCI Felix, IKEDA Ethan, OLASZ Xavier, ZAKUTNEY Samuel",
+    "country": "CAN",
+    "score": null,
+    "q_rank": 13,
+    "q_score": 237.326
+   },
+   {
+    "rank": null,
+    "name": "CHIOU Min-Han, HUNG Yuan-Hsi, LEE Chih-Kai, TANG Chia-Hung, WANG Yi-Hsiang, WU Tsung-Hua",
+    "country": "TPE",
+    "score": null,
+    "q_rank": 14,
+    "q_score": 236.261
+   },
+   {
+    "rank": null,
+    "name": "DUNKEL Nils, EDER Timo, KOCHAN Lucas, KUNZ Alexander, STELMAKH Radomyr, TREBING Glenn",
+    "country": "GER",
+    "score": null,
+    "q_rank": 15,
+    "q_score": 235.928
+   },
+   {
+    "rank": null,
+    "name": "CARRION CARO Daniel, DIALLO Thierno, MIR Nicolau, PLATA Joel, YOCKERS Ignacio, ZAPATA Rayderley",
+    "country": "ESP",
+    "score": null,
+    "q_rank": 16,
+    "q_score": 235.329
+   },
+   {
+    "rank": null,
+    "name": "FOSTER Benjamin, FRICK Aiden, HAGENS Tru, HARDY James, MALIK Ritam, MOORE Jesse",
+    "country": "AUS",
+    "score": null,
+    "q_rank": 17,
+    "q_score": 235.094
+   },
+   {
+    "rank": null,
+    "name": "KIS Dominik, MESZAROS Krisztofer, MOLNAR Botond, TOMCSANYI Benedek, ZAMBORI Zala Samu, ZAVORY Szilard",
+    "country": "HUN",
+    "score": null,
+    "q_rank": 18,
+    "q_score": 234.927
+   },
+   {
+    "rank": null,
+    "name": "GUIMARAES Vitaliy, MARIANO Arthur, MIRANDA Bernardo, OSHIRO Johnny, SAMPAIO Patrick, SOARES Diogo",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 19,
+    "q_score": 232.694
+   },
+   {
+    "rank": null,
+    "name": "BERKOVICH Noam, DOLGOPYAT Artem, GULIDOV Pavel, LIUBIMOV Ilia, ORTAL Ron, PYATOV Ron",
+    "country": "ISR",
+    "score": null,
+    "q_rank": 20,
+    "q_score": 232.528
+   },
+   {
+    "rank": null,
+    "name": "CHEPURNYI Nazar, HRYKO Vladyslav, MELNYKOV Mykyta, SUPRUN Bohdan, VERNIAIEV Oleg",
+    "country": "UKR",
+    "score": null,
+    "q_rank": 21,
+    "q_score": 232.296
+   },
+   {
+    "rank": null,
+    "name": "HUR Woong, KIM Jaeho, LEE Junghyo, PARK Jinho, PARK Seungho, RYU Sunghyun",
+    "country": "KOR",
+    "score": null,
+    "q_rank": 22,
+    "q_score": 231.994
+   },
+   {
+    "rank": null,
+    "name": "AFIFY Mohamed, AHMED Mostafa, ALI Mazen, ELSHOBKI Omar, MOHAMED Omar",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 23,
+    "q_score": 229.962
+   },
+   {
+    "rank": null,
+    "name": "ANGONAS Georgios, GEORGIOU Ilias, GEORGIOU Marios, KYRIAKOU Neofytos, PILAKOURIS Sokratis",
+    "country": "CYP",
+    "score": null,
+    "q_rank": 24,
+    "q_score": 225.495
+   }
+  ]
+ }
+}

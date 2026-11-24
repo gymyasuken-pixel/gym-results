@@ -1,0 +1,842 @@
+{
+ "Senior": {
+  "All-Around": [
+   {
+    "rank": null,
+    "name": "MOHAMED Omar",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 1,
+    "q_score": 82.198
+   },
+   {
+    "rank": null,
+    "name": "AFIFY Mohamed",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 2,
+    "q_score": 79.131
+   },
+   {
+    "rank": null,
+    "name": "WAKID Abdelrahman",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 3,
+    "q_score": 77.931
+   },
+   {
+    "rank": null,
+    "name": "JAMES Luke",
+    "country": "RSA",
+    "score": null,
+    "q_rank": 4,
+    "q_score": 76.697
+   },
+   {
+    "rank": null,
+    "name": "HOSSAINI Hamza",
+    "country": "MAR",
+    "score": null,
+    "q_rank": 5,
+    "q_score": 76.432
+   },
+   {
+    "rank": null,
+    "name": "QUISTAS Achraf",
+    "country": "MAR",
+    "score": null,
+    "q_rank": 6,
+    "q_score": 68.797
+   },
+   {
+    "rank": null,
+    "name": "BRINK Arno",
+    "country": "NAM",
+    "score": null,
+    "q_rank": 7,
+    "q_score": 53.032
+   },
+   {
+    "rank": null,
+    "name": "SODEA Ruben",
+    "country": "CMR",
+    "score": null,
+    "q_rank": 8,
+    "q_score": 42.931
+   },
+   {
+    "rank": null,
+    "name": "MANGUELE David",
+    "country": "CMR",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 38.665
+   },
+   {
+    "rank": null,
+    "name": "MAMOUDOU Fidele",
+    "country": "CMR",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 36.832
+   },
+   {
+    "rank": null,
+    "name": "NGORBO Ledoux",
+    "country": "CMR",
+    "score": null,
+    "q_rank": 11,
+    "q_score": 36.698
+   }
+  ],
+  "Floor Exercise": [
+   {
+    "rank": 1,
+    "name": "JAMES Luke",
+    "country": "RSA",
+    "score": 14333,
+    "q_rank": 1,
+    "q_score": 13.9
+   },
+   {
+    "rank": 2,
+    "name": "MOHAMED Omar",
+    "country": "EGY",
+    "score": 13733,
+    "q_rank": 2,
+    "q_score": 13.6
+   },
+   {
+    "rank": 3,
+    "name": "HOSSAINI Hamza",
+    "country": "MAR",
+    "score": 13400,
+    "q_rank": 3,
+    "q_score": 13.366
+   },
+   {
+    "rank": 4,
+    "name": "AHMED Mostafa",
+    "country": "EGY",
+    "score": 13100,
+    "q_rank": 4,
+    "q_score": 13.3
+   },
+   {
+    "rank": 5,
+    "name": "WAKID Abdelrahman",
+    "country": "EGY",
+    "score": 12533,
+    "q_rank": 6,
+    "q_score": 12.233
+   },
+   {
+    "rank": 6,
+    "name": "SODEA Ruben",
+    "country": "CMR",
+    "score": 10066,
+    "q_rank": 10,
+    "q_score": 10.433
+   },
+   {
+    "rank": 7,
+    "name": "FALL Mamadou Laye",
+    "country": "SEN",
+    "score": 9666,
+    "q_rank": 12,
+    "q_score": 9.866
+   },
+   {
+    "rank": 8,
+    "name": "NGORBO Ledoux",
+    "country": "CMR",
+    "score": 5933,
+    "q_rank": 11,
+    "q_score": 10.033
+   },
+   {
+    "rank": null,
+    "name": "AFIFY Mohamed",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 5,
+    "q_score": 12.6
+   },
+   {
+    "rank": null,
+    "name": "ESSAMYRY Abdelaziz",
+    "country": "MAR",
+    "score": null,
+    "q_rank": 7,
+    "q_score": 12.166
+   },
+   {
+    "rank": null,
+    "name": "KABOURI Taha",
+    "country": "MAR",
+    "score": null,
+    "q_rank": 8,
+    "q_score": 11.966
+   },
+   {
+    "rank": null,
+    "name": "QUISTAS Achraf",
+    "country": "MAR",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 11.366
+   },
+   {
+    "rank": null,
+    "name": "MANGUELE David",
+    "country": "CMR",
+    "score": null,
+    "q_rank": 13,
+    "q_score": 9.666
+   },
+   {
+    "rank": null,
+    "name": "LABIDI Ahmed",
+    "country": "TUN",
+    "score": null,
+    "q_rank": 14,
+    "q_score": 9.666
+   },
+   {
+    "rank": null,
+    "name": "BRINK Arno",
+    "country": "NAM",
+    "score": null,
+    "q_rank": 15,
+    "q_score": 9.533
+   },
+   {
+    "rank": null,
+    "name": "BHOYROO Yash",
+    "country": "MRI",
+    "score": null,
+    "q_rank": 16,
+    "q_score": 9.366
+   },
+   {
+    "rank": null,
+    "name": "MAMOUDOU Fidele",
+    "country": "CMR",
+    "score": null,
+    "q_rank": 17,
+    "q_score": 9.333
+   },
+   {
+    "rank": null,
+    "name": "CISS Mamadou Souleye",
+    "country": "SEN",
+    "score": null,
+    "q_rank": 18,
+    "q_score": 6.733
+   },
+   {
+    "rank": null,
+    "name": "SANE Sadibou",
+    "country": "SEN",
+    "score": null,
+    "q_rank": 19,
+    "q_score": 2.4
+   }
+  ],
+  "Pommel Horse": [
+   {
+    "rank": 1,
+    "name": "WAKID Abdelrahman",
+    "country": "EGY",
+    "score": 13.933,
+    "q_rank": 1,
+    "q_score": 13.866
+   },
+   {
+    "rank": 2,
+    "name": "AFIFY Mohamed",
+    "country": "EGY",
+    "score": 13.766,
+    "q_rank": 2,
+    "q_score": 13.666
+   },
+   {
+    "rank": 3,
+    "name": "KABOURI Taha",
+    "country": "MAR",
+    "score": 12.6,
+    "q_rank": 7,
+    "q_score": 11.866
+   },
+   {
+    "rank": 4,
+    "name": "SETTI Zakariae",
+    "country": "MAR",
+    "score": 12.033,
+    "q_rank": 4,
+    "q_score": 13.166
+   },
+   {
+    "rank": 5,
+    "name": "BRINK Arno",
+    "country": "NAM",
+    "score": 7.066,
+    "q_rank": 10,
+    "q_score": 7.166
+   },
+   {
+    "rank": 6,
+    "name": "MAMOUDOU Fidele",
+    "country": "CMR",
+    "score": 0.7,
+    "q_rank": 11,
+    "q_score": 3.5
+   },
+   {
+    "rank": 7,
+    "name": "SODEA Ruben",
+    "country": "CMR",
+    "score": 0.533,
+    "q_rank": 12,
+    "q_score": 3.366
+   },
+   {
+    "rank": null,
+    "name": "MOHAMED Omar",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 3,
+    "q_score": 13.3
+   },
+   {
+    "rank": null,
+    "name": "AHMED Mostafa",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 5,
+    "q_score": 12.7
+   },
+   {
+    "rank": null,
+    "name": "HOSSAINI Hamza",
+    "country": "MAR",
+    "score": null,
+    "q_rank": 6,
+    "q_score": 12.5
+   },
+   {
+    "rank": null,
+    "name": "JAMES Luke",
+    "country": "RSA",
+    "score": null,
+    "q_rank": 8,
+    "q_score": 11.766
+   },
+   {
+    "rank": null,
+    "name": "QUISTAS Achraf",
+    "country": "MAR",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 10.366
+   },
+   {
+    "rank": null,
+    "name": "MANGUELE David",
+    "country": "CMR",
+    "score": null,
+    "q_rank": 13,
+    "q_score": 1.5
+   },
+   {
+    "rank": null,
+    "name": "NGORBO Ledoux",
+    "country": "CMR",
+    "score": null,
+    "q_rank": 14,
+    "q_score": 0
+   }
+  ],
+  "Still Rings": [
+   {
+    "rank": 1,
+    "name": "ZAHRAN Ali",
+    "country": "EGY",
+    "score": 13.833,
+    "q_rank": 2,
+    "q_score": 13.966
+   },
+   {
+    "rank": 2,
+    "name": "MOHAMED Omar",
+    "country": "EGY",
+    "score": 13.533,
+    "q_rank": 1,
+    "q_score": 14.266
+   },
+   {
+    "rank": 3,
+    "name": "HOSSAINI Hamza",
+    "country": "MAR",
+    "score": 12.566,
+    "q_rank": 5,
+    "q_score": 12.6
+   },
+   {
+    "rank": 4,
+    "name": "QUISTAS Achraf",
+    "country": "MAR",
+    "score": 11.866,
+    "q_rank": 7,
+    "q_score": 12.066
+   },
+   {
+    "rank": 5,
+    "name": "JAMES Luke",
+    "country": "RSA",
+    "score": 11.833,
+    "q_rank": 6,
+    "q_score": 12.466
+   },
+   {
+    "rank": 6,
+    "name": "BRINK Arno",
+    "country": "NAM",
+    "score": 8.533,
+    "q_rank": 10,
+    "q_score": 6.8
+   },
+   {
+    "rank": 7,
+    "name": "BHOYROO Yash",
+    "country": "MRI",
+    "score": 5.733,
+    "q_rank": 11,
+    "q_score": 6.4
+   },
+   {
+    "rank": 8,
+    "name": "MANGUELE David",
+    "country": "CMR",
+    "score": 5.1,
+    "q_rank": 12,
+    "q_score": 6.133
+   },
+   {
+    "rank": null,
+    "name": "AFIFY Mohamed",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 3,
+    "q_score": 13.333
+   },
+   {
+    "rank": null,
+    "name": "WAKID Abdelrahman",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 4,
+    "q_score": 12.6
+   },
+   {
+    "rank": null,
+    "name": "SETTI Zakariae",
+    "country": "MAR",
+    "score": null,
+    "q_rank": 8,
+    "q_score": 11.466
+   },
+   {
+    "rank": null,
+    "name": "KABOURI Taha",
+    "country": "MAR",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 11.333
+   },
+   {
+    "rank": null,
+    "name": "SODEA Ruben",
+    "country": "CMR",
+    "score": null,
+    "q_rank": 13,
+    "q_score": 5.566
+   },
+   {
+    "rank": null,
+    "name": "MAMOUDOU Fidele",
+    "country": "CMR",
+    "score": null,
+    "q_rank": 14,
+    "q_score": 4.9
+   },
+   {
+    "rank": null,
+    "name": "NGORBO Ledoux",
+    "country": "CMR",
+    "score": null,
+    "q_rank": 15,
+    "q_score": 3.633
+   }
+  ],
+  "Vault": [
+   {
+    "rank": 1,
+    "name": "JAMES Luke",
+    "country": "RSA",
+    "score": 14.083,
+    "q_rank": 2,
+    "q_score": 13949
+   },
+   {
+    "rank": 2,
+    "name": "MOHAMED Omar",
+    "country": "EGY",
+    "score": 14.049,
+    "q_rank": 3,
+    "q_score": 13916
+   },
+   {
+    "rank": 3,
+    "name": "HOSSAINI Hamza",
+    "country": "MAR",
+    "score": 13.75,
+    "q_rank": 1,
+    "q_score": 14333
+   },
+   {
+    "rank": 4,
+    "name": "QUISTAS Achraf",
+    "country": "MAR",
+    "score": 13.333,
+    "q_rank": 4,
+    "q_score": 13533
+   },
+   {
+    "rank": 5,
+    "name": "LABIDI Ahmed",
+    "country": "TUN",
+    "score": 13.333,
+    "q_rank": 7,
+    "q_score": 12683
+   },
+   {
+    "rank": 6,
+    "name": "AHMED Mostafa",
+    "country": "EGY",
+    "score": 13.333,
+    "q_rank": 5,
+    "q_score": 13216
+   },
+   {
+    "rank": 7,
+    "name": "NGORBO Ledoux",
+    "country": "CMR",
+    "score": 12.199,
+    "q_rank": 8,
+    "q_score": 12316
+   },
+   {
+    "rank": 8,
+    "name": "BRINK Arno",
+    "country": "NAM",
+    "score": 11.116,
+    "q_rank": 9,
+    "q_score": 11733
+   },
+   {
+    "rank": null,
+    "name": "ESSAMYRY Abdelaziz",
+    "country": "MAR",
+    "score": null,
+    "q_rank": 6,
+    "q_score": 13033
+   },
+   {
+    "rank": null,
+    "name": "FALL Mamadou Laye",
+    "country": "SEN",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 10449
+   },
+   {
+    "rank": null,
+    "name": "CISS Mamadou Souleye",
+    "country": "SEN",
+    "score": null,
+    "q_rank": 11,
+    "q_score": 10299
+   },
+   {
+    "rank": null,
+    "name": "SANE Sadibou",
+    "country": "SEN",
+    "score": null,
+    "q_rank": 12,
+    "q_score": 10249
+   },
+   {
+    "rank": null,
+    "name": "SODEA Ruben",
+    "country": "CMR",
+    "score": null,
+    "q_rank": 13,
+    "q_score": 6800
+   }
+  ],
+  "Parallel Bars": [
+   {
+    "rank": 1,
+    "name": "AFIFY Mohamed",
+    "country": "EGY",
+    "score": 14.6,
+    "q_rank": 1,
+    "q_score": 14.166
+   },
+   {
+    "rank": 2,
+    "name": "MOHAMED Omar",
+    "country": "EGY",
+    "score": 14.1,
+    "q_rank": 2,
+    "q_score": 13.7
+   },
+   {
+    "rank": 3,
+    "name": "HOSSAINI Hamza",
+    "country": "MAR",
+    "score": 13.433,
+    "q_rank": 5,
+    "q_score": 11.9
+   },
+   {
+    "rank": 4,
+    "name": "JAMES Luke",
+    "country": "RSA",
+    "score": 11.733,
+    "q_rank": 6,
+    "q_score": 11.633
+   },
+   {
+    "rank": 5,
+    "name": "QUISTAS Achraf",
+    "country": "MAR",
+    "score": 10.766,
+    "q_rank": 9,
+    "q_score": 10.566
+   },
+   {
+    "rank": 6,
+    "name": "BRINK Arno",
+    "country": "NAM",
+    "score": 9.033,
+    "q_rank": 10,
+    "q_score": 9.1
+   },
+   {
+    "rank": 7,
+    "name": "MANGUELE David",
+    "country": "CMR",
+    "score": 5.333,
+    "q_rank": 12,
+    "q_score": 5.333
+   },
+   {
+    "rank": 8,
+    "name": "NGORBO Ledoux",
+    "country": "CMR",
+    "score": 2.866,
+    "q_rank": 11,
+    "q_score": 5.766
+   },
+   {
+    "rank": null,
+    "name": "AHMED Mostafa",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 3,
+    "q_score": 13.666
+   },
+   {
+    "rank": null,
+    "name": "WAKID Abdelrahman",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 4,
+    "q_score": 12.7
+   },
+   {
+    "rank": null,
+    "name": "ESSAMYRY Abdelaziz",
+    "country": "MAR",
+    "score": null,
+    "q_rank": 7,
+    "q_score": 10.866
+   },
+   {
+    "rank": null,
+    "name": "KABOURI Taha",
+    "country": "MAR",
+    "score": null,
+    "q_rank": 8,
+    "q_score": 10.6
+   },
+   {
+    "rank": null,
+    "name": "MAMOUDOU Fidele",
+    "country": "CMR",
+    "score": null,
+    "q_rank": 13,
+    "q_score": 5.266
+   },
+   {
+    "rank": null,
+    "name": "SODEA Ruben",
+    "country": "CMR",
+    "score": null,
+    "q_rank": 14,
+    "q_score": 5.166
+   },
+   {
+    "rank": null,
+    "name": "FALL Mamadou Laye",
+    "country": "SEN",
+    "score": null,
+    "q_rank": 15,
+    "q_score": 0.533
+   },
+   {
+    "rank": null,
+    "name": "CISS Mamadou Souleye",
+    "country": "SEN",
+    "score": null,
+    "q_rank": 16,
+    "q_score": 0
+   },
+   {
+    "rank": null,
+    "name": "SANE Sadibou",
+    "country": "SEN",
+    "score": null,
+    "q_rank": 17,
+    "q_score": 0
+   }
+  ],
+  "Horizontal Bar": [
+   {
+    "rank": 1,
+    "name": "MOHAMED Omar",
+    "country": "EGY",
+    "score": 13.133,
+    "q_rank": 2,
+    "q_score": 13.166
+   },
+   {
+    "rank": 2,
+    "name": "WAKID Abdelrahman",
+    "country": "EGY",
+    "score": 13.1,
+    "q_rank": 1,
+    "q_score": 13.366
+   },
+   {
+    "rank": 3,
+    "name": "JAMES Luke",
+    "country": "RSA",
+    "score": 12.6,
+    "q_rank": 4,
+    "q_score": 12.366
+   },
+   {
+    "rank": 4,
+    "name": "HOSSAINI Hamza",
+    "country": "MAR",
+    "score": 12.6,
+    "q_rank": 6,
+    "q_score": 11.766
+   },
+   {
+    "rank": 5,
+    "name": "ESSAMYRY Abdelaziz",
+    "country": "MAR",
+    "score": 9.866,
+    "q_rank": 8,
+    "q_score": 9.633
+   },
+   {
+    "rank": 6,
+    "name": "BRINK Arno",
+    "country": "NAM",
+    "score": 6.366,
+    "q_rank": 9,
+    "q_score": 8.7
+   },
+   {
+    "rank": 7,
+    "name": "SODEA Ruben",
+    "country": "CMR",
+    "score": 3.666,
+    "q_rank": 10,
+    "q_score": 4.8
+   },
+   {
+    "rank": 8,
+    "name": "NGORBO Ledoux",
+    "country": "CMR",
+    "score": 0.933,
+    "q_rank": 11,
+    "q_score": 3.866
+   },
+   {
+    "rank": null,
+    "name": "AHMED Mostafa",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 3,
+    "q_score": 13
+   },
+   {
+    "rank": null,
+    "name": "AFIFY Mohamed",
+    "country": "EGY",
+    "score": null,
+    "q_rank": 5,
+    "q_score": 12.166
+   },
+   {
+    "rank": null,
+    "name": "QUISTAS Achraf",
+    "country": "MAR",
+    "score": null,
+    "q_rank": 7,
+    "q_score": 10.633
+   },
+   {
+    "rank": null,
+    "name": "MANGUELE David",
+    "country": "CMR",
+    "score": null,
+    "q_rank": 12,
+    "q_score": 3.733
+   },
+   {
+    "rank": null,
+    "name": "KABOURI Taha",
+    "country": "MAR",
+    "score": null,
+    "q_rank": 13,
+    "q_score": 3.533
+   },
+   {
+    "rank": null,
+    "name": "MAMOUDOU Fidele",
+    "country": "CMR",
+    "score": null,
+    "q_rank": 14,
+    "q_score": 3
+   }
+  ]
+ }
+}

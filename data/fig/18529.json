@@ -1,0 +1,400 @@
+{
+ "Junior": {
+  "All-Around": [
+   {
+    "rank": 1,
+    "name": "TITTLEY Thomas",
+    "country": "CAN",
+    "score": 75.498,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 2,
+    "name": "DE SILVA Jaydon",
+    "country": "CAN",
+    "score": 74.765,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 3,
+    "name": "FERNANDEZ DE LANDA Benjamin Nicolas",
+    "country": "ARG",
+    "score": 74.432,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 4,
+    "name": "RUSCHEINSKY Anthony",
+    "country": "USA",
+    "score": 74.165,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 5,
+    "name": "SIMPSON Hunter",
+    "country": "USA",
+    "score": 73.464,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 6,
+    "name": "IBARRA Aaron",
+    "country": "MEX",
+    "score": 73.232,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 9,
+    "name": "FERNANDES Matheus",
+    "country": "BRA",
+    "score": 71.798,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 12,
+    "name": "LEDO Carlo",
+    "country": "MEX",
+    "score": 71.097,
+    "q_rank": null,
+    "q_score": null
+   }
+  ],
+  "Floor Exercise": [
+   {
+    "rank": 1,
+    "name": "FERNANDEZ DE LANDA Benjamin Nicolas",
+    "country": "ARG",
+    "score": 13.166,
+    "q_rank": 1,
+    "q_score": 13.233
+   },
+   {
+    "rank": 1,
+    "name": "DE SILVA Jaydon",
+    "country": "CAN",
+    "score": 13.166,
+    "q_rank": 3,
+    "q_score": 12.833
+   },
+   {
+    "rank": 1,
+    "name": "ROSSEL Arturo",
+    "country": "CHI",
+    "score": 13.166,
+    "q_rank": 4,
+    "q_score": 12.8
+   },
+   {
+    "rank": 4,
+    "name": "TITTLEY Thomas",
+    "country": "CAN",
+    "score": 13.1,
+    "q_rank": 2,
+    "q_score": 12.933
+   },
+   {
+    "rank": 5,
+    "name": "CAPELLA Tiago",
+    "country": "BRA",
+    "score": 12.5,
+    "q_rank": 5,
+    "q_score": 12.7
+   },
+   {
+    "rank": 6,
+    "name": "MANOLI Benicio",
+    "country": "ARG",
+    "score": 12,
+    "q_rank": 8,
+    "q_score": 12.433
+   },
+   {
+    "rank": 7,
+    "name": "GUERRERO Miguel",
+    "country": "MEX",
+    "score": 11.533,
+    "q_rank": 6,
+    "q_score": 12.466
+   },
+   {
+    "rank": 8,
+    "name": "ESPINOZA Agustin",
+    "country": "CHI",
+    "score": 10.933,
+    "q_rank": 9,
+    "q_score": 12.366
+   }
+  ],
+  "Pommel Horse": [
+   {
+    "rank": 1,
+    "name": "LOPEZ Samuel",
+    "country": "COL",
+    "score": 13.033,
+    "q_rank": 7,
+    "q_score": 11.7
+   },
+   {
+    "rank": 2,
+    "name": "KAN Maksim",
+    "country": "USA",
+    "score": 12.766,
+    "q_rank": 1,
+    "q_score": 13.1
+   },
+   {
+    "rank": 3,
+    "name": "MARTINEZ Matias",
+    "country": "CHI",
+    "score": 12.533,
+    "q_rank": 4,
+    "q_score": 12.133
+   },
+   {
+    "rank": 4,
+    "name": "REILLY Ori",
+    "country": "USA",
+    "score": 12.466,
+    "q_rank": 2,
+    "q_score": 12.366
+   },
+   {
+    "rank": 5,
+    "name": "IBARRA Aaron",
+    "country": "MEX",
+    "score": 12.2,
+    "q_rank": 5,
+    "q_score": 12
+   },
+   {
+    "rank": 6,
+    "name": "TITTLEY Thomas",
+    "country": "CAN",
+    "score": 11.866,
+    "q_rank": 3,
+    "q_score": 12.333
+   },
+   {
+    "rank": 7,
+    "name": "DE SILVA Jaydon",
+    "country": "CAN",
+    "score": 11.333,
+    "q_rank": 6,
+    "q_score": 11.933
+   },
+   {
+    "rank": 8,
+    "name": "GODOY Domenick",
+    "country": "ECU",
+    "score": 11,
+    "q_rank": 9,
+    "q_score": 11.666
+   }
+  ],
+  "Still Rings": [
+   {
+    "rank": 1,
+    "name": "TITTLEY Thomas",
+    "country": "CAN",
+    "score": 12.266,
+    "q_rank": 2,
+    "q_score": 12.133
+   },
+   {
+    "rank": 2,
+    "name": "KAN Maksim",
+    "country": "USA",
+    "score": 12.033,
+    "q_rank": 6,
+    "q_score": 11.966
+   },
+   {
+    "rank": 3,
+    "name": "IBARRA Aaron",
+    "country": "MEX",
+    "score": 12,
+    "q_rank": 3,
+    "q_score": 12.1
+   },
+   {
+    "rank": 4,
+    "name": "GODOY Domenick",
+    "country": "ECU",
+    "score": 11.933,
+    "q_rank": 9,
+    "q_score": 11.733
+   },
+   {
+    "rank": 5,
+    "name": "DE SILVA Jaydon",
+    "country": "CAN",
+    "score": 11.766,
+    "q_rank": 4,
+    "q_score": 12.033
+   },
+   {
+    "rank": 6,
+    "name": "BRITOS Joaquin Ali",
+    "country": "ARG",
+    "score": 11.233,
+    "q_rank": 8,
+    "q_score": 11.833
+   },
+   {
+    "rank": 7,
+    "name": "BOTELHO CUNHA DE OLIVEIRA Ivan",
+    "country": "BRA",
+    "score": 10.733,
+    "q_rank": 5,
+    "q_score": 12
+   },
+   {
+    "rank": 8,
+    "name": "SIMPSON Hunter",
+    "country": "USA",
+    "score": 10.633,
+    "q_rank": 1,
+    "q_score": 12.166
+   }
+  ],
+  "Vault": [
+   {
+    "rank": 1,
+    "name": "YSAVA BOLIVAR Caleb",
+    "country": "VEN",
+    "score": 13.233,
+    "q_rank": 3,
+    "q_score": 13.149
+   },
+   {
+    "rank": 2,
+    "name": "ESPINOZA Agustin",
+    "country": "CHI",
+    "score": 13.166,
+    "q_rank": 2,
+    "q_score": 13.266
+   },
+   {
+    "rank": 3,
+    "name": "ROSSEL Arturo",
+    "country": "CHI",
+    "score": 13.133,
+    "q_rank": 4,
+    "q_score": 12.999
+   },
+   {
+    "rank": 4,
+    "name": "TITTLEY Thomas",
+    "country": "CAN",
+    "score": 12.966,
+    "q_rank": 6,
+    "q_score": 12.833
+   },
+   {
+    "rank": 5,
+    "name": "RUSCHEINSKY Anthony",
+    "country": "USA",
+    "score": 12.933,
+    "q_rank": 5,
+    "q_score": 12.933
+   },
+   {
+    "rank": 5,
+    "name": "SIMPSON Hunter",
+    "country": "USA",
+    "score": 12.933,
+    "q_rank": 8,
+    "q_score": 12.616
+   },
+   {
+    "rank": 7,
+    "name": "FERNANDEZ DE LANDA Benjamin Nicolas",
+    "country": "ARG",
+    "score": 12.499,
+    "q_rank": 1,
+    "q_score": 13.333
+   },
+   {
+    "rank": 8,
+    "name": "MONTES Daniel",
+    "country": "ESA",
+    "score": 12.366,
+    "q_rank": 7,
+    "q_score": 12.733
+   }
+  ],
+  "Parallel Bars": [
+   {
+    "rank": 1,
+    "name": "IBARRA Aaron",
+    "country": "MEX",
+    "score": 12.933,
+    "q_rank": 2,
+    "q_score": 12.866
+   },
+   {
+    "rank": 2,
+    "name": "SIMPSON Hunter",
+    "country": "USA",
+    "score": 12.833,
+    "q_rank": 3,
+    "q_score": 12.666
+   },
+   {
+    "rank": 3,
+    "name": "REILLY Ori",
+    "country": "USA",
+    "score": 12.733,
+    "q_rank": 5,
+    "q_score": 12.233
+   },
+   {
+    "rank": 4,
+    "name": "DE SILVA Jaydon",
+    "country": "CAN",
+    "score": 12.433,
+    "q_rank": 7,
+    "q_score": 12.166
+   },
+   {
+    "rank": 5,
+    "name": "ESPINOZA Agustin",
+    "country": "CHI",
+    "score": 12.1,
+    "q_rank": 9,
+    "q_score": 11.9
+   },
+   {
+    "rank": 6,
+    "name": "LEDO Carlo",
+    "country": "MEX",
+    "score": 12.033,
+    "q_rank": 4,
+    "q_score": 12.333
+   },
+   {
+    "rank": 7,
+    "name": "DEMARCO Matias Federico",
+    "country": "ARG",
+    "score": 11.833,
+    "q_rank": 8,
+    "q_score": 11.966
+   },
+   {
+    "rank": 8,
+    "name": "FERNANDES Matheus",
+    "country": "BRA",
+    "score": 11.233,
+    "q_rank": 1,
+    "q_score": 13.1
+   }
+  ]
+ }
+}

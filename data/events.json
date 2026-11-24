@@ -1,0 +1,3097 @@
+[
+ {
+  "id": "jga-event-0-10",
+  "source": "jga",
+  "name": "第80回全日本体操団体選手権・第80回全日本体操種目別選手権",
+  "start": "2026-12-03",
+  "end": "2026-12-06",
+  "place": "相好アリーナ四日市（四日市市総合体育館）",
+  "url": "https://jpn-gym.or.jp/event/event-0-10/",
+  "level": "senior",
+  "files": [],
+  "has_results": false,
+  "settled": false
+ },
+ {
+  "id": "jga-event-10500",
+  "source": "jga",
+  "name": "第21回フューチャーカップ",
+  "start": "2026-11-27",
+  "end": "2026-11-27",
+  "place": "オーストリア・リンツ",
+  "url": "https://jpn-gym.or.jp/event/event-10500/",
+  "level": "senior",
+  "files": [],
+  "has_results": false,
+  "settled": false
+ },
+ {
+  "id": "fig-18690",
+  "source": "fig",
+  "name": "Pan American Gymnastics Cup 2026",
+  "start": "2026-11-16",
+  "end": "2026-11-21",
+  "place": "Guatemala City (GUA)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18690",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-18601",
+  "source": "fig",
+  "name": "Swiss Cup Zürich",
+  "start": "2026-11-07",
+  "end": "2026-11-07",
+  "place": "Zurich (SUI)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18601",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "jga-event-0-4",
+  "source": "jga",
+  "name": "2026年テーブルマークカップ全国ブロック選抜体操競技選手権大会（U12 第21回・U15 第1回）",
+  "start": "2026-11-07",
+  "end": "2026-11-08",
+  "place": "相好アリーナ四日市 三重県四日市市日永東1-3-21",
+  "url": "https://jpn-gym.or.jp/event/event-0-4/",
+  "level": "junior",
+  "files": [
+   {
+    "label": "テーブルマークカップ全国ブロック選抜体操競技選手権大会U12結果（差替版）",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/A_20261107_Mie_Tablemark_Cup_U12.pdf"
+   },
+   {
+    "label": "テーブルマークカップ全国ブロック選抜体操競技選手権大会U15結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/A_20261108_Mie_Tablemark_Cup_U15.pdf"
+   }
+  ],
+  "has_results": true,
+  "settled": false
+ },
+ {
+  "id": "jga-event-7585",
+  "source": "jga",
+  "name": "第4回ユースオリンピック競技大会",
+  "start": "2026-11-07",
+  "end": "2026-11-11",
+  "place": "セネガル・ダカール",
+  "url": "https://jpn-gym.or.jp/event/event-7585/",
+  "level": "junior",
+  "files": [
+   {
+    "label": "第4回ユースオリンピック競技大会混合団体総合決勝結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/A_20261111_SEN_Dakar_Youth_Olympic_Games_MixF.pdf"
+   },
+   {
+    "label": "第4回ユースオリンピック競技大会男子予選結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/A_20261107_SEN_Dakar_Youth_Olympic_Games_MQ.pdf"
+   },
+   {
+    "label": "第4回ユースオリンピック競技大会男子個人総合決勝結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/A_20261110_SEN_Dakar_Youth_Olympic_Games_MAAF.pdf"
+   },
+   {
+    "label": "第4回ユースオリンピック競技大会男子団体総合決勝結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/A_20261109_SEN_Dakar_Youth_Olympic_Games_MTF.pdf"
+   }
+  ],
+  "has_results": true,
+  "settled": false
+ },
+ {
+  "id": "fig-18615",
+  "source": "fig",
+  "name": "43rd Memorial Artur Gander",
+  "start": "2026-11-05",
+  "end": "2026-11-05",
+  "place": "Chiasso (SUI)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18615",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-18693",
+  "source": "fig",
+  "name": "West Asia Championships",
+  "start": "2026-11-05",
+  "end": "2026-11-08",
+  "place": "Amman (JOR)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18693",
+  "has_results": true,
+  "level": "junior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18693"
+ },
+ {
+  "id": "fig-18178",
+  "source": "fig",
+  "name": "Youth Olympic Games of the IV Olympiad",
+  "start": "2026-10-31",
+  "end": "2026-11-13",
+  "place": "Dakar (SEN)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18178",
+  "has_results": true,
+  "level": "junior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18178"
+ },
+ {
+  "id": "fig-17247",
+  "source": "fig",
+  "name": "54th Artistic Gymnastics World Championships",
+  "start": "2026-10-17",
+  "end": "2026-10-25",
+  "place": "Rotterdam (NED)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17247",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17247"
+ },
+ {
+  "id": "fig-18549",
+  "source": "fig",
+  "name": "54th Artistic Gymnastics World Championships (Team registr.)",
+  "start": "2026-10-17",
+  "end": "2026-10-25",
+  "place": "Rotterdam (NED)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18549",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "jga-event-7583",
+  "source": "jga",
+  "name": "第54回世界体操競技選手権大会",
+  "start": "2026-10-17",
+  "end": "2026-10-25",
+  "place": "オランダ・ロッテルダム",
+  "url": "https://jpn-gym.or.jp/event/event-7583/",
+  "level": "senior",
+  "files": [
+   {
+    "label": "第54回世界体操競技選手権大会男子予選結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/10/A_20261017_1018_NED_Rotterdam_54th_World_Championships_Mq.pdf"
+   },
+   {
+    "label": "第54回世界体操競技選手権大会男子個人総合決勝結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/10/A_20261022_NED_Rotterdam_54th_World_Championships_MAAF.pdf"
+   },
+   {
+    "label": "第54回世界体操競技選手権大会男子団体決勝結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/10/A_20261020_NED_Rotterdam_54th_World_Championships_MteamF.pdf"
+   },
+   {
+    "label": "第54回世界体操競技選手権大会種目別男女前半種目結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/10/A_20261024_NED_Rotterdam_54th_World_Championships_AF1.pdf"
+   },
+   {
+    "label": "第54回世界体操競技選手権大会種目別男女後半種目結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/10/A_20261025_NED_Rotterdam_54th_World_Championships_AF2.pdf"
+   }
+  ],
+  "has_results": true,
+  "settled": false
+ },
+ {
+  "id": "fig-18305",
+  "source": "fig",
+  "name": "FIG World Challenge Cup 2026",
+  "start": "2026-09-26",
+  "end": "2026-09-27",
+  "place": "Paris (FRA)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18305",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18305"
+ },
+ {
+  "id": "fig-18608",
+  "source": "fig",
+  "name": "20th Asian Games Aichi-Nagoya 2026",
+  "start": "2026-09-21",
+  "end": "2026-10-04",
+  "place": "Nagoya (JPN)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18608",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18608"
+ },
+ {
+  "id": "jga-event-7581",
+  "source": "jga",
+  "name": "第20回アジア競技大会(体操競技)",
+  "start": "2026-09-21",
+  "end": "2026-09-25",
+  "place": "日本ガイシホール",
+  "url": "https://jpn-gym.or.jp/event/event-7581/",
+  "level": "senior",
+  "files": [
+   {
+    "label": "第20回アジア競技大会(体操競技)結果：男子個人総合決勝／団体・種目別予選",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/09/A_20260921_M_AAf_TqAppq.pdf"
+   },
+   {
+    "label": "第20回アジア競技大会(体操競技)結果：男子団体総合決勝",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/09/A_20260923_M_Team_Final.pdf"
+   },
+   {
+    "label": "第20回アジア競技大会(体操競技)結果：種目別決勝前半",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/09/A_20260924_ApparatusFinalDay1.pdf"
+   },
+   {
+    "label": "第20回アジア競技大会(体操競技)結果：種目別決勝後半",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/09/A_20260925_ApparatusFinalDay2.pdf"
+   }
+  ],
+  "has_results": true,
+  "settled": false
+ },
+ {
+  "id": "jga-event-7579",
+  "source": "jga",
+  "name": "第59回全日本マスターズ体操競技選手権大会",
+  "start": "2026-09-19",
+  "end": "2026-09-21",
+  "place": "アリーナ立川立飛",
+  "url": "https://jpn-gym.or.jp/event/event-7579/",
+  "level": "senior",
+  "files": [
+   {
+    "label": "第59回全日本マスターズ体操競技選手権大会結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/08/A_20260919_0921_Tachikawa_59th_AllJPN_Masters.pdf"
+   }
+  ],
+  "has_results": true,
+  "settled": true
+ },
+ {
+  "id": "fig-18241",
+  "source": "fig",
+  "name": "FIG World Challenge Cup 2026",
+  "start": "2026-09-18",
+  "end": "2026-09-20",
+  "place": "Szombathely (HUN)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18241",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18241"
+ },
+ {
+  "id": "fig-18563",
+  "source": "fig",
+  "name": "XIV Campeonato Centroamericano",
+  "start": "2026-09-17",
+  "end": "2026-09-19",
+  "place": "Ciudad Merliot (ESA)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18563",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-18561",
+  "source": "fig",
+  "name": "Pharaohs Cup 2026",
+  "start": "2026-09-17",
+  "end": "2026-09-20",
+  "place": "Cairo (EGY)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18561",
+  "has_results": true,
+  "level": "junior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18561"
+ },
+ {
+  "id": "fig-18708",
+  "source": "fig",
+  "name": "XIII Juegos Suramericanos - Santa Fe 2026",
+  "start": "2026-09-13",
+  "end": "2026-09-21",
+  "place": "Rosario Santa Fe (ARG)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18708",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18708"
+ },
+ {
+  "id": "jga-event-7577",
+  "source": "jga",
+  "name": "第4回男子体操種目別メダリスト選手権大会",
+  "start": "2026-09-13",
+  "end": "2026-09-13",
+  "place": "アリーナ立川立飛",
+  "url": "https://jpn-gym.or.jp/event/event-7577/",
+  "level": "senior",
+  "files": [
+   {
+    "label": "第4回男子体操種目別メダリスト選手権大会結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/08/A_20260913_Tachikawa_MAG_ApparatusMedalistsChampionships.pdf"
+   }
+  ],
+  "has_results": true,
+  "settled": true
+ },
+ {
+  "id": "fig-18677",
+  "source": "fig",
+  "name": "Senior Team International",
+  "start": "2026-09-12",
+  "end": "2026-09-13",
+  "place": "Stoke-On-Trent (GBR)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18677",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "jga-event-7575",
+  "source": "jga",
+  "name": "第59回全日本シニア体操競技選手権大会",
+  "start": "2026-09-12",
+  "end": "2026-09-12",
+  "place": "アリーナ立川立飛",
+  "url": "https://jpn-gym.or.jp/event/event-7575/",
+  "level": "senior",
+  "files": [
+   {
+    "label": "第59回全日本シニア体操競技選手権大会結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/08/A_20260912_Tachikawa_SeniorChampionships.pdf"
+   }
+  ],
+  "has_results": true,
+  "settled": true
+ },
+ {
+  "id": "jga-event-7587",
+  "source": "jga",
+  "name": "第80回国民スポーツ大会（体操競技）",
+  "start": "2026-09-03",
+  "end": "2026-09-06",
+  "place": "青森県武道館",
+  "url": "https://jpn-gym.or.jp/event/event-7587/",
+  "level": "senior",
+  "files": [
+   {
+    "label": "第80回国民スポーツ大会（体操競技）結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/08/A_20260903_0906_Aomori_Kokusupo.pdf"
+   }
+  ],
+  "has_results": true,
+  "settled": true
+ },
+ {
+  "id": "fig-17711",
+  "source": "fig",
+  "name": "XX Mediterranean Games",
+  "start": "2026-08-25",
+  "end": "2026-09-02",
+  "place": "Taranto (ITA)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17711",
+  "has_results": true,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "jga-event-7573",
+  "source": "jga",
+  "name": "第80回全日本学生体操競技選手権大会",
+  "start": "2026-08-22",
+  "end": "2026-08-25",
+  "place": "高崎アリーナ",
+  "url": "https://jpn-gym.or.jp/event/event-7573/",
+  "level": "senior",
+  "files": [
+   {
+    "label": "第80回全日本学生体操競技選手権大会結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/03/A_20260822_0825_Takasaki_AllJapanInterCollege.pdf"
+   }
+  ],
+  "has_results": true,
+  "settled": true
+ },
+ {
+  "id": "jga-event-7595",
+  "source": "jga",
+  "name": "第57回全国中学校体育大会（体操競技）",
+  "start": "2026-08-20",
+  "end": "2026-08-22",
+  "place": "エフピコアリーナふくやま（福山市総合体育館）",
+  "url": "https://jpn-gym.or.jp/event/event-7595/",
+  "level": "junior",
+  "files": [],
+  "has_results": false,
+  "settled": false
+ },
+ {
+  "id": "fig-18236",
+  "source": "fig",
+  "name": "37th Junior European Championships",
+  "start": "2026-08-19",
+  "end": "2026-08-23",
+  "place": "Zagreb (CRO)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18236",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-18235",
+  "source": "fig",
+  "name": "37th Senior European Championships",
+  "start": "2026-08-19",
+  "end": "2026-08-23",
+  "place": "Zagreb (CRO)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18235",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "jga-event-7993",
+  "source": "jga",
+  "name": "2026全日本ジュニア体操競技選手権大会,東西決勝大会",
+  "start": "2026-08-13",
+  "end": "2026-08-17",
+  "place": "日環アリーナ栃木",
+  "url": "https://jpn-gym.or.jp/event/event-7993/",
+  "level": "junior",
+  "files": [
+   {
+    "label": "2026全日本ジュニア体操競技選手権大会,東西決勝大会結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/04/A_20260813_0817_AllJapanJunior.pdf"
+   }
+  ],
+  "has_results": true,
+  "settled": true
+ },
+ {
+  "id": "jga-event-7571",
+  "source": "jga",
+  "name": "令和8年度全国高等学校総合体育大会(体操競技)",
+  "start": "2026-07-31",
+  "end": "2026-08-02",
+  "place": "グリーンアリーナ神戸",
+  "url": "https://jpn-gym.or.jp/event/event-7571/",
+  "level": "junior",
+  "files": [
+   {
+    "label": "令和8年度全国高等学校総合体育大会(体操競技)男女予選結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/03/669393a9440b0fbb926ff7865e3b4999.pdf"
+   },
+   {
+    "label": "令和8年度全国高等学校総合体育大会(体操競技)男女決勝結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/08/7754768386c2cd26f037f4ba9dc5ee5c.pdf"
+   }
+  ],
+  "has_results": true,
+  "settled": true
+ },
+ {
+  "id": "fig-18666",
+  "source": "fig",
+  "name": "2026 XXV Central American and Caribbean Games Santo Domingo",
+  "start": "2026-07-26",
+  "end": "2026-08-06",
+  "place": "Santo Domingo Este (DOM)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18666",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-18554",
+  "source": "fig",
+  "name": "U18 MAG Team Competition GER-FRA-GBR-ITA-SUI",
+  "start": "2026-07-24",
+  "end": "2026-07-24",
+  "place": "Kienbaum (GER)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18554",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-18222",
+  "source": "fig",
+  "name": "XXIII Commonwealth Games 2026",
+  "start": "2026-07-23",
+  "end": "2026-07-29",
+  "place": "Glasgow (GBR)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18222",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-18529",
+  "source": "fig",
+  "name": "2026 Junior Pan American Championships",
+  "start": "2026-06-18",
+  "end": "2026-06-20",
+  "place": "Rio De Janeiro (BRA)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18529",
+  "has_results": true,
+  "level": "junior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18529"
+ },
+ {
+  "id": "fig-18566",
+  "source": "fig",
+  "name": "Junior Asian Championships 2026",
+  "start": "2026-06-18",
+  "end": "2026-06-21",
+  "place": "Zunyi (CHN)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18566",
+  "has_results": true,
+  "level": "junior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18566"
+ },
+ {
+  "id": "fig-18565",
+  "source": "fig",
+  "name": "Senior Asian Championships 2026",
+  "start": "2026-06-18",
+  "end": "2026-06-21",
+  "place": "Zunyi (CHN)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18565",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18565"
+ },
+ {
+  "id": "jga-event-7535",
+  "source": "jga",
+  "name": "第13回アジアシニア・第19回アジアジュニア体操競技選手権大会（男子）",
+  "start": "2026-06-18",
+  "end": "2026-06-21",
+  "place": "中国・遵義市Zunyi",
+  "url": "https://jpn-gym.or.jp/event/event-7535/",
+  "level": "junior",
+  "files": [
+   {
+    "label": "第13回アジアシニア体操競技選手権大会（男子）1日目結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/05/A_20260618_CHN_13th_MSr_Asian_Championships.pdf"
+   },
+   {
+    "label": "第13回アジアシニア体操競技選手権大会（男子）種目別前半種目決勝結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/06/A_20260620_CHN_13th_MSr_Asian_Championships.pdf"
+   },
+   {
+    "label": "第13回アジアシニア体操競技選手権大会（男子）種目別後半種目決勝結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/06/A_20260621_CHN_13th_MSr_Asian_Championships.pdf"
+   },
+   {
+    "label": "第19回アジアジュニア体操競技選手権大会（男子）種目別前半種目決勝結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/06/A_20260620_CHN_19th_MJr_Asian_Championships.pdf"
+   },
+   {
+    "label": "第19回アジアジュニア体操競技選手権大会（男子）種目別後半種目決勝結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/06/A_20260621_CHN_19th_MJr_Asian_Championships.pdf"
+   },
+   {
+    "label": "第19回アジアジュニア体操競技選手権大会（男子）１日目結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/05/A_20260619_CHN_19th_MJr_Asian_Championships.pdf"
+   }
+  ],
+  "has_results": true,
+  "settled": true
+ },
+ {
+  "id": "fig-18533",
+  "source": "fig",
+  "name": "2026 Senior Pan American Championships",
+  "start": "2026-06-17",
+  "end": "2026-06-21",
+  "place": "Rio De Janeiro (BRA)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18533",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-18499",
+  "source": "fig",
+  "name": "Singapore Open 2026",
+  "start": "2026-06-05",
+  "end": "2026-06-07",
+  "place": "Singapore (SGP)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18499",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-18293",
+  "source": "fig",
+  "name": "FIG World Challenge Cup 2026",
+  "start": "2026-05-28",
+  "end": "2026-05-31",
+  "place": "Koper (SLO)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18293",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18293"
+ },
+ {
+  "id": "fig-18291",
+  "source": "fig",
+  "name": "FIG World Challenge Cup 2026",
+  "start": "2026-05-21",
+  "end": "2026-05-24",
+  "place": "Tashkent (UZB)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18291",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18291"
+ },
+ {
+  "id": "fig-18501",
+  "source": "fig",
+  "name": "AGF Trophy International Tournament 2026",
+  "start": "2026-05-14",
+  "end": "2026-05-16",
+  "place": "Baku (AZE)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18501",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "jga-event-7762",
+  "source": "jga",
+  "name": "第65回NHK杯",
+  "start": "2026-05-14",
+  "end": "2026-05-17",
+  "place": "東京体育館",
+  "url": "https://jpn-gym.or.jp/event/event-7762/",
+  "level": "senior",
+  "files": [
+   {
+    "label": "NHK杯男子DAY1",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/05/A_20260515_NHK_M_D1.pdf"
+   },
+   {
+    "label": "NHK杯男子DAY2",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/05/A_20260517_NHK_M_D2.pdf"
+   },
+   {
+    "label": "男子セイコー エクセレント賞 岡 慎之助（徳洲会体操クラブ）",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/05/A_20260517_SEIKO_M.pdf"
+   }
+  ],
+  "has_results": true,
+  "settled": true
+ },
+ {
+  "id": "jga-event-8207",
+  "source": "jga",
+  "name": "第4回ユースオリンピック男子日本代表選考会",
+  "start": "2026-05-14",
+  "end": "2026-05-14",
+  "place": "東京体育館",
+  "url": "https://jpn-gym.or.jp/event/event-8207/",
+  "level": "junior",
+  "files": [
+   {
+    "label": "第4回ユースオリンピック男子日本代表選考会結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/05/A_20260514_YOG_trial_M.pdf"
+   }
+  ],
+  "has_results": true,
+  "settled": true
+ },
+ {
+  "id": "fig-18530",
+  "source": "fig",
+  "name": "2026 Senior Oceania Championships",
+  "start": "2026-05-08",
+  "end": "2026-05-09",
+  "place": "Brisbane, Qld (AUS)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18530",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-18531",
+  "source": "fig",
+  "name": "2026 Junior Oceania Championships",
+  "start": "2026-05-08",
+  "end": "2026-05-09",
+  "place": "Brisbane (AUS)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18531",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-18226",
+  "source": "fig",
+  "name": "FIG World Challenge Cup 2026",
+  "start": "2026-05-07",
+  "end": "2026-05-10",
+  "place": "Varna (BUL)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18226",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18226"
+ },
+ {
+  "id": "fig-18378",
+  "source": "fig",
+  "name": "19th Junior African Artistic Championships",
+  "start": "2026-04-23",
+  "end": "2026-04-26",
+  "place": "Yaounde (CMR)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18378",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-18377",
+  "source": "fig",
+  "name": "19th Senior African Artistic Championships",
+  "start": "2026-04-21",
+  "end": "2026-04-27",
+  "place": "Yaounde (CMR)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18377",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18377"
+ },
+ {
+  "id": "fig-18562",
+  "source": "fig",
+  "name": "IV Juegos Sudamericanos de la Juventud 2026",
+  "start": "2026-04-17",
+  "end": "2026-04-18",
+  "place": "Panama (PAN)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18562",
+  "has_results": true,
+  "level": "junior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18562"
+ },
+ {
+  "id": "jga-event-783",
+  "source": "jga",
+  "name": "第80回全日本体操個人総合選手権",
+  "start": "2026-04-16",
+  "end": "2026-04-19",
+  "place": "高崎アリーナ",
+  "url": "https://jpn-gym.or.jp/event/event-783/",
+  "level": "senior",
+  "files": [
+   {
+    "label": "大会リザルト速報 (外部)",
+    "url": "https://seikosportslink.com/gyga/205/?i=20010126"
+   },
+   {
+    "label": "第80回全日本体操男子予選結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/04/A_20260417_NationalChampionships_MAG_q.pdf"
+   },
+   {
+    "label": "第80回全日本体操男子決勝結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/04/A_20260419_NationalChampionships_MAG_f.pdf"
+   }
+  ],
+  "has_results": true,
+  "settled": true
+ },
+ {
+  "id": "fig-17938",
+  "source": "fig",
+  "name": "FIG Apparatus World Cup 2026",
+  "start": "2026-04-15",
+  "end": "2026-04-18",
+  "place": "Doha (QAT)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17938",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17937",
+  "source": "fig",
+  "name": "FIG Apparatus World Cup 2026",
+  "start": "2026-04-09",
+  "end": "2026-04-12",
+  "place": "Osijek (CRO)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17937",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17937"
+ },
+ {
+  "id": "fig-17939",
+  "source": "fig",
+  "name": "FIG Apparatus World Cup 2026",
+  "start": "2026-04-03",
+  "end": "2026-04-06",
+  "place": "Cairo (EGY)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17939",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17939"
+ },
+ {
+  "id": "fig-18434",
+  "source": "fig",
+  "name": "Luxembourg Open 2026",
+  "start": "2026-04-02",
+  "end": "2026-04-03",
+  "place": "Luxembourg (LUX)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18434",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "jga-event-6913",
+  "source": "jga",
+  "name": "第25回全国体操小学生大会",
+  "start": "2026-03-28",
+  "end": "2026-03-30",
+  "place": "まるたか観光アリーナ（笠松運動公園体育館）",
+  "url": "https://jpn-gym.or.jp/event/event-6913/",
+  "level": "junior",
+  "files": [
+   {
+    "label": "第25回全国体操小学生大会男子結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/03/2026_AG_zensho_M.pdf"
+   }
+  ],
+  "has_results": true,
+  "settled": true
+ },
+ {
+  "id": "jga-event-0",
+  "source": "jga",
+  "name": "第42回全国高等学校体操競技選抜大会",
+  "start": "2026-03-25",
+  "end": "2026-03-25",
+  "place": "ホワイトリング（長野市真島スポーツアリーナ）",
+  "url": "https://jpn-gym.or.jp/event/event-0/",
+  "level": "junior",
+  "files": [
+   {
+    "label": "第42回全国高等学校体操競技選抜大会結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/03/A_20260325_HS_Senbatsu.pdf"
+   }
+  ],
+  "has_results": true,
+  "settled": true
+ },
+ {
+  "id": "fig-18390",
+  "source": "fig",
+  "name": "DTB Pokal Stuttgart Mixed Cup 2026",
+  "start": "2026-03-21",
+  "end": "2026-03-21",
+  "place": "Stuttgart (GER)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18390",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-18389",
+  "source": "fig",
+  "name": "DTB Pokal Stuttgart Team Challenge 2026",
+  "start": "2026-03-19",
+  "end": "2026-03-22",
+  "place": "Stuttgart (GER)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18389",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "jga-event-5715",
+  "source": "jga",
+  "name": "2026DTB杯チームチャレンジ",
+  "start": "2026-03-19",
+  "end": "2026-03-22",
+  "place": "ドイツ・シュツットガルト",
+  "url": "https://jpn-gym.or.jp/event/event-5715/",
+  "level": "senior",
+  "files": [
+   {
+    "label": "2026DTB杯チームチャレンジ種目別決勝結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/03/A_20260319_0322_DTB_Stuttgart_3.pdf"
+   },
+   {
+    "label": "2026DTB杯チームチャレンジ（1,2日目）結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/A_20260319_0322_DTB_Stuttgart_1.pdf"
+   },
+   {
+    "label": "2026DTB杯チームチャレンジ（3日目）結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/A_20260319_0322_DTB_Stuttgart_2.pdf"
+   }
+  ],
+  "has_results": true,
+  "settled": true
+ },
+ {
+  "id": "fig-18454",
+  "source": "fig",
+  "name": "Grizzly Classic Event 2026",
+  "start": "2026-03-18",
+  "end": "2026-03-22",
+  "place": "Calgary (CAN)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18454",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17936",
+  "source": "fig",
+  "name": "FIG Apparatus World Cup 2026",
+  "start": "2026-03-12",
+  "end": "2026-03-15",
+  "place": "Antalya (TUR)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17936",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17936"
+ },
+ {
+  "id": "jga-event-5724",
+  "source": "jga",
+  "name": "2026W杯アンタルヤ大会​",
+  "start": "2026-03-12",
+  "end": "2026-03-15",
+  "place": "トルコ・アンタルヤ",
+  "url": "https://jpn-gym.or.jp/event/event-5724/",
+  "level": "senior",
+  "files": [
+   {
+    "label": "2026W杯アンタルヤ大会​結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/A_20260312_0315_Wcup_Antalya.pdf"
+   }
+  ],
+  "has_results": true,
+  "settled": true
+ },
+ {
+  "id": "fig-18480",
+  "source": "fig",
+  "name": "American Cup 2026",
+  "start": "2026-03-07",
+  "end": "2026-03-07",
+  "place": "Las Vegas (USA)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18480",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "jga-event-5731",
+  "source": "jga",
+  "name": "2026アメリカンカップ",
+  "start": "2026-03-07",
+  "end": "2026-03-07",
+  "place": "アメリカ・ラスベガス",
+  "url": "https://jpn-gym.or.jp/event/event-5731/",
+  "level": "senior",
+  "files": [
+   {
+    "label": "2026アメリカンカップ結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/A_20260307_AmericanCup.pdf"
+   }
+  ],
+  "has_results": true,
+  "settled": true
+ },
+ {
+  "id": "fig-17935",
+  "source": "fig",
+  "name": "FIG Apparatus World Cup 2026",
+  "start": "2026-03-05",
+  "end": "2026-03-08",
+  "place": "Baku (AZE)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17935",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17935"
+ },
+ {
+  "id": "jga-event-5712",
+  "source": "jga",
+  "name": "2026W杯バクー大会​",
+  "start": "2026-03-05",
+  "end": "2026-03-08",
+  "place": "アゼルバイジャン・バクー",
+  "url": "https://jpn-gym.or.jp/event/event-5712/",
+  "level": "senior",
+  "files": [
+   {
+    "label": "2026W杯バクー大会​予選結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/03/A_20260305_0308_Wcup_Baku_q.pdf"
+   },
+   {
+    "label": "2026W杯バクー大会​全結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/03/A_20260305_0308_Wcup_Baku.pdf"
+   }
+  ],
+  "has_results": true,
+  "settled": true
+ },
+ {
+  "id": "jga-event-5734",
+  "source": "jga",
+  "name": "2026リューキン国際招待",
+  "start": "2026-02-21",
+  "end": "2026-02-21",
+  "place": "アメリカ・フリスコ",
+  "url": "https://jpn-gym.or.jp/event/event-5734/",
+  "level": "senior",
+  "files": [
+   {
+    "label": "2026リューキン国際招待結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/A_20260221_Liukin_Invitational.pdf"
+   }
+  ],
+  "has_results": true,
+  "settled": true
+ },
+ {
+  "id": "fig-17934",
+  "source": "fig",
+  "name": "FIG Apparatus World Cup 2026",
+  "start": "2026-02-19",
+  "end": "2026-02-22",
+  "place": "Cottbus (GER)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17934",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17934"
+ },
+ {
+  "id": "jga-event-5726",
+  "source": "jga",
+  "name": "2026W杯コトブス大会",
+  "start": "2026-02-19",
+  "end": "2026-02-22",
+  "place": "ドイツ・コトブス",
+  "url": "https://jpn-gym.or.jp/event/event-5726/",
+  "level": "senior",
+  "files": [
+   {
+    "label": "2026W杯コトブス大会予選１日目結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/A_20260219_0222_Wcup_Cottubus_q.pdf"
+   },
+   {
+    "label": "2026W杯コトブス大会予選２日目結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/A_20260219_0222_Wcup_Cottubus_q2.pdf"
+   },
+   {
+    "label": "2026W杯コトブス大会決勝１日目結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/A_20260219_0222_Wcup_Cottubus_f1.pdf"
+   },
+   {
+    "label": "2026W杯コトブス大会決勝２日目結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/02/A_20260219_0222_Wcup_Cottubus_f2.pdf"
+   }
+  ],
+  "has_results": true,
+  "settled": true
+ },
+ {
+  "id": "fig-18125",
+  "source": "fig",
+  "name": "Vera Caslavska Sokol Grand Prix 2025",
+  "start": "2025-11-29",
+  "end": "2025-11-29",
+  "place": "Brno (CZE)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18125",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-18126",
+  "source": "fig",
+  "name": "Vera Caslavska Olympic Hopes Cup 2025",
+  "start": "2025-11-28",
+  "end": "2025-11-30",
+  "place": "Brno (CZE)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18126",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-18468",
+  "source": "fig",
+  "name": "XX Juegos Bolivarianos Ayacucho 2025",
+  "start": "2025-11-26",
+  "end": "2025-12-07",
+  "place": "Lima (PER)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18468",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17840",
+  "source": "fig",
+  "name": "3rd FIG Artistic Gymnastics Junior World Championships",
+  "start": "2025-11-20",
+  "end": "2025-11-24",
+  "place": "Manila (PHI)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17840",
+  "has_results": true,
+  "level": "junior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17840"
+ },
+ {
+  "id": "fig-18420",
+  "source": "fig",
+  "name": "Junior South American Championship",
+  "start": "2025-11-08",
+  "end": "2025-11-09",
+  "place": "Medelliin (COL)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18420",
+  "has_results": true,
+  "level": "junior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18420"
+ },
+ {
+  "id": "fig-18421",
+  "source": "fig",
+  "name": "Senior South American Championship",
+  "start": "2025-11-07",
+  "end": "2025-11-09",
+  "place": "Medelliin (COL)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18421",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18421"
+ },
+ {
+  "id": "fig-18238",
+  "source": "fig",
+  "name": "Memorial Arthur Gander 2025",
+  "start": "2025-11-05",
+  "end": "2025-11-05",
+  "place": "Morges (SUI)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18238",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17810",
+  "source": "fig",
+  "name": "53rd FIG Artistic Gymnastics World Championships",
+  "start": "2025-10-19",
+  "end": "2025-10-25",
+  "place": "Jakarta (INA)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17810",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17810"
+ },
+ {
+  "id": "fig-18370",
+  "source": "fig",
+  "name": "XII Juegos Deportivo Centroamericanos 2025",
+  "start": "2025-10-15",
+  "end": "2025-10-27",
+  "place": "Ciudad De Guatemala (GUA)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18370",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-18352",
+  "source": "fig",
+  "name": "8th Mediterranean Championships",
+  "start": "2025-10-03",
+  "end": "2025-10-07",
+  "place": "Istanbul (TUR)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18352",
+  "has_results": true,
+  "level": "junior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18352"
+ },
+ {
+  "id": "fig-17866",
+  "source": "fig",
+  "name": "FIG World Challenge Cup 2025",
+  "start": "2025-09-26",
+  "end": "2025-09-28",
+  "place": "Szombathely (HUN)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17866",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17866"
+ },
+ {
+  "id": "fig-18223",
+  "source": "fig",
+  "name": "Pharaoh’s Cup 2025",
+  "start": "2025-09-18",
+  "end": "2025-09-21",
+  "place": "Cairo (EGY)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18223",
+  "has_results": true,
+  "level": "junior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18223"
+ },
+ {
+  "id": "fig-17873",
+  "source": "fig",
+  "name": "FIG World Challenge Cup 2025",
+  "start": "2025-09-13",
+  "end": "2025-09-14",
+  "place": "Paris (FRA)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17873",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17873"
+ },
+ {
+  "id": "fig-18141",
+  "source": "fig",
+  "name": "RomGym Trophy 2025",
+  "start": "2025-08-29",
+  "end": "2025-08-31",
+  "place": "Cluj-Napoca (ROU)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18141",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-18259",
+  "source": "fig",
+  "name": "Junior Panamerican Games 2025",
+  "start": "2025-08-11",
+  "end": "2025-08-11",
+  "place": "Asuncion (PAR)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18259",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-18083",
+  "source": "fig",
+  "name": "European Youth Olympic Festival 2025",
+  "start": "2025-07-20",
+  "end": "2025-07-26",
+  "place": "Osijek (CRO)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18083",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-18095",
+  "source": "fig",
+  "name": "International Tournament 2025",
+  "start": "2025-07-18",
+  "end": "2025-07-20",
+  "place": "Rize (TUR)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18095",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17746",
+  "source": "fig",
+  "name": "32nd Summer FISU World University Games",
+  "start": "2025-07-16",
+  "end": "2025-07-27",
+  "place": "Rhine-Ruhr (GER)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17746",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17746"
+ },
+ {
+  "id": "fig-18164",
+  "source": "fig",
+  "name": "5 WAYS U18 SUI-FRA-GBR-GER-ITA",
+  "start": "2025-07-05",
+  "end": "2025-07-05",
+  "place": "Biel (SUI)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18164",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17844",
+  "source": "fig",
+  "name": "FIG World Challenge Cup 2025",
+  "start": "2025-06-18",
+  "end": "2025-06-21",
+  "place": "Tashkent (UZB)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17844",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17844"
+ },
+ {
+  "id": "fig-18070",
+  "source": "fig",
+  "name": "2025 Senior Pan American Championships",
+  "start": "2025-06-12",
+  "end": "2025-06-15",
+  "place": "Panama City (PAN)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18070",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18070"
+ },
+ {
+  "id": "fig-17846",
+  "source": "fig",
+  "name": "18th Junior Asian Championships",
+  "start": "2025-06-05",
+  "end": "2025-06-08",
+  "place": "Jecheon (KOR)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17846",
+  "has_results": true,
+  "level": "junior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17846"
+ },
+ {
+  "id": "fig-17845",
+  "source": "fig",
+  "name": "12th Senior Asian Championships",
+  "start": "2025-06-05",
+  "end": "2025-06-08",
+  "place": "Jecheon (KOR)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17845",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17845"
+ },
+ {
+  "id": "fig-18097",
+  "source": "fig",
+  "name": "56th Šalamunov memorial 2025",
+  "start": "2025-06-04",
+  "end": "2025-06-08",
+  "place": "Maribor (SLO)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18097",
+  "has_results": true,
+  "level": "junior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18097"
+ },
+ {
+  "id": "fig-18129",
+  "source": "fig",
+  "name": "XXth Games of The Small States of Europe",
+  "start": "2025-05-27",
+  "end": "2025-05-31",
+  "place": "Andorra La Vella (AND)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18129",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17861",
+  "source": "fig",
+  "name": "11th Senior European Championships",
+  "start": "2025-05-26",
+  "end": "2025-05-31",
+  "place": "Leipzig (GER)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17861",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17861"
+ },
+ {
+  "id": "fig-17865",
+  "source": "fig",
+  "name": "FIG World Challenge Cup 2025",
+  "start": "2025-05-15",
+  "end": "2025-05-18",
+  "place": "Koper (SLO)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17865",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17865"
+ },
+ {
+  "id": "fig-17859",
+  "source": "fig",
+  "name": "FIG World Challenge Cup 2025",
+  "start": "2025-05-08",
+  "end": "2025-05-11",
+  "place": "Varna (BUL)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17859",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17859"
+ },
+ {
+  "id": "fig-17864",
+  "source": "fig",
+  "name": "FIG Apparatus World Cup 2025",
+  "start": "2025-04-25",
+  "end": "2025-04-28",
+  "place": "Cairo (EGY)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17864",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17864"
+ },
+ {
+  "id": "fig-18082",
+  "source": "fig",
+  "name": "Luxembourg Open 2025",
+  "start": "2025-04-17",
+  "end": "2025-04-18",
+  "place": "Luxembourg (LUX)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18082",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17843",
+  "source": "fig",
+  "name": "FIG Apparatus World Cup 2025",
+  "start": "2025-04-16",
+  "end": "2025-04-19",
+  "place": "Doha (QAT)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17843",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17843"
+ },
+ {
+  "id": "fig-17867",
+  "source": "fig",
+  "name": "FIG Apparatus World Cup 2025",
+  "start": "2025-04-10",
+  "end": "2025-04-13",
+  "place": "Osijek (CRO)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17867",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17867"
+ },
+ {
+  "id": "fig-17920",
+  "source": "fig",
+  "name": "EnBW DTB Pokal Mixed Cup 2025",
+  "start": "2025-03-29",
+  "end": "2025-03-29",
+  "place": "Stuttgart (GER)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17920",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17919",
+  "source": "fig",
+  "name": "EnBW DTB Pokal Team Challenge 2025",
+  "start": "2025-03-27",
+  "end": "2025-03-30",
+  "place": "Stuttgart (GER)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17919",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17842",
+  "source": "fig",
+  "name": "FIG Apparatus World Cup 2025",
+  "start": "2025-03-20",
+  "end": "2025-03-23",
+  "place": "Antalya (TUR)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17842",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17842"
+ },
+ {
+  "id": "fig-18080",
+  "source": "fig",
+  "name": "Grizzly Classic 2025",
+  "start": "2025-03-20",
+  "end": "2025-03-23",
+  "place": "Airdrie (CAN)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=18080",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17868",
+  "source": "fig",
+  "name": "FIG Apparatus World Cup 2025",
+  "start": "2025-03-06",
+  "end": "2025-03-09",
+  "place": "Baku (AZE)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17868",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17868"
+ },
+ {
+  "id": "fig-17869",
+  "source": "fig",
+  "name": "FIG Apparatus World Cup 2025",
+  "start": "2025-02-20",
+  "end": "2025-02-23",
+  "place": "Cottbus (GER)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17869",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17869"
+ },
+ {
+  "id": "fig-17972",
+  "source": "fig",
+  "name": "7th COMEGYM Championships 2024",
+  "start": "2024-12-14",
+  "end": "2024-12-19",
+  "place": "Tunis (TUN)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17972",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17836",
+  "source": "fig",
+  "name": "Vera Caslavska Sokol Grand Prix 2024",
+  "start": "2024-11-30",
+  "end": "2024-11-30",
+  "place": "Brno (CZE)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17836",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17837",
+  "source": "fig",
+  "name": "Vera Caslavska Olympic Hopes Cup 2024",
+  "start": "2024-11-29",
+  "end": "2024-12-01",
+  "place": "Brno (CZE)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17837",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17918",
+  "source": "fig",
+  "name": "XXXII South American Junior Championships",
+  "start": "2024-11-25",
+  "end": "2024-12-01",
+  "place": "Asuncion (PAR)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17918",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17815",
+  "source": "fig",
+  "name": "Swiss Cup Zürich 2024",
+  "start": "2024-11-09",
+  "end": "2024-11-09",
+  "place": "Zuerich (SUI)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17815",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17814",
+  "source": "fig",
+  "name": "41st Memorial Arthur Gander",
+  "start": "2024-11-06",
+  "end": "2024-11-06",
+  "place": "Chiasso (SUI)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17814",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17658",
+  "source": "fig",
+  "name": "ISF Gymnasiade 2024",
+  "start": "2024-10-23",
+  "end": "2024-10-31",
+  "place": "Manama (BRN)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17658",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17916",
+  "source": "fig",
+  "name": "South American Championships",
+  "start": "2024-10-18",
+  "end": "2024-10-20",
+  "place": "Aracaju (BRA)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17916",
+  "has_results": true,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17506",
+  "source": "fig",
+  "name": "FIG World Challenge Cup 2024",
+  "start": "2024-10-04",
+  "end": "2024-10-06",
+  "place": "Szombathely (HUN)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17506",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17506"
+ },
+ {
+  "id": "fig-17788",
+  "source": "fig",
+  "name": "Pharaohs Cup 2024",
+  "start": "2024-08-23",
+  "end": "2024-08-25",
+  "place": "Cairo (EGY)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17788",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17041",
+  "source": "fig",
+  "name": "Games of the XXXIII Olympiad",
+  "start": "2024-07-26",
+  "end": "2024-08-11",
+  "place": "Paris (FRA)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17041",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17041"
+ },
+ {
+  "id": "fig-17730",
+  "source": "fig",
+  "name": "Tournoi Seniors FRA/GBR/GER/ITA/SUI",
+  "start": "2024-06-29",
+  "end": "2024-06-29",
+  "place": "Troyes (FRA)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17730",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17804",
+  "source": "fig",
+  "name": "RomGym Trophy 2024",
+  "start": "2024-06-26",
+  "end": "2024-06-30",
+  "place": "Bucarest (ROU)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17804",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17722",
+  "source": "fig",
+  "name": "55th Šalamunov memorial 2024",
+  "start": "2024-06-05",
+  "end": "2024-06-09",
+  "place": "Maribor (SLO)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17722",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17504",
+  "source": "fig",
+  "name": "FIG World Challenge Cup 2024",
+  "start": "2024-05-30",
+  "end": "2024-06-02",
+  "place": "Koper (SLO)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17504",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17504"
+ },
+ {
+  "id": "fig-17685",
+  "source": "fig",
+  "name": "Senior Oceania Continental Championships",
+  "start": "2024-05-25",
+  "end": "2024-05-26",
+  "place": "Auckland (NZL)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17685",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17771",
+  "source": "fig",
+  "name": "2024 Junior Classic",
+  "start": "2024-05-25",
+  "end": "2024-05-26",
+  "place": "Auckland (NZL)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17771",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17743",
+  "source": "fig",
+  "name": "2024 Junior Pan American Championship",
+  "start": "2024-05-23",
+  "end": "2024-05-25",
+  "place": "Santa Marta (COL)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17743",
+  "has_results": true,
+  "level": "junior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17743"
+ },
+ {
+  "id": "fig-17503",
+  "source": "fig",
+  "name": "FIG World Challenge Cup 2024",
+  "start": "2024-05-23",
+  "end": "2024-05-26",
+  "place": "Varna (BUL)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17503",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17503"
+ },
+ {
+  "id": "fig-17742",
+  "source": "fig",
+  "name": "2024 Senior Pan American Championship",
+  "start": "2024-05-22",
+  "end": "2024-05-26",
+  "place": "Santa Marta (COL)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17742",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17742"
+ },
+ {
+  "id": "fig-17702",
+  "source": "fig",
+  "name": "11th Senior Asian Championships",
+  "start": "2024-05-16",
+  "end": "2024-05-19",
+  "place": "Tashkent (UZB)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17702",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17703",
+  "source": "fig",
+  "name": "17th Junior Asian Championships",
+  "start": "2024-05-16",
+  "end": "2024-05-19",
+  "place": "Tashkent (UZB)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17703",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17667",
+  "source": "fig",
+  "name": "18th Junior African Championships",
+  "start": "2024-05-03",
+  "end": "2024-05-06",
+  "place": "Marrakech (MAR)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17667",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17667"
+ },
+ {
+  "id": "fig-17668",
+  "source": "fig",
+  "name": "18th Senior African Championships",
+  "start": "2024-05-03",
+  "end": "2024-05-06",
+  "place": "Marrakech (MAR)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17668",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17668"
+ },
+ {
+  "id": "fig-17274",
+  "source": "fig",
+  "name": "36th Senior European Championships",
+  "start": "2024-04-24",
+  "end": "2024-04-28",
+  "place": "Rimini (ITA)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17274",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17288",
+  "source": "fig",
+  "name": "36th Junior European Championships",
+  "start": "2024-04-24",
+  "end": "2024-04-28",
+  "place": "Rimini (ITA)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17288",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17642",
+  "source": "fig",
+  "name": "Pacific Rim Championships 2024",
+  "start": "2024-04-21",
+  "end": "2024-04-28",
+  "place": "Cali (COL)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17642",
+  "has_results": true,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17113",
+  "source": "fig",
+  "name": "FIG Apparatus World Cup 2024 - Qualifying OG 2024",
+  "start": "2024-04-17",
+  "end": "2024-04-20",
+  "place": "Doha (QAT)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17113",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17113"
+ },
+ {
+  "id": "fig-17630",
+  "source": "fig",
+  "name": "Luxembourg Open 2024",
+  "start": "2024-04-12",
+  "end": "2024-04-13",
+  "place": "Luxembourg (LUX)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17630",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17717",
+  "source": "fig",
+  "name": "5 WAYS U18 ITA-FRA-GBR-GER-SUI",
+  "start": "2024-04-05",
+  "end": "2024-04-05",
+  "place": "Ravenna (ITA)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17717",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17750",
+  "source": "fig",
+  "name": "Juegos Bolivarianos Juveniles 2024",
+  "start": "2024-04-05",
+  "end": "2024-04-08",
+  "place": "Sucre (BOL)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17750",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17502",
+  "source": "fig",
+  "name": "FIG World Challenge Cup 2024",
+  "start": "2024-04-04",
+  "end": "2024-04-07",
+  "place": "Osijek (CRO)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17502",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17502"
+ },
+ {
+  "id": "fig-17501",
+  "source": "fig",
+  "name": "FIG World Challenge Cup 2024",
+  "start": "2024-03-29",
+  "end": "2024-03-31",
+  "place": "Antalya (TUR)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17501",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17501"
+ },
+ {
+  "id": "fig-17512",
+  "source": "fig",
+  "name": "Grizzly Classic 2024",
+  "start": "2024-03-21",
+  "end": "2024-03-24",
+  "place": "Airdrie (CAN)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17512",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17596",
+  "source": "fig",
+  "name": "EnBW DTB Pokal Mixed Cup 2024",
+  "start": "2024-03-17",
+  "end": "2024-03-17",
+  "place": "Stuttgart (GER)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17596",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17653",
+  "source": "fig",
+  "name": "AGF Trophy International Tournament 2024",
+  "start": "2024-03-15",
+  "end": "2024-03-17",
+  "place": "Baku (AZE)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17653",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17597",
+  "source": "fig",
+  "name": "EnBW DTB Pokal Team Challenge 2024",
+  "start": "2024-03-15",
+  "end": "2024-03-17",
+  "place": "Stuttgart (GER)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17597",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17114",
+  "source": "fig",
+  "name": "FIG Apparatus World Cup 2024 - Qualifying OG 2024",
+  "start": "2024-03-07",
+  "end": "2024-03-10",
+  "place": "Baku (AZE)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17114",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17114"
+ },
+ {
+  "id": "fig-17112",
+  "source": "fig",
+  "name": "FIG Apparatus World Cup 2024 - Qualifying OG 2024",
+  "start": "2024-02-22",
+  "end": "2024-02-25",
+  "place": "Cottbus (GER)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17112",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17112"
+ },
+ {
+  "id": "fig-17111",
+  "source": "fig",
+  "name": "FIG Apparatus World Cup 2024 - Qualifying OG 2024",
+  "start": "2024-02-15",
+  "end": "2024-02-18",
+  "place": "Cairo (EGY)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17111",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17111"
+ },
+ {
+  "id": "fig-17442",
+  "source": "fig",
+  "name": "Vera Caslavska Sokol Grand Prix 2023",
+  "start": "2023-11-25",
+  "end": "2023-11-25",
+  "place": "Brno (CZE)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17442",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17443",
+  "source": "fig",
+  "name": "Vera Caslavska Olympic Hope's Cup 2023",
+  "start": "2023-11-24",
+  "end": "2023-11-26",
+  "place": "Brno (CZE)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17443",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17623",
+  "source": "fig",
+  "name": "XI Senior and Junior Central American Championships 2023",
+  "start": "2023-11-20",
+  "end": "2023-11-26",
+  "place": "Ciudad Merliot (ESA)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17623",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17575",
+  "source": "fig",
+  "name": "Swiss Cup Zürich 2023",
+  "start": "2023-11-05",
+  "end": "2023-11-05",
+  "place": "Zurich (SUI)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17575",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17590",
+  "source": "fig",
+  "name": "15° Trofeo Andrea Massucchi U17 ITA-BEL-NED-SUI",
+  "start": "2023-11-04",
+  "end": "2023-11-04",
+  "place": "Mortara (ITA)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17590",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17574",
+  "source": "fig",
+  "name": "40th Memorial Arthur Gander",
+  "start": "2023-11-01",
+  "end": "2023-11-01",
+  "place": "Morges (SUI)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17574",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17607",
+  "source": "fig",
+  "name": "6th Mediterranean Championships 2023",
+  "start": "2023-10-20",
+  "end": "2023-10-22",
+  "place": "Istanbul (TUR)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17607",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17398",
+  "source": "fig",
+  "name": "Junior Challenge 2023",
+  "start": "2023-10-20",
+  "end": "2023-10-22",
+  "place": "Anadia (POR)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17398",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17468",
+  "source": "fig",
+  "name": "XIX Pan American Games Santiago 2023",
+  "start": "2023-10-20",
+  "end": "2023-11-05",
+  "place": "Santiago De Chile (CHI)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17468",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-16194",
+  "source": "fig",
+  "name": "52nd FIG Artistic Gymnastics World Championships",
+  "start": "2023-09-30",
+  "end": "2023-10-08",
+  "place": "Antwerp (BEL)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=16194",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=16194"
+ },
+ {
+  "id": "fig-17471",
+  "source": "fig",
+  "name": "52nd FIG Artistic Gymnastics World Championships - All-Around Gymnast and Apparatus Specialists Registrations",
+  "start": "2023-09-30",
+  "end": "2023-10-08",
+  "place": "Antwerp (BEL)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17471",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17470",
+  "source": "fig",
+  "name": "52nd FIG Artistic Gymnastics World Championships - Team Registrations",
+  "start": "2023-09-30",
+  "end": "2023-10-08",
+  "place": "Antwerp (BEL)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17470",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17580",
+  "source": "fig",
+  "name": "The 19th Asian Games Hangzhou 2022",
+  "start": "2023-09-24",
+  "end": "2023-10-07",
+  "place": "Hangzhou (CHN)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17580",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17595",
+  "source": "fig",
+  "name": "Friendly Match SUI-TUR-ROU-NOR",
+  "start": "2023-09-16",
+  "end": "2023-09-16",
+  "place": "Magglingen (SUI)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17595",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17187",
+  "source": "fig",
+  "name": "FIG World Challenge Cup 2023",
+  "start": "2023-09-16",
+  "end": "2023-09-17",
+  "place": "Paris (FRA)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17187",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17187"
+ },
+ {
+  "id": "fig-17558",
+  "source": "fig",
+  "name": "2023 Senior South American Championships",
+  "start": "2023-09-08",
+  "end": "2023-09-10",
+  "place": "Cali (COL)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17558",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17186",
+  "source": "fig",
+  "name": "FIG World Challenge Cup 2023",
+  "start": "2023-09-08",
+  "end": "2023-09-10",
+  "place": "Szombathely (HUN)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17186",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17186"
+ },
+ {
+  "id": "fig-17185",
+  "source": "fig",
+  "name": "FIG World Challenge Cup 2023",
+  "start": "2023-09-01",
+  "end": "2023-09-03",
+  "place": "Mersin (TUR)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17185",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17185"
+ },
+ {
+  "id": "fig-17387",
+  "source": "fig",
+  "name": "RomGym Trophy 2023",
+  "start": "2023-09-01",
+  "end": "2023-09-03",
+  "place": "Bucharest (ROU)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17387",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17478",
+  "source": "fig",
+  "name": "XXXI Junior Campeonato SudAmericano 2023",
+  "start": "2023-08-26",
+  "end": "2023-09-02",
+  "place": "Rio Negro (ARG)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17478",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17371",
+  "source": "fig",
+  "name": "Pharaoh’s cup 2023",
+  "start": "2023-08-18",
+  "end": "2023-08-20",
+  "place": "Cairo (EGY)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17371",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17192",
+  "source": "fig",
+  "name": "31st Summer FISU World University Games",
+  "start": "2023-07-28",
+  "end": "2023-08-08",
+  "place": "Chengdu (CHN)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17192",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17445",
+  "source": "fig",
+  "name": "European Youth Olympic Festival 2023",
+  "start": "2023-07-23",
+  "end": "2023-07-29",
+  "place": "Maribor (SLO)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17445",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17469",
+  "source": "fig",
+  "name": "XXIV Juegos Centroamericanos y del Caribe 2023",
+  "start": "2023-06-23",
+  "end": "2023-07-08",
+  "place": "San Salvador (ESA)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17469",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17450",
+  "source": "fig",
+  "name": "U18 MAG Team Competition GER-AUT-CZE-POL",
+  "start": "2023-06-17",
+  "end": "2023-06-17",
+  "place": "Halle (GER)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17450",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17404",
+  "source": "fig",
+  "name": "10th Senior Asian Championships",
+  "start": "2023-06-15",
+  "end": "2023-06-18",
+  "place": "Singapore (SGP)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17404",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17403",
+  "source": "fig",
+  "name": "16th Junior Asian Championships",
+  "start": "2023-06-10",
+  "end": "2023-06-12",
+  "place": "Singapore (SGP)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17403",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17184",
+  "source": "fig",
+  "name": "FIG World Challenge Cup 2023",
+  "start": "2023-06-08",
+  "end": "2023-06-11",
+  "place": "Osijek (CRO)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17184",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17184"
+ },
+ {
+  "id": "fig-17183",
+  "source": "fig",
+  "name": "FIG World Challenge Cup 2023",
+  "start": "2023-06-01",
+  "end": "2023-06-04",
+  "place": "Tel-Aviv (ISR)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17183",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17183"
+ },
+ {
+  "id": "fig-17392",
+  "source": "fig",
+  "name": "MAG U18 - FRA/GBR/GER/SUI/ITA",
+  "start": "2023-05-28",
+  "end": "2023-05-28",
+  "place": "Avignon (FRA)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17392",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17253",
+  "source": "fig",
+  "name": "17th Senior African championships",
+  "start": "2023-05-26",
+  "end": "2023-05-27",
+  "place": "Pretoria (RSA)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17253",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17369",
+  "source": "fig",
+  "name": "2023 Senior Pan American Championships",
+  "start": "2023-05-26",
+  "end": "2023-05-29",
+  "place": "Medelliin (COL)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17369",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17369"
+ },
+ {
+  "id": "fig-17182",
+  "source": "fig",
+  "name": "FIG World Challenge Cup 2023",
+  "start": "2023-05-25",
+  "end": "2023-05-28",
+  "place": "Varna (BUL)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17182",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17182"
+ },
+ {
+  "id": "fig-17361",
+  "source": "fig",
+  "name": "South African International Competition",
+  "start": "2023-05-24",
+  "end": "2023-05-27",
+  "place": "Pretoria (RSA)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17361",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17336",
+  "source": "fig",
+  "name": "2023 Senior Oceania Continental Championships",
+  "start": "2023-05-06",
+  "end": "2023-05-06",
+  "place": "Carrara (AUS)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17336",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17336"
+ },
+ {
+  "id": "fig-17368",
+  "source": "fig",
+  "name": "2023 Australian Junior Classic",
+  "start": "2023-05-06",
+  "end": "2023-05-06",
+  "place": "Carrara (AUS)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17368",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17110",
+  "source": "fig",
+  "name": "FIG Apparatus World Cup 2023",
+  "start": "2023-04-27",
+  "end": "2023-04-30",
+  "place": "Cairo (EGY)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17110",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17110"
+ },
+ {
+  "id": "fig-17268",
+  "source": "fig",
+  "name": "10th Senior European Championships",
+  "start": "2023-04-11",
+  "end": "2023-04-16",
+  "place": "Antalya (TUR)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17268",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17242",
+  "source": "fig",
+  "name": "2nd FIG Artistic Gymnastics Junior World Championships",
+  "start": "2023-03-29",
+  "end": "2023-04-02",
+  "place": "Antalya (TUR)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17242",
+  "has_results": true,
+  "level": "junior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17242"
+ },
+ {
+  "id": "fig-17291",
+  "source": "fig",
+  "name": "EnBW DTB Pokal Mixed Cup 2023",
+  "start": "2023-03-19",
+  "end": "2023-03-19",
+  "place": "Stuttgart (GER)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17291",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17401",
+  "source": "fig",
+  "name": "2º Bilateral POR/ESP",
+  "start": "2023-03-18",
+  "end": "2023-03-18",
+  "place": "Anadia (POR)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17401",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17292",
+  "source": "fig",
+  "name": "EnBW DTB Pokal Team Challenge 2023",
+  "start": "2023-03-17",
+  "end": "2023-03-19",
+  "place": "Stuttgart (GER)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17292",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "fig-17109",
+  "source": "fig",
+  "name": "FIG Apparatus World Cup 2023",
+  "start": "2023-03-09",
+  "end": "2023-03-12",
+  "place": "Baku (AZE)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17109",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17109"
+ },
+ {
+  "id": "fig-17108",
+  "source": "fig",
+  "name": "FIG Apparatus World Cup 2023",
+  "start": "2023-03-01",
+  "end": "2023-03-04",
+  "place": "Doha (QAT)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17108",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17108"
+ },
+ {
+  "id": "fig-17107",
+  "source": "fig",
+  "name": "FIG Apparatus World Cup 2023",
+  "start": "2023-02-23",
+  "end": "2023-02-26",
+  "place": "Cottbus (GER)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17107",
+  "has_results": true,
+  "level": "senior",
+  "files": [],
+  "fetched": true,
+  "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17107"
+ },
+ {
+  "id": "fig-17317",
+  "source": "fig",
+  "name": "Luxembourg Open 2023",
+  "start": "2023-02-17",
+  "end": "2023-02-19",
+  "place": "Luxembourg (LUX)",
+  "url": "https://www.gymnastics.sport/site/events/detail.php?id=17317",
+  "has_results": false,
+  "level": "senior",
+  "files": []
+ },
+ {
+  "id": "jga-event-6140",
+  "source": "jga",
+  "name": "第80回全日本体操個人総合選手権 男子トライアウト",
+  "start": null,
+  "end": null,
+  "place": "",
+  "url": "https://jpn-gym.or.jp/event/event-6140/",
+  "level": "senior",
+  "files": [],
+  "has_results": false,
+  "settled": false
+ },
+ {
+  "id": "jr-jr-gym-all-2024",
+  "source": "jr",
+  "name": "2024全日本ジュニア体操競技選手権大会",
+  "start": null,
+  "end": null,
+  "place": "",
+  "url": "https://www.jr-gym.or.jp/tournament/jr-gym-all-2024/",
+  "level": "junior",
+  "files": [
+   {
+    "label": "東西ABCクラス決勝大会 個人総合",
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-a-men-kojin.pdf"
+   },
+   {
+    "label": "東西ABCクラス決勝大会 種目別",
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-a-men-syumoku.pdf"
+   },
+   {
+    "label": "東西ABCクラス決勝大会 個人総合",
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-b-men-kojin.pdf"
+   },
+   {
+    "label": "東西ABCクラス決勝大会 種目別",
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-b-men-syumoku.pdf"
+   },
+   {
+    "label": "選手権2部 団体総合",
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-2bu-men-dantai.pdf"
+   },
+   {
+    "label": "選手権2部 個人総合",
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-2bu-men-kojin.pdf"
+   },
+   {
+    "label": "選手権2部 種目別",
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-2bu-men-syumoku.pdf"
+   },
+   {
+    "label": "選手権1部 団体総合",
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-1bu-men-dantai.pdf"
+   },
+   {
+    "label": "選手権1部 個人総合",
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-1bu-men-kojin.pdf"
+   },
+   {
+    "label": "選手権1部 種目別",
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/all-1bu-men-syumoku.pdf"
+   }
+  ],
+  "has_results": true
+ },
+ {
+  "id": "jr-jr-gym-all-2025",
+  "source": "jr",
+  "name": "2025全日本ジュニア体操競技選手権大会",
+  "start": null,
+  "end": null,
+  "place": "",
+  "url": "https://www.jr-gym.or.jp/tournament/jr-gym-all-2025/",
+  "level": "junior",
+  "files": [
+   {
+    "label": "Bクラス 個人総合",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/09/139e14c076d33847ec49717aa8f5bab4.pdf"
+   },
+   {
+    "label": "Bクラス 種目別",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/08/f6191eeb7bed9d5a52b0a947faa0cd22.pdf"
+   },
+   {
+    "label": "Aクラス 個人総合",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/09/6c95b00f737195048febf7bcfc42f503.pdf"
+   },
+   {
+    "label": "Aクラス 種目別",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/08/e1c0cc6368013c2b13a66c1ac2e7f8e6.pdf"
+   },
+   {
+    "label": "選手権2部 団体総合",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/08/2bfdddfb85a3209eef8cdbdf8d6bccc4-1.pdf"
+   },
+   {
+    "label": "選手権2部 個人総合",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/09/ce42490a9066a709ac435817a1b758e0.pdf"
+   },
+   {
+    "label": "選手権2部 種目別",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/08/710338c43f408414aa231b19ce66b049.pdf"
+   },
+   {
+    "label": "選手権1部 団体総合",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/08/e700149e29a2e725ee2e01ee486b66b5.pdf"
+   },
+   {
+    "label": "選手権1部 個人総合",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/09/489df9ed2bacf89acfbc9356c215d43c.pdf"
+   },
+   {
+    "label": "選手権1部 種目別",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/08/c4e20f9007e9ba58b5992136b7aab269-1.pdf"
+   }
+  ],
+  "has_results": true
+ },
+ {
+  "id": "jr-jr-gym-all-2026",
+  "source": "jr",
+  "name": "2026全日本ジュニア体操競技選手権大会",
+  "start": null,
+  "end": null,
+  "place": "",
+  "url": "https://www.jr-gym.or.jp/tournament/jr-gym-all-2026/",
+  "level": "junior",
+  "files": [
+   {
+    "label": "Bクラス 個人総合",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/cddf6dbe5123cf0b037f5ef0a680f3ee.pdf"
+   },
+   {
+    "label": "Bクラス 種目別",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/e7698ee30631341dbe7d29248fea91a1.pdf"
+   },
+   {
+    "label": "Aクラス 個人総合",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/c8beff1ad5a465cf248f9acb680bc03d.pdf"
+   },
+   {
+    "label": "Aクラス 種目別",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/db0ccfaff9fc050df009b487ee0d90e1.pdf"
+   },
+   {
+    "label": "選手権2部 団体総合",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/9423e41923b7433627bbdf5abd377067.pdf"
+   },
+   {
+    "label": "選手権2部 個人総合",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/23dc283d1f9e5e9353b982670e007191.pdf"
+   },
+   {
+    "label": "選手権2部 種目別",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/40405fb5071ccba35dd23a17e4e3a109-1.pdf"
+   },
+   {
+    "label": "選手権1部 団体総合",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/9423e41923b7433627bbdf5abd377067-1.pdf"
+   },
+   {
+    "label": "選手権1部 個人総合",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/db5377e44634a109d2965aee12384762.pdf"
+   },
+   {
+    "label": "選手権1部 種目別",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/08/d2916f05347675b8805753092995ccad.pdf"
+   }
+  ],
+  "has_results": true
+ },
+ {
+  "id": "jr-jr-gym-east-2024",
+  "source": "jr",
+  "name": "2024東日本ジュニア体操競技選手権大会",
+  "start": null,
+  "end": null,
+  "place": "",
+  "url": "https://www.jr-gym.or.jp/tournament/jr-gym-east-2024/",
+  "level": "junior",
+  "files": [
+   {
+    "label": "東日本Aクラス 個人総合",
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/east-am-kojin.pdf"
+   },
+   {
+    "label": "東日本Aクラス 種目別",
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/east-am-syumoku.pdf"
+   },
+   {
+    "label": "東日本Bクラス 個人総合",
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/east-bm-kojin.pdf"
+   },
+   {
+    "label": "東日本Bクラス 種目別",
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/east-bm-syumoku.pdf"
+   }
+  ],
+  "has_results": true
+ },
+ {
+  "id": "jr-jr-gym-east-2025",
+  "source": "jr",
+  "name": "2025東日本ジュニア体操競技選手権大会",
+  "start": null,
+  "end": null,
+  "place": "",
+  "url": "https://www.jr-gym.or.jp/tournament/jr-gym-east-2025/",
+  "level": "junior",
+  "files": [
+   {
+    "label": "Aクラス 個人総合",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/09/06579286882d13f857a8ff1e2d391ec0.pdf"
+   },
+   {
+    "label": "Aクラス 種目別",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/07/9f8b03dda0a6b6aec9e631294f2692b8.pdf"
+   },
+   {
+    "label": "Bクラス 個人総合",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/09/0fe83a51b20a448dabcb5360992496de.pdf"
+   },
+   {
+    "label": "Bクラス 種目別",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/07/3474ece9854554911c0a066cb74cc006.pdf"
+   }
+  ],
+  "has_results": true
+ },
+ {
+  "id": "jr-jr-gym-east-2026",
+  "source": "jr",
+  "name": "2026東日本ジュニア体操競技選手権大会",
+  "start": null,
+  "end": null,
+  "place": "",
+  "url": "https://www.jr-gym.or.jp/tournament/jr-gym-east-2026/",
+  "level": "junior",
+  "files": [
+   {
+    "label": "Aクラス 個人総合",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/66feed640cf4e88afe82714dd39cf03a.pdf"
+   },
+   {
+    "label": "Aクラス 種目別",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/e711bae1088c2b3a95e2d5ee282024df.pdf"
+   },
+   {
+    "label": "Aクラス 予選通過者",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/b176d6b45165bd0d9384eb818e190255.pdf"
+   },
+   {
+    "label": "Bクラス 個人総合",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/b882ace9de2c76a306f7e3e3e298075b.pdf"
+   },
+   {
+    "label": "Bクラス 種目別",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/9a8ffae40e2ea4ac14069ba3d4f7ea59.pdf"
+   },
+   {
+    "label": "Bクラス 予選通過者",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/8216df18c76e8635a6a3d5e6334aea44.pdf"
+   }
+  ],
+  "has_results": true
+ },
+ {
+  "id": "jr-jr-gym-west-2024",
+  "source": "jr",
+  "name": "2024西日本ジュニア体操競技選手権大会",
+  "start": null,
+  "end": null,
+  "place": "",
+  "url": "https://www.jr-gym.or.jp/tournament/jr-gym-west-2024/",
+  "level": "junior",
+  "files": [
+   {
+    "label": "Aクラス 個人総合",
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/west-a-men-kojin.pdf"
+   },
+   {
+    "label": "Aクラス 種目別",
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/west-a-men-syumoku.pdf"
+   },
+   {
+    "label": "Bクラス 個人総合",
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/west-b-men-kojin.pdf"
+   },
+   {
+    "label": "Bクラス 種目別",
+    "url": "http://www.jr-gym.or.jp/wp/wp-content/uploads/2025/06/west-b-men-syumoku.pdf"
+   }
+  ],
+  "has_results": true
+ },
+ {
+  "id": "jr-jr-gym-west-2025",
+  "source": "jr",
+  "name": "2025西日本ジュニア体操競技選手権大会",
+  "start": null,
+  "end": null,
+  "place": "",
+  "url": "https://www.jr-gym.or.jp/tournament/jr-gym-west-2025/",
+  "level": "junior",
+  "files": [
+   {
+    "label": "Aクラス 個人総合",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/09/06579286882d13f857a8ff1e2d391ec0-1.pdf"
+   },
+   {
+    "label": "Aクラス 種目別",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/07/711c38488ba8b6e7ec318b48868518be.pdf"
+   },
+   {
+    "label": "Bクラス 個人総合",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/07/f6d9cedc9521b4de30eb717e01887f0b.pdf"
+   },
+   {
+    "label": "Bクラス 種目別",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2025/07/ea2a07928fbea8dda9091186bb01f1d7.pdf"
+   }
+  ],
+  "has_results": true
+ },
+ {
+  "id": "jr-jr-gym-west-2026",
+  "source": "jr",
+  "name": "2026西日本ジュニア体操競技選手権大会",
+  "start": null,
+  "end": null,
+  "place": "",
+  "url": "https://www.jr-gym.or.jp/tournament/jr-gym-west-2026/",
+  "level": "junior",
+  "files": [
+   {
+    "label": "Aクラス 個人総合",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/521a942ad3ff7ebf163e53f81ce776b6.pdf"
+   },
+   {
+    "label": "Aクラス 種目別",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/c555cac326aa33003e73d4be741d6db3.pdf"
+   },
+   {
+    "label": "Aクラス 予選通過者",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/4d54a60dfd140d92358a334928795b9b.pdf"
+   },
+   {
+    "label": "Bクラス 個人総合",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/13326059064ecca3c00050bdbd1c56f2.pdf"
+   },
+   {
+    "label": "Bクラス 種目別",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/b49ab5080912936d94bdd47eb73a90f2.pdf"
+   },
+   {
+    "label": "Bクラス 予選通過者",
+    "url": "https://www.jr-gym.or.jp/wp/wp-content/uploads/2026/07/a68c523d5b9a5701d2bf79eedd683299.pdf"
+   }
+  ],
+  "has_results": true
+ }
+]

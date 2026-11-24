@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>男子体操競技 大会結果まとめ</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--fg:#1c2330;--mut:#667085;--line:#e3e6eb;--acc:#1d4ed8;--jr:#0f766e;--sr:#9a3412;--hi:#fff4cc}
+@media(prefers-color-scheme:dark){:root{--bg:#10131a;--card:#181d27;--fg:#e8ebf0;--mut:#98a2b3;--line:#2a3140;--acc:#7aa2ff;--jr:#4fd1c5;--sr:#fdba74;--hi:#3a3212}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.6 system-ui,"Hiragino Sans","Noto Sans JP",sans-serif}
+header,main{max-width:980px;margin:0 auto;padding:0 16px}header{padding-top:24px}
+h1{font-size:22px;margin:0 0 4px}.sub{color:var(--mut);font-size:13px}
+.bar{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0;align-items:center}
+.bar input,.bar select{padding:7px 10px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--fg);font:inherit}
+.bar input{flex:1;min-width:180px}.bar label{font-size:13px;color:var(--mut)}
+.ev{background:var(--card);border:1px solid var(--line);border-radius:10px;margin:8px 0}
+.ev>summary{cursor:pointer;padding:12px 14px;list-style:none;display:grid;grid-template-columns:110px 1fr auto;gap:4px 12px;align-items:baseline}
+.ev>summary::-webkit-details-marker{display:none}
+.date{color:var(--mut);font-size:13px;font-variant-numeric:tabular-nums}.name{font-weight:600}.place{grid-column:2;color:var(--mut);font-size:13px}
+.tags{display:flex;gap:6px;grid-row:1;grid-column:3}
+.tag{font-size:11px;padding:1px 8px;border-radius:99px;border:1px solid currentColor;white-space:nowrap}
+.t-jr{color:var(--jr)}.t-sr{color:var(--sr)}.t-src{color:var(--mut)}
+.body{padding:4px 14px 14px;border-top:1px solid var(--line)}
+.body h3{font-size:14px;margin:14px 0 6px}.body h4{font-size:13px;margin:12px 0 4px;color:var(--mut)}
+table{border-collapse:collapse;width:100%;font-size:14px}th,td{text-align:left;padding:4px 8px;border-bottom:1px solid var(--line)}
+td.n,th.n{text-align:right;font-variant-numeric:tabular-nums}tr.jp td{background:var(--hi)}
+a{color:var(--acc)}ul.files{padding-left:18px;margin:8px 0}.empty,.note{color:var(--mut);font-size:13px}
+.status{font-size:12px;color:var(--mut);margin:24px 0 40px}.warn{color:#b42318}
+@media(max-width:600px){.ev>summary{grid-template-columns:1fr}.place,.tags{grid-column:1;grid-row:auto}}
+</style>
+</head>
+<body>
+<header>
+  <h1>男子体操競技 大会結果まとめ</h1>
+  <div class="sub">FIG / 日本体操協会 / 全日本ジュニア体操クラブ連盟 から自動収集（3日に1回更新）</div>
+  <div class="bar">
+    <input id="q" type="search" placeholder="大会名・開催地で検索">
+    <select id="src"><option value="">全ソース</option><option value="fig">FIG</option><option value="jga">日本体操協会</option><option value="jr">ジュニアクラブ連盟</option></select>
+    <select id="lvl"><option value="">シニア＋ジュニア</option><option value="senior">シニア</option><option value="junior">ジュニア</option></select>
+    <select id="yr"></select>
+    <label><input id="jp" type="checkbox"> FIG: 日本選手のみ</label>
+  </div>
+</header>
+<main>
+  <div id="list"></div>
+  <div class="status" id="status"></div>
+</main>
+<script>
+const SRC={fig:"FIG",jga:"日本体操協会",jr:"ジュニアクラブ連盟"};
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+let events=[];
+const rangeText=e=>!e.start?"日程未定":(e.end&&e.end!==e.start?`${e.start} 〜 ${e.end.slice(5)}`:e.start);
+
+function render(){
+  const q=$("#q").value.trim().toLowerCase(),s=$("#src").value,l=$("#lvl").value,y=$("#yr").value;
+  const rows=events.filter(e=>(!s||e.source===s)&&(!l||e.level===l)&&(!y||(e.start||"").startsWith(y))&&
+    (!q||(e.name+" "+e.place).toLowerCase().includes(q)));
+  $("#list").innerHTML=rows.length?rows.map(card).join(""):'<p class="empty">該当する大会がありません。</p>';
+}
+function card(e){
+  const n=e.source==="fig"?(e.fetched?"結果あり":"結果未掲載"):(e.files.length?`結果 ${e.files.length}件`:"結果未掲載");
+  return `<details class="ev" data-id="${esc(e.id)}"><summary>
+    <span class="date">${esc(rangeText(e))}</span><span class="name">${esc(e.name)}</span>
+    <span class="tags"><span class="tag ${e.level==="junior"?"t-jr":"t-sr"}">${e.level==="junior"?"ジュニア":"シニア"}</span><span class="tag t-src">${SRC[e.source]}</span></span>
+    <span class="place">${esc(e.place)}　· ${n}</span></summary><div class="body"></div></details>`;
+}
+async function fill(d){
+  const e=events.find(x=>x.id===d.dataset.id),b=d.querySelector(".body");
+  if(b.dataset.done)return;b.dataset.done=1;
+  let h=`<p class="note"><a href="${esc(e.url)}" target="_blank" rel="noopener">公式ページ</a>${e.results_url?` ・ <a href="${esc(e.results_url)}" target="_blank" rel="noopener">公式の結果</a>`:""}</p>`;
+  if(e.source==="fig"){
+    if(!e.fetched)h+='<p class="empty">結果はまだ取得できていません。</p>';
+    else{b.innerHTML=h+"読み込み中…";
+      const r=await (await fetch(`data/fig/${e.id.slice(4)}.json`)).json();
+      h+=figTables(r);}
+  }else{
+    h+=e.files.length?`<ul class="files">${e.files.map(f=>`<li><a href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.label||"結果")}</a></li>`).join("")}</ul>
+      <p class="note">※ 結果はPDFで公開されています（リンク先を開きます）。</p>`:'<p class="empty">結果はまだ掲載されていません。</p>';
+  }
+  b.innerHTML=h;
+}
+function figTables(r){
+  const jp=$("#jp").checked;let h="";
+  for(const [age,cats] of Object.entries(r)){
+    h+=`<h3>${esc(age)}</h3>`;
+    for(const [cat,rows] of Object.entries(cats)){
+      const v=rows.filter(x=>!jp||x.country==="JPN");if(!v.length)continue;
+      h+=`<h4>${esc(cat)}</h4><table><tr><th class="n">順位</th><th>選手</th><th>国</th><th class="n">得点</th><th class="n">予選順位</th><th class="n">予選得点</th></tr>`+
+        v.map(x=>`<tr class="${x.country==="JPN"?"jp":""}"><td class="n">${x.rank??"-"}</td><td>${esc(x.name)}</td><td>${esc(x.country)}</td><td class="n">${x.score??"-"}</td><td class="n">${x.q_rank??"-"}</td><td class="n">${x.q_score??"-"}</td></tr>`).join("")+"</table>";
+    }
+  }
+  return h||'<p class="empty">表示できる結果がありません。</p>';
+}
+$("#list").addEventListener("toggle",ev=>{if(ev.target.open)fill(ev.target)},true);
+for(const id of ["q","src","lvl","yr"])$("#"+id).addEventListener("input",render);
+$("#jp").addEventListener("change",()=>{document.querySelectorAll(".body").forEach(b=>delete b.dataset.done);document.querySelectorAll("details[open]").forEach(fill)});
+(async()=>{
+  try{
+    events=await (await fetch("data/events.json")).json();
+    const years=[...new Set(events.map(e=>(e.start||"").slice(0,4)).filter(Boolean))].sort().reverse();
+    $("#yr").innerHTML='<option value="">全年度</option>'+years.map(y=>`<option>${y}</option>`).join("");
+    render();
+    const m=await (await fetch("data/meta.json")).json();
+    const bad=Object.entries(m.sources||{}).filter(([,v])=>!v.ok).map(([k])=>SRC[k]);
+    $("#status").innerHTML=`最終更新: ${new Date(m.updated).toLocaleString("ja-JP")}`+(bad.length?` <span class="warn">／ 取得失敗: ${bad.join("、")}（前回データを表示中）</span>`:"");
+  }catch(err){$("#list").innerHTML='<p class="empty">データを読み込めませんでした。</p>'}
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,602 @@
+{
+ "Junior": {
+  "All-Around": [
+   {
+    "rank": 1,
+    "name": "GODOY Domenick",
+    "country": "ECU",
+    "score": 74.25,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 2,
+    "name": "FERNANDEZ DE LANDA Benjamin Nicolas",
+    "country": "ARG",
+    "score": 72.4,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 3,
+    "name": "MARTINEZ Matias",
+    "country": "CHI",
+    "score": 72.05,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 4,
+    "name": "CAPELLA Tiago",
+    "country": "BRA",
+    "score": 71.85,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 5,
+    "name": "FERNANDES Matheus",
+    "country": "BRA",
+    "score": 70.9,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 6,
+    "name": "RAMOS Matias",
+    "country": "COL",
+    "score": 69.75,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 7,
+    "name": "PASSOS Rafael",
+    "country": "BRA",
+    "score": 69.35,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 8,
+    "name": "SALCEDO Maximiliano",
+    "country": "COL",
+    "score": 68.9,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 9,
+    "name": "MIRANDA RAIMUNDO PEREIRA Jose Luis",
+    "country": "BRA",
+    "score": 68.65,
+    "q_rank": null,
+    "q_score": null
+   },
+   {
+    "rank": 10,
+    "name": "SILVA Diogo",
+    "country": "BRA",
+    "score": 67.75,
+    "q_rank": null,
+    "q_score": null
+   }
+  ],
+  "Floor Exercise": [
+   {
+    "rank": 1,
+    "name": "ROSSEL Arturo",
+    "country": "CHI",
+    "score": 13.3,
+    "q_rank": 1,
+    "q_score": 13.5
+   },
+   {
+    "rank": 2,
+    "name": "MARTINEZ Matias",
+    "country": "CHI",
+    "score": 12.9,
+    "q_rank": 3,
+    "q_score": 12.85
+   },
+   {
+    "rank": 3,
+    "name": "FERNANDEZ DE LANDA Benjamin Nicolas",
+    "country": "ARG",
+    "score": 12.6,
+    "q_rank": 4,
+    "q_score": 12.65
+   },
+   {
+    "rank": 4,
+    "name": "RAMOS Matias",
+    "country": "COL",
+    "score": 12.467,
+    "q_rank": 9,
+    "q_score": 12
+   },
+   {
+    "rank": 5,
+    "name": "MANOLI Benicio",
+    "country": "ARG",
+    "score": 12.067,
+    "q_rank": 8,
+    "q_score": 12.05
+   },
+   {
+    "rank": 6,
+    "name": "SALCEDO Maximiliano",
+    "country": "COL",
+    "score": 11.834,
+    "q_rank": 14,
+    "q_score": 11.5
+   },
+   {
+    "rank": 7,
+    "name": "PASSOS Rafael",
+    "country": "BRA",
+    "score": 11.534,
+    "q_rank": 5,
+    "q_score": 12.5
+   },
+   {
+    "rank": 8,
+    "name": "CAPELLA Tiago",
+    "country": "BRA",
+    "score": 9.734,
+    "q_rank": 2,
+    "q_score": 12.85
+   },
+   {
+    "rank": null,
+    "name": "SCHMITTNER Eduar",
+    "country": "CHI",
+    "score": null,
+    "q_rank": 6,
+    "q_score": 12.1
+   },
+   {
+    "rank": null,
+    "name": "FERNANDES Matheus",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 7,
+    "q_score": 12.05
+   },
+   {
+    "rank": null,
+    "name": "GODOY Domenick",
+    "country": "ECU",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 12
+   }
+  ],
+  "Pommel Horse": [
+   {
+    "rank": 1,
+    "name": "MARTINEZ Matias",
+    "country": "CHI",
+    "score": 12.6,
+    "q_rank": 5,
+    "q_score": 11.95
+   },
+   {
+    "rank": 2,
+    "name": "RAMOS Matias",
+    "country": "COL",
+    "score": 12.034,
+    "q_rank": 2,
+    "q_score": 12.3
+   },
+   {
+    "rank": 3,
+    "name": "SALCEDO Maximiliano",
+    "country": "COL",
+    "score": 11.7,
+    "q_rank": 3,
+    "q_score": 12.2
+   },
+   {
+    "rank": 4,
+    "name": "MIRANDA RAIMUNDO PEREIRA Jose Luis",
+    "country": "BRA",
+    "score": 11.5,
+    "q_rank": 6,
+    "q_score": 11.5
+   },
+   {
+    "rank": 5,
+    "name": "MANOLI Benicio",
+    "country": "ARG",
+    "score": 11.234,
+    "q_rank": 9,
+    "q_score": 11.3
+   },
+   {
+    "rank": 6,
+    "name": "GODOY Domenick",
+    "country": "ECU",
+    "score": 10.034,
+    "q_rank": 7,
+    "q_score": 11.4
+   },
+   {
+    "rank": 7,
+    "name": "FERNANDES Matheus",
+    "country": "BRA",
+    "score": 9.767,
+    "q_rank": 1,
+    "q_score": 12.75
+   },
+   {
+    "rank": 8,
+    "name": "PERALTA Josue",
+    "country": "ECU",
+    "score": 9.134,
+    "q_rank": 4,
+    "q_score": 12
+   },
+   {
+    "rank": null,
+    "name": "CAPELLA Tiago",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 8,
+    "q_score": 11.35
+   },
+   {
+    "rank": null,
+    "name": "PASSOS Rafael",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 10.9
+   }
+  ],
+  "Still Rings": [
+   {
+    "rank": 1,
+    "name": "GODOY Domenick",
+    "country": "ECU",
+    "score": 12.2,
+    "q_rank": 1,
+    "q_score": 12
+   },
+   {
+    "rank": 2,
+    "name": "FERNANDES Matheus",
+    "country": "BRA",
+    "score": 11.534,
+    "q_rank": 3,
+    "q_score": 11.6
+   },
+   {
+    "rank": 3,
+    "name": "SILVA Diogo",
+    "country": "BRA",
+    "score": 11.4,
+    "q_rank": 2,
+    "q_score": 11.85
+   },
+   {
+    "rank": 4,
+    "name": "FERNANDEZ DE LANDA Benjamin Nicolas",
+    "country": "ARG",
+    "score": 11.334,
+    "q_rank": 4,
+    "q_score": 11.6
+   },
+   {
+    "rank": 5,
+    "name": "CERNA Esteban",
+    "country": "ECU",
+    "score": 11.1,
+    "q_rank": 7,
+    "q_score": 11.3
+   },
+   {
+    "rank": 6,
+    "name": "CARBAJAL Daniel",
+    "country": "PER",
+    "score": 10.9,
+    "q_rank": 11,
+    "q_score": 10.9
+   },
+   {
+    "rank": 7,
+    "name": "ATENCIO Leonardo",
+    "country": "PER",
+    "score": 10.867,
+    "q_rank": 12,
+    "q_score": 10.867
+   },
+   {
+    "rank": 8,
+    "name": "MANOLI Benicio",
+    "country": "ARG",
+    "score": 10.767,
+    "q_rank": 6,
+    "q_score": 11.4
+   },
+   {
+    "rank": null,
+    "name": "PASSOS Rafael",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 5,
+    "q_score": 11.45
+   },
+   {
+    "rank": null,
+    "name": "CAPELLA Tiago",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 8,
+    "q_score": 11.2
+   },
+   {
+    "rank": null,
+    "name": "AITA Lucas",
+    "country": "ARG",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 11.2
+   },
+   {
+    "rank": null,
+    "name": "MARTINEZ Matias",
+    "country": "CHI",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 11.15
+   }
+  ],
+  "Vault": [
+   {
+    "rank": 1,
+    "name": "ROSSEL Arturo",
+    "country": "CHI",
+    "score": 13.633,
+    "q_rank": 1,
+    "q_score": 13.8
+   },
+   {
+    "rank": 2,
+    "name": "YSAVA BOLIVAR Caleb",
+    "country": "VEN",
+    "score": 13.017,
+    "q_rank": 3,
+    "q_score": 13
+   },
+   {
+    "rank": 3,
+    "name": "CAPELLA Tiago",
+    "country": "BRA",
+    "score": 12.934,
+    "q_rank": 4,
+    "q_score": 13.4
+   },
+   {
+    "rank": 3,
+    "name": "CERNA Esteban",
+    "country": "ECU",
+    "score": 12.934,
+    "q_rank": 6,
+    "q_score": 12.35
+   },
+   {
+    "rank": 5,
+    "name": "PASSOS Rafael",
+    "country": "BRA",
+    "score": 12.917,
+    "q_rank": 8,
+    "q_score": 11.95
+   },
+   {
+    "rank": 6,
+    "name": "FERNANDEZ DE LANDA Benjamin Nicolas",
+    "country": "ARG",
+    "score": 12.7,
+    "q_rank": 2,
+    "q_score": 13.45
+   },
+   {
+    "rank": 7,
+    "name": "GODOY Domenick",
+    "country": "ECU",
+    "score": 12.467,
+    "q_rank": 5,
+    "q_score": 13.45
+   },
+   {
+    "rank": 8,
+    "name": "RAMOS Matias",
+    "country": "COL",
+    "score": 11.767,
+    "q_rank": 7,
+    "q_score": 12.4
+   },
+   {
+    "rank": null,
+    "name": "LOPEZ Martin",
+    "country": "CHI",
+    "score": null,
+    "q_rank": 9,
+    "q_score": 12.1
+   },
+   {
+    "rank": null,
+    "name": "SCHMITTNER Eduar",
+    "country": "CHI",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 12.4
+   }
+  ],
+  "Parallel Bars": [
+   {
+    "rank": 1,
+    "name": "MARTINEZ Matias",
+    "country": "CHI",
+    "score": 12.767,
+    "q_rank": 1,
+    "q_score": 12.85
+   },
+   {
+    "rank": 2,
+    "name": "PASSOS Rafael",
+    "country": "BRA",
+    "score": 12.3,
+    "q_rank": 5,
+    "q_score": 11.9
+   },
+   {
+    "rank": 3,
+    "name": "CAPELLA Tiago",
+    "country": "BRA",
+    "score": 11.934,
+    "q_rank": 7,
+    "q_score": 11.7
+   },
+   {
+    "rank": 4,
+    "name": "SALCEDO Maximiliano",
+    "country": "COL",
+    "score": 11.867,
+    "q_rank": 6,
+    "q_score": 11.85
+   },
+   {
+    "rank": 5,
+    "name": "FERNANDEZ DE LANDA Benjamin Nicolas",
+    "country": "ARG",
+    "score": 11.567,
+    "q_rank": 3,
+    "q_score": 12.25
+   },
+   {
+    "rank": 6,
+    "name": "CERNA Esteban",
+    "country": "ECU",
+    "score": 11.5,
+    "q_rank": 4,
+    "q_score": 11.95
+   },
+   {
+    "rank": 7,
+    "name": "YSAVA BOLIVAR Caleb",
+    "country": "VEN",
+    "score": 11.3,
+    "q_rank": 9,
+    "q_score": 11.55
+   },
+   {
+    "rank": 8,
+    "name": "GODOY Domenick",
+    "country": "ECU",
+    "score": 10.834,
+    "q_rank": 2,
+    "q_score": 12.4
+   },
+   {
+    "rank": null,
+    "name": "SILVA Diogo",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 8,
+    "q_score": 11.55
+   },
+   {
+    "rank": null,
+    "name": "RAMOS Matias",
+    "country": "COL",
+    "score": null,
+    "q_rank": 10,
+    "q_score": 11.45
+   }
+  ],
+  "Horizontal Bar": [
+   {
+    "rank": 1,
+    "name": "GODOY Domenick",
+    "country": "ECU",
+    "score": 12.934,
+    "q_rank": 1,
+    "q_score": 13
+   },
+   {
+    "rank": 2,
+    "name": "PERALTA Josue",
+    "country": "ECU",
+    "score": 11.834,
+    "q_rank": 5,
+    "q_score": 11.45
+   },
+   {
+    "rank": 3,
+    "name": "SALCEDO Maximiliano",
+    "country": "COL",
+    "score": 11.467,
+    "q_rank": 8,
+    "q_score": 11.25
+   },
+   {
+    "rank": 3,
+    "name": "RAMOS Matias",
+    "country": "COL",
+    "score": 11.467,
+    "q_rank": 10,
+    "q_score": 10.7
+   },
+   {
+    "rank": 5,
+    "name": "FERNANDEZ DE LANDA Benjamin Nicolas",
+    "country": "ARG",
+    "score": 11.367,
+    "q_rank": 2,
+    "q_score": 12.1
+   },
+   {
+    "rank": 6,
+    "name": "FERNANDES Matheus",
+    "country": "BRA",
+    "score": 11.2,
+    "q_rank": 3,
+    "q_score": 11.95
+   },
+   {
+    "rank": 6,
+    "name": "MIRANDA RAIMUNDO PEREIRA Jose Luis",
+    "country": "BRA",
+    "score": 11.2,
+    "q_rank": 4,
+    "q_score": 11.8
+   },
+   {
+    "rank": 8,
+    "name": "SCHMITTNER Eduar",
+    "country": "CHI",
+    "score": 9.5,
+    "q_rank": 9,
+    "q_score": 10.75
+   },
+   {
+    "rank": null,
+    "name": "SILVA Diogo",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 6,
+    "q_score": 11.4
+   },
+   {
+    "rank": null,
+    "name": "CAPELLA Tiago",
+    "country": "BRA",
+    "score": null,
+    "q_rank": 7,
+    "q_score": 11.35
+   }
+  ]
+ }
+}
