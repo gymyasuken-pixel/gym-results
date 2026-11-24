@@ -885,16 +885,16 @@
    },
    {
     "rank": null,
-    "name": "KOVTUN Illia",
-    "country": "CRO",
+    "name": "LEYKIN Danila",
+    "country": "USA",
     "score": null,
     "q_rank": 9,
     "q_score": 14
    },
    {
     "rank": null,
-    "name": "LEYKIN Danila",
-    "country": "USA",
+    "name": "KOVTUN Illia",
+    "country": "CRO",
     "score": null,
     "q_rank": 9,
     "q_score": 14
@@ -1181,16 +1181,16 @@
    },
    {
     "rank": null,
-    "name": "GIUBELLINI Matteo",
-    "country": "SUI",
+    "name": "GARCIA Rahi",
+    "country": "GUA",
     "score": null,
     "q_rank": 46,
     "q_score": 13.1
    },
    {
     "rank": null,
-    "name": "GARCIA Rahi",
-    "country": "GUA",
+    "name": "GIUBELLINI Matteo",
+    "country": "SUI",
     "score": null,
     "q_rank": 46,
     "q_score": 13.1
@@ -1429,16 +1429,16 @@
    },
    {
     "rank": null,
-    "name": "NAIDIN Sergei",
-    "country": "RUS",
+    "name": "MAYOL Santiago",
+    "country": "ARG",
     "score": null,
     "q_rank": 77,
     "q_score": 12.7
    },
    {
     "rank": null,
-    "name": "MAYOL Santiago",
-    "country": "ARG",
+    "name": "NAIDIN Sergei",
+    "country": "RUS",
     "score": null,
     "q_rank": 77,
     "q_score": 12.7
@@ -1589,16 +1589,16 @@
    },
    {
     "rank": null,
-    "name": "LOPEZ Jose",
-    "country": "PUR",
+    "name": "ZABALA Yan",
+    "country": "COL",
     "score": null,
     "q_rank": 97,
     "q_score": 12.266
    },
    {
     "rank": null,
-    "name": "ZABALA Yan",
-    "country": "COL",
+    "name": "LOPEZ Jose",
+    "country": "PUR",
     "score": null,
     "q_rank": 97,
     "q_score": 12.266
@@ -2095,16 +2095,16 @@
    },
    {
     "rank": null,
-    "name": "AZIZOV Ilyas",
-    "country": "KAZ",
+    "name": "GIUBELLINI Matteo",
+    "country": "SUI",
     "score": null,
     "q_rank": 18,
     "q_score": 14.066
    },
    {
     "rank": null,
-    "name": "GIUBELLINI Matteo",
-    "country": "SUI",
+    "name": "AZIZOV Ilyas",
+    "country": "KAZ",
     "score": null,
     "q_rank": 18,
     "q_score": 14.066
@@ -2679,16 +2679,16 @@
    },
    {
     "rank": null,
-    "name": "ERKHEMBAYAR Usukhbayar",
-    "country": "MGL",
+    "name": "CARRION CARO Daniel",
+    "country": "ESP",
     "score": null,
     "q_rank": 91,
     "q_score": 12.5
    },
    {
     "rank": null,
-    "name": "CARRION CARO Daniel",
-    "country": "ESP",
+    "name": "ERKHEMBAYAR Usukhbayar",
+    "country": "MGL",
     "score": null,
     "q_rank": 91,
     "q_score": 12.5
@@ -2831,16 +2831,16 @@
    },
    {
     "rank": null,
-    "name": "ZAVORY Szilard",
-    "country": "HUN",
+    "name": "YULO Karl Jahrel Eldrew",
+    "country": "PHI",
     "score": null,
     "q_rank": 110,
     "q_score": 11.933
    },
    {
     "rank": null,
-    "name": "YULO Karl Jahrel Eldrew",
-    "country": "PHI",
+    "name": "ZAVORY Szilard",
+    "country": "HUN",
     "score": null,
     "q_rank": 110,
     "q_score": 11.933
@@ -4949,14 +4949,6 @@
    },
    {
     "rank": null,
-    "name": "NUNEZ Isaac",
-    "country": "MEX",
-    "score": null,
-    "q_rank": 56,
-    "q_score": 13.533
-   },
-   {
-    "rank": null,
     "name": "PATANIN Dmitriy",
     "country": "KAZ",
     "score": null,
@@ -4965,16 +4957,24 @@
    },
    {
     "rank": null,
-    "name": "MOORE Jesse",
-    "country": "AUS",
+    "name": "NUNEZ Isaac",
+    "country": "MEX",
     "score": null,
-    "q_rank": 58,
+    "q_rank": 56,
     "q_score": 13.533
    },
    {
     "rank": null,
     "name": "AFIFY Mohamed",
     "country": "EGY",
+    "score": null,
+    "q_rank": 58,
+    "q_score": 13.533
+   },
+   {
+    "rank": null,
+    "name": "MOORE Jesse",
+    "country": "AUS",
     "score": null,
     "q_rank": 58,
     "q_score": 13.533
@@ -5061,16 +5061,16 @@
    },
    {
     "rank": null,
-    "name": "CARRION CARO Daniel",
-    "country": "ESP",
+    "name": "COGAT Adam",
+    "country": "ALG",
     "score": null,
     "q_rank": 70,
     "q_score": 13.166
    },
    {
     "rank": null,
-    "name": "COGAT Adam",
-    "country": "ALG",
+    "name": "CARRION CARO Daniel",
+    "country": "ESP",
     "score": null,
     "q_rank": 70,
     "q_score": 13.166

@@ -1277,7 +1277,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18554",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23154",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23155",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23607",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-18222",
@@ -1325,7 +1344,29 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18529",
   "has_results": true,
   "level": "junior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21451",
+    "kind": "info"
+   },
+   {
+    "label": "1_directives-es",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21452",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21453",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23305",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18529"
  },
@@ -1339,7 +1380,24 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18566",
   "has_results": true,
   "level": "junior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21574",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21575",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23269",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18566"
  },
@@ -1353,7 +1411,24 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18565",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21572",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21573",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23271",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18565"
  },
@@ -1412,7 +1487,31 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18533",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21454",
+    "kind": "info"
+   },
+   {
+    "label": "1_directives-es",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21455",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21456",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_23308",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-18499",
@@ -1424,7 +1523,31 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18499",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en (update 4 June)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22693",
+    "kind": "info"
+   },
+   {
+    "label": "2_all forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21581",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus list (update 4 June)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22694",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22968",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-18293",
@@ -1436,7 +1559,34 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18293",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19581",
+    "kind": "info"
+   },
+   {
+    "label": "2. Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21686",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22514",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22513",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22629",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18293"
  },
@@ -1450,7 +1600,39 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18291",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21001",
+    "kind": "info"
+   },
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21544",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22234",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22421",
+    "kind": "info"
+   },
+   {
+    "label": "5_Work Plan and Appendices",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22420",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22487",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18291"
  },
@@ -1464,7 +1646,31 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18501",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en (update 5 May)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22316",
+    "kind": "info"
+   },
+   {
+    "label": "2_All forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22317",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22318",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22385",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "jga-event-7762",
@@ -1571,7 +1777,31 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18530",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en (update 4 May)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22255",
+    "kind": "info"
+   },
+   {
+    "label": "2_All forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21325",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21326",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22411",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-18531",
@@ -1583,7 +1813,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18531",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21327",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21328",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22413",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-18226",
@@ -1595,7 +1844,39 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18226",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19583",
+    "kind": "info"
+   },
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19236",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21979",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22284",
+    "kind": "info"
+   },
+   {
+    "label": "5_Work Plan",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22287",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22436",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18226"
  },
@@ -1609,7 +1890,31 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18378",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en (update 17 March)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21765",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20624",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20625",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22913",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-18377",
@@ -1621,7 +1926,29 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18377",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives-en (update 17 March)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21764",
+    "kind": "info"
+   },
+   {
+    "label": "2_All forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20621",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20622",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22903",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18377"
  },
@@ -1635,7 +1962,24 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18562",
   "has_results": true,
   "level": "junior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Technical manual",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22019",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22020",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22686",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18562"
  },
@@ -1714,7 +2058,21 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17938",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20785",
+    "kind": "info"
+   },
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20786",
+    "kind": "info"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17937",
@@ -1726,7 +2084,39 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17937",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21129",
+    "kind": "info"
+   },
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21126",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21751",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21960",
+    "kind": "info"
+   },
+   {
+    "label": "5_Work Plan",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21911",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22099",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17937"
  },
@@ -1740,7 +2130,34 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17939",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20795",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21806",
+    "kind": "info"
+   },
+   {
+    "label": "3_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21881",
+    "kind": "info"
+   },
+   {
+    "label": "4_Work Plan",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21921",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21982",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17939"
  },
@@ -1754,7 +2171,31 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18434",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20955",
+    "kind": "info"
+   },
+   {
+    "label": "2_All forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20956",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20957",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22140",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "jga-event-6913",
@@ -1841,7 +2282,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18390",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20937",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20938",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22747",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-18389",
@@ -1853,7 +2313,21 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18389",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20935",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20936",
+    "kind": "info"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "jga-event-5715",
@@ -1895,7 +2369,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18454",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20994",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20995",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21839",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17936",
@@ -1907,7 +2400,34 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17936",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20502",
+    "kind": "info"
+   },
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21087",
+    "kind": "info"
+   },
+   {
+    "label": "3_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21623",
+    "kind": "info"
+   },
+   {
+    "label": "4_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21545",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21769",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17936"
  },
@@ -1941,7 +2461,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18480",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21015",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21016",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_22300",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "jga-event-5731",
@@ -1973,7 +2512,29 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17935",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20500",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21387",
+    "kind": "info"
+   },
+   {
+    "label": "3_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21535",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21608",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17935"
  },
@@ -2032,7 +2593,29 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17934",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20501",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21178",
+    "kind": "info"
+   },
+   {
+    "label": "3_Nominative Registration_16.02.2026",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21398",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21495",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17934"
  },
@@ -2081,7 +2664,31 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18125",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18208",
+    "kind": "info"
+   },
+   {
+    "label": "2_All forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18209",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18210",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21033",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-18126",
@@ -2093,7 +2700,31 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18126",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18211",
+    "kind": "info"
+   },
+   {
+    "label": "2_All forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18212",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18213",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21031",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-18468",
@@ -2105,7 +2736,31 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18468",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20929",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list_ART",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20930",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list_RG",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20931",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21612",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17840",
@@ -2117,7 +2772,54 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17840",
   "has_results": true,
   "level": "junior",
-  "files": [],
+  "files": [
+   {
+    "label": "01_Directives and Appendices (25.07.2025)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19882",
+    "kind": "info"
+   },
+   {
+    "label": "02_Provisional Registration_20.08.2025",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19992",
+    "kind": "info"
+   },
+   {
+    "label": "03_Definitive Registration_26.08.2025",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20035",
+    "kind": "info"
+   },
+   {
+    "label": "04_Drawing of lots Results and Procedures_01.09.2025",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20097",
+    "kind": "result"
+   },
+   {
+    "label": "05_Work Plan and Appendice 11.10.2025",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20516",
+    "kind": "info"
+   },
+   {
+    "label": "06_Nominative Registration_12.11.2025",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20735",
+    "kind": "info"
+   },
+   {
+    "label": "07_Results Book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20886",
+    "kind": "result"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20893",
+    "kind": "result"
+   },
+   {
+    "label": "公式ライブ結果サイト (外部)",
+    "url": "https://live.gymnastics.sport/event.php?idevent=17840",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17840"
  },
@@ -2131,7 +2833,24 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18420",
   "has_results": true,
   "level": "junior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20455",
+    "kind": "info"
+   },
+   {
+    "label": "2_All forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20456",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21226",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18420"
  },
@@ -2145,7 +2864,24 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18421",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20453",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20454",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_21221",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18421"
  },
@@ -2159,7 +2895,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18238",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20055",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20056",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20944",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17810",
@@ -2171,7 +2926,54 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17810",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "01_Directives and Appendices (17.04.2025)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18769",
+    "kind": "info"
+   },
+   {
+    "label": "02_Provisional Registration_21.07.2025",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19791",
+    "kind": "info"
+   },
+   {
+    "label": "03_Definitive Registration_03.08.2025",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19899",
+    "kind": "info"
+   },
+   {
+    "label": "04_Drawing of lots Results and Procedures_04.08.2025",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19902",
+    "kind": "result"
+   },
+   {
+    "label": "05_Work Plan and Appendiced 02.10.2025",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20445",
+    "kind": "info"
+   },
+   {
+    "label": "06_Nominative Registration_11.10.2025",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20524",
+    "kind": "info"
+   },
+   {
+    "label": "Results Book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20634",
+    "kind": "result"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20649",
+    "kind": "result"
+   },
+   {
+    "label": "公式ライブ結果サイト (外部)",
+    "url": "https://live.gymnastics.sport/event.php?idevent=17810",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17810"
  },
@@ -2185,7 +2987,31 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18370",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20322",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list_ART",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20323",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list_RG",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20324",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20698",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-18352",
@@ -2197,7 +3023,29 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18352",
   "has_results": true,
   "level": "junior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20045",
+    "kind": "info"
+   },
+   {
+    "label": "2_All forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20046",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20047",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20878",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18352"
  },
@@ -2211,7 +3059,34 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17866",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19410",
+    "kind": "info"
+   },
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19411",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19412",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative Registration_23.09.2025",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20299",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20386",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17866"
  },
@@ -2225,7 +3100,29 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18223",
   "has_results": true,
   "level": "junior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_directives-en (update 6 June)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19325",
+    "kind": "info"
+   },
+   {
+    "label": "2_all forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19569",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19570",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20448",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18223"
  },
@@ -2239,7 +3136,34 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17873",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19057",
+    "kind": "info"
+   },
+   {
+    "label": "2_Visa Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19361",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20026",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative Registration_08.09.2025",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20189",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20223",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17873"
  },
@@ -2253,7 +3177,10 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18141",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-18259",
@@ -2265,7 +3192,36 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18259",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19927",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list_ART",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19928",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list_RG",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19929",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list_TRA",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19930",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20106",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-18083",
@@ -2277,7 +3233,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18083",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Technical manual (version 2)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19709",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19438",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20004",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-18095",
@@ -2289,7 +3264,10 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18095",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17746",
@@ -2301,7 +3279,39 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17746",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "01_Regulations for the FISU World University Games_Rhine-Ruhr_2025",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_17964",
+    "kind": "info"
+   },
+   {
+    "label": "02_GRY_Technical Handbook",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19627",
+    "kind": "result"
+   },
+   {
+    "label": "03_GAR_Technical Handbook",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19769",
+    "kind": "result"
+   },
+   {
+    "label": "04_GRY_List of apparatus",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19770",
+    "kind": "info"
+   },
+   {
+    "label": "05_GAR_List of apparatus",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19786",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19909",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17746"
  },
@@ -2315,7 +3325,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18164",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18500",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19606",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_20307",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17844",
@@ -2327,7 +3356,34 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17844",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16642",
+    "kind": "info"
+   },
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18499",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19352",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19354",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19543",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17844"
  },
@@ -2341,7 +3397,29 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18070",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19170",
+    "kind": "info"
+   },
+   {
+    "label": "1_directives-es",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19171",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19172",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19773",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18070"
  },
@@ -2355,7 +3433,24 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17846",
   "has_results": true,
   "level": "junior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18863",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18864",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19518",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17846"
  },
@@ -2369,7 +3464,24 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17845",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18861",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18862",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19513",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17845"
  },
@@ -2383,7 +3495,29 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18097",
   "has_results": true,
   "level": "junior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_17574",
+    "kind": "info"
+   },
+   {
+    "label": "2_All forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_17575",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_17576",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19293",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=18097"
  },
@@ -2397,7 +3531,16 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18129",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19674",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17861",
@@ -2409,7 +3552,29 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17861",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_17186",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_17187",
+    "kind": "info"
+   },
+   {
+    "label": "3_Venue layout",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_17188",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19443",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17861"
  },
@@ -2423,7 +3588,34 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17865",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16716",
+    "kind": "info"
+   },
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18290",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_17734",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19058",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19116",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17865"
  },
@@ -2437,7 +3629,39 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17859",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16676",
+    "kind": "info"
+   },
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18198",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18199",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18987",
+    "kind": "info"
+   },
+   {
+    "label": "5_Work Plan",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19005",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19103",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17859"
  },
@@ -2451,7 +3675,34 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17864",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16834",
+    "kind": "info"
+   },
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18123",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18640",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18797",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18925",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17864"
  },
@@ -2465,7 +3716,31 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18082",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_17209",
+    "kind": "info"
+   },
+   {
+    "label": "2_All forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_17210",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_17211",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_19026",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17843",
@@ -2477,7 +3752,34 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17843",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_17831",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_17832",
+    "kind": "info"
+   },
+   {
+    "label": "3_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18006",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18743",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18783",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17843"
  },
@@ -2491,7 +3793,34 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17867",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16831",
+    "kind": "info"
+   },
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_17787",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_17788",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18672",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18732",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17867"
  },
@@ -2505,7 +3834,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17920",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16728",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16729",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18597",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17919",
@@ -2517,7 +3865,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17919",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16726",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16727",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18601",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17842",
@@ -2529,7 +3896,39 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17842",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16738",
+    "kind": "info"
+   },
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_17203",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18292",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18415",
+    "kind": "info"
+   },
+   {
+    "label": "5_Work Plan",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18401",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18691",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17842"
  },
@@ -2543,7 +3942,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18080",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_17147",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_17148",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18550",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17868",
@@ -2555,7 +3973,34 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17868",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16894",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_17822",
+    "kind": "info"
+   },
+   {
+    "label": "3_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18291",
+    "kind": "info"
+   },
+   {
+    "label": "4_Work Plan",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18238",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18341",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17868"
  },
@@ -2569,7 +4014,34 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17869",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16771",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_17833",
+    "kind": "info"
+   },
+   {
+    "label": "3_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18127",
+    "kind": "info"
+   },
+   {
+    "label": "4_Work Plan",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18134",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18200",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17869"
  },
@@ -2583,7 +4055,31 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17972",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16882",
+    "kind": "info"
+   },
+   {
+    "label": "2_All forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16880",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16881",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_17594",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17836",
@@ -2595,7 +4091,31 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17836",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16275",
+    "kind": "info"
+   },
+   {
+    "label": "2_All forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16276",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16277",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_17582",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17837",
@@ -2607,7 +4127,31 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17837",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16272",
+    "kind": "info"
+   },
+   {
+    "label": "2_All forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16273",
+    "kind": "info"
+   },
+   {
+    "label": "3 apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16274",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_17583",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17918",
@@ -2619,7 +4163,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17918",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16829",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16830",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_17386",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17815",
@@ -2631,7 +4194,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17815",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16513",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16514",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_17027",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17814",
@@ -2643,7 +4225,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17814",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16719",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16720",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_17056",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17658",
@@ -2655,7 +4256,41 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17658",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Bulletin 1",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14985",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list AER",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15850",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list ART",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15849",
+    "kind": "info"
+   },
+   {
+    "label": "3_AER Rules",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16430",
+    "kind": "info"
+   },
+   {
+    "label": "3_ART Rules",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16428",
+    "kind": "info"
+   },
+   {
+    "label": "3_RG Rules",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16429",
+    "kind": "info"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17916",
@@ -2667,7 +4302,24 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17916",
   "has_results": true,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_directives-en (update 4 October)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16800",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16761",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16958",
+    "kind": "result"
+   }
+  ],
+  "v": 2
  },
  {
   "id": "fig-17506",
@@ -2679,7 +4331,34 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17506",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16674",
+    "kind": "info"
+   },
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16591",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16589",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16762",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16833",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17506"
  },
@@ -2693,7 +4372,10 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17788",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17041",
@@ -2705,7 +4387,179 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17041",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "01_GRY_Qualifiers_Nominative",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16504",
+    "kind": "info"
+   },
+   {
+    "label": "02_GAR_List of WAG Qualifiers_Nominative_26.07_2024",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16565",
+    "kind": "info"
+   },
+   {
+    "label": "03_GAR_List of MAG Qualifiers_Nominative_25.07_2024",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16564",
+    "kind": "info"
+   },
+   {
+    "label": "04_GTR_List of Qualifiers_Nominative_10.07.2024",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16503",
+    "kind": "info"
+   },
+   {
+    "label": "05_WAG ITO Selection Criteria",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13055",
+    "kind": "info"
+   },
+   {
+    "label": "06_MAG ITO Selection Criteria",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13056",
+    "kind": "info"
+   },
+   {
+    "label": "07_GTR ITO Selection Criteria",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13059",
+    "kind": "info"
+   },
+   {
+    "label": "08_GRY ITO Selection Criteria",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13597",
+    "kind": "info"
+   },
+   {
+    "label": "09_Guidelines regarding Authorised Identifications Olympic Games Paris 2024",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13831",
+    "kind": "info"
+   },
+   {
+    "label": "10_IOC Anti-Doping Rules applicable to the Games of the XXXIII Olympiad Paris 2024",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16443",
+    "kind": "info"
+   },
+   {
+    "label": "11_Règles antidopage du CIO applicables aux XXXIIIe Jeux de l'Olympiade de Paris 2024",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14357",
+    "kind": "info"
+   },
+   {
+    "label": "12_Apparatus_list_update 24 Jun. 2024",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16425",
+    "kind": "info"
+   },
+   {
+    "label": "13_GTR_Olympic Qualification World Cup Ranking List_Final",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15675",
+    "kind": "result"
+   },
+   {
+    "label": "14_WAG - Olympic Qualification World Cup Ranking List_Final",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15870",
+    "kind": "result"
+   },
+   {
+    "label": "15_MAG - Olympic Qualification World Cup Ranking List_Final",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15871",
+    "kind": "result"
+   },
+   {
+    "label": "16_MAG_WAG_Drawing of Lots Results_25.06.2024",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16420",
+    "kind": "result"
+   },
+   {
+    "label": "17_Competition schedules by session",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16301",
+    "kind": "info"
+   },
+   {
+    "label": "18_Music Information Collection",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16200",
+    "kind": "info"
+   },
+   {
+    "label": "19_GRY_Drawing of lots procedures",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16394",
+    "kind": "info"
+   },
+   {
+    "label": "20_GRY_Drawing of Lots Results",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16393",
+    "kind": "result"
+   },
+   {
+    "label": "21_GTR_Drawing of Lots Results_16.06.2024",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16340",
+    "kind": "result"
+   },
+   {
+    "label": "22_GAR_Training and Competition Schedules_20.06.2024",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16404",
+    "kind": "info"
+   },
+   {
+    "label": "23_GTR_Training and Competition Schedules",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16345",
+    "kind": "info"
+   },
+   {
+    "label": "24_GRY_Training and Competition Schedules",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16431",
+    "kind": "info"
+   },
+   {
+    "label": "25_GAR Team Leader Guide",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16519",
+    "kind": "info"
+   },
+   {
+    "label": "26_GTR Team Leader Guide",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16502",
+    "kind": "info"
+   },
+   {
+    "label": "27_GRY Team Leader Guide",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16582",
+    "kind": "info"
+   },
+   {
+    "label": "28_GAR IF Guide",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16540",
+    "kind": "info"
+   },
+   {
+    "label": "29_GRY IF Guide",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16538",
+    "kind": "info"
+   },
+   {
+    "label": "30_GTR IF Guide",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16562",
+    "kind": "info"
+   },
+   {
+    "label": "31_GTR Competition Cards",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16567",
+    "kind": "info"
+   },
+   {
+    "label": "32_Results Book GRY",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16651",
+    "kind": "result"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16652",
+    "kind": "result"
+   },
+   {
+    "label": "公式ライブ結果サイト (外部)",
+    "url": "https://live.gymnastics.sport/event.php?idevent=17041",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17041"
  },
@@ -2719,7 +4573,31 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17730",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15570",
+    "kind": "info"
+   },
+   {
+    "label": "2_All forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15571",
+    "kind": "info"
+   },
+   {
+    "label": "3 apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15572",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16518",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17804",
@@ -2731,7 +4609,31 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17804",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15876",
+    "kind": "info"
+   },
+   {
+    "label": "2_All forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15877",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15878",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16517",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17722",
@@ -2743,7 +4645,31 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17722",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15293",
+    "kind": "info"
+   },
+   {
+    "label": "2_All forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15294",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15295",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16257",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17504",
@@ -2755,7 +4681,34 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17504",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14981",
+    "kind": "info"
+   },
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14982",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15816",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16167",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16244",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17504"
  },
@@ -2769,7 +4722,21 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17685",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15273",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15274",
+    "kind": "info"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17771",
@@ -2781,7 +4748,21 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17771",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15923",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15924",
+    "kind": "info"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17743",
@@ -2793,7 +4774,29 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17743",
   "has_results": true,
   "level": "junior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15602",
+    "kind": "info"
+   },
+   {
+    "label": "1_directives-es",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15603",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15604",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16468",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17743"
  },
@@ -2807,7 +4810,39 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17503",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14988",
+    "kind": "info"
+   },
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14989",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15039",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16105",
+    "kind": "info"
+   },
+   {
+    "label": "5_Work Plan",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16098",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16178",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17503"
  },
@@ -2821,7 +4856,29 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17742",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15585",
+    "kind": "info"
+   },
+   {
+    "label": "1_directives-es",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15586",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15587",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16535",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17742"
  },
@@ -2835,7 +4892,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17702",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15315",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15316",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16294",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17703",
@@ -2847,7 +4923,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17703",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15317",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15318",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16295",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17667",
@@ -2859,7 +4954,24 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17667",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15960",
+    "kind": "info"
+   },
+   {
+    "label": "2_all forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15532",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15961",
+    "kind": "info"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17667"
  },
@@ -2873,7 +4985,29 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17668",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_directives-es",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15962",
+    "kind": "info"
+   },
+   {
+    "label": "2_all forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15533",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15963",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16228",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17668"
  },
@@ -2887,7 +5021,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17274",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15488",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15489",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16264",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17288",
@@ -2899,7 +5052,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17288",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15254",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15249",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16262",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17642",
@@ -2911,7 +5083,44 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17642",
   "has_results": true,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15066",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list AER",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15064",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list ART",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15061",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list RG",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15062",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list TRA",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15063",
+    "kind": "info"
+   },
+   {
+    "label": "3_form",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15067",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16639",
+    "kind": "result"
+   }
+  ],
+  "v": 2
  },
  {
   "id": "fig-17113",
@@ -2923,7 +5132,39 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17113",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14858",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15381",
+    "kind": "info"
+   },
+   {
+    "label": "3_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15341",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15606",
+    "kind": "info"
+   },
+   {
+    "label": "5_Work Plan",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15813",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15896",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17113"
  },
@@ -2937,7 +5178,31 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17630",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15021",
+    "kind": "info"
+   },
+   {
+    "label": "2_All forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15022",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15023",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_16108",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17717",
@@ -2949,7 +5214,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17717",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15345",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15346",
+    "kind": "info"
+   },
+   {
+    "label": "Results Book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15798",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17750",
@@ -2961,7 +5245,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17750",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15560",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15561",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_17915",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17502",
@@ -2973,7 +5276,34 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17502",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15239",
+    "kind": "info"
+   },
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14918",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15038",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15670",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15756",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17502"
  },
@@ -2987,7 +5317,39 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17501",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15534",
+    "kind": "info"
+   },
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14870",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14869",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15618",
+    "kind": "info"
+   },
+   {
+    "label": "5_Work Plan",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15647",
+    "kind": "info"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15862",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17501"
  },
@@ -3001,7 +5363,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17512",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15185",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15186",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15699",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17596",
@@ -3013,7 +5394,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17596",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15042",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15043",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15661",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17653",
@@ -3025,7 +5425,31 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17653",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15057",
+    "kind": "info"
+   },
+   {
+    "label": "2_All forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15058",
+    "kind": "info"
+   },
+   {
+    "label": "3_apparatus list (update January 8)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15087",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15605",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17597",
@@ -3037,7 +5461,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17597",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15044",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15045",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15660",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17114",
@@ -3049,7 +5492,34 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17114",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14856",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15101",
+    "kind": "info"
+   },
+   {
+    "label": "3_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15486",
+    "kind": "info"
+   },
+   {
+    "label": "4_Work Plan",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15483",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15549",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17114"
  },
@@ -3063,7 +5533,39 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17112",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14855",
+    "kind": "info"
+   },
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14627",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15037",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15356",
+    "kind": "info"
+   },
+   {
+    "label": "5_Work Plan",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15394",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15525",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17112"
  },
@@ -3077,7 +5579,34 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17111",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14854",
+    "kind": "info"
+   },
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14619",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14871",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15319",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15362",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17111"
  },
@@ -3091,7 +5620,31 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17442",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14669",
+    "kind": "info"
+   },
+   {
+    "label": "2_All forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14670",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14671",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15046",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17443",
@@ -3103,7 +5656,36 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17443",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14673",
+    "kind": "info"
+   },
+   {
+    "label": "2_all forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14674",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14672",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15047",
+    "kind": "result"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18267",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17623",
@@ -3115,7 +5697,31 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17623",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14881",
+    "kind": "info"
+   },
+   {
+    "label": "2_All forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14882",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14883",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15601",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17575",
@@ -3127,7 +5733,21 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17575",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14822",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14823",
+    "kind": "info"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17590",
@@ -3139,7 +5759,31 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17590",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14824",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14825",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14987",
+    "kind": "result"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15968",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17574",
@@ -3151,7 +5795,21 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17574",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14585",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14586",
+    "kind": "info"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17607",
@@ -3163,7 +5821,31 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17607",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14745",
+    "kind": "info"
+   },
+   {
+    "label": "2_All forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14746",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14747",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14959",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17398",
@@ -3175,7 +5857,10 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17398",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17468",
@@ -3187,7 +5872,46 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17468",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_ART Handbook-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14657",
+    "kind": "result"
+   },
+   {
+    "label": "1_ART Handbook-es",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14658",
+    "kind": "result"
+   },
+   {
+    "label": "2_RG Handbook-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14659",
+    "kind": "result"
+   },
+   {
+    "label": "2 RG Handbook-es",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14660",
+    "kind": "result"
+   },
+   {
+    "label": "3_TRA Handbook-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14661",
+    "kind": "result"
+   },
+   {
+    "label": "3_TRA Handbook-es",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14662",
+    "kind": "result"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15076",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-16194",
@@ -3199,7 +5923,64 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=16194",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "01_Directives and Appendices",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14032",
+    "kind": "info"
+   },
+   {
+    "label": "02_MAG Qualifiers_27.09.2023",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14713",
+    "kind": "info"
+   },
+   {
+    "label": "03_WAG Qualifiers_24.09.2023",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14687",
+    "kind": "info"
+   },
+   {
+    "label": "04_Definitive registration_03.07.2023",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14351",
+    "kind": "info"
+   },
+   {
+    "label": "05_MAG Gymnasts Drawing of Lots Results 27.09.2023",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14714",
+    "kind": "result"
+   },
+   {
+    "label": "06_WAG Gymnasts Drawing of Lots Results 24.09.2023",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14685",
+    "kind": "result"
+   },
+   {
+    "label": "07_Gymnasts Drawing of Lots Procedures",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14347",
+    "kind": "info"
+   },
+   {
+    "label": "08_Work Plan and Appendices",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14579",
+    "kind": "info"
+   },
+   {
+    "label": "09_Nominative registration_24.09.2023",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14690",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14761",
+    "kind": "result"
+   },
+   {
+    "label": "公式ライブ結果サイト (外部)",
+    "url": "https://live.gymnastics.sport/event.php?idevent=16194",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=16194"
  },
@@ -3213,7 +5994,10 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17471",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17470",
@@ -3225,7 +6009,10 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17470",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17580",
@@ -3237,7 +6024,56 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17580",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_ART_2022_Multi-Sport-Asian Games Handbook",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14597",
+    "kind": "result"
+   },
+   {
+    "label": "2_RG_2022_Multi-Sport-Asian Games Handbook",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14598",
+    "kind": "result"
+   },
+   {
+    "label": "3_TRA_2022_Multi-Sport-Asian Games Handbook",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14599",
+    "kind": "result"
+   },
+   {
+    "label": "4_ART-RG-TRA_2022_Multi-Sport-Asian Games Gymnastics schedule",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14587",
+    "kind": "info"
+   },
+   {
+    "label": "5_ART-RG-TRA_2022_Multi-Sport-Asian Games ART List of Apparatus",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14588",
+    "kind": "info"
+   },
+   {
+    "label": "6_ART-RG-TRA_2022_Multi-Sport-Asian Games TRA List of Apparatus",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14589",
+    "kind": "info"
+   },
+   {
+    "label": "7_Result book ART",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18058",
+    "kind": "result"
+   },
+   {
+    "label": "7_Result book RG",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18059",
+    "kind": "result"
+   },
+   {
+    "label": "7_Result book TRA",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_18060",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17595",
@@ -3249,7 +6085,16 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17595",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14788",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17187",
@@ -3261,7 +6106,34 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17187",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14028",
+    "kind": "info"
+   },
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13995",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14111",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14505",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14649",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17187"
  },
@@ -3275,7 +6147,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17558",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14565",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14566",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14652",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17186",
@@ -3287,7 +6178,29 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17186",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14573",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14572",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14504",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14647",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17186"
  },
@@ -3301,7 +6214,34 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17185",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14176",
+    "kind": "info"
+   },
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13385",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14113",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14503",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14868",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17185"
  },
@@ -3315,7 +6255,31 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17387",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13455",
+    "kind": "info"
+   },
+   {
+    "label": "2_all forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14213",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14214",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14769",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17478",
@@ -3327,7 +6291,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17478",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14548",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14549",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14838",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17371",
@@ -3339,7 +6322,31 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17371",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13312",
+    "kind": "info"
+   },
+   {
+    "label": "2_all forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13479",
+    "kind": "info"
+   },
+   {
+    "label": "3_apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13480",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14547",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17192",
@@ -3351,7 +6358,46 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17192",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "01_GR Technical HandBook",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14453",
+    "kind": "result"
+   },
+   {
+    "label": "02_ART Technical HandBook",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14444",
+    "kind": "result"
+   },
+   {
+    "label": "03_ART_Gymnasts' drawing of lots",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14417",
+    "kind": "info"
+   },
+   {
+    "label": "04_GR_Gymnasts' drawing of lots",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14420",
+    "kind": "info"
+   },
+   {
+    "label": "05_GR_Nominative registrations",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14421",
+    "kind": "info"
+   },
+   {
+    "label": "06_ART List of apparatus",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14445",
+    "kind": "info"
+   },
+   {
+    "label": "07_GR List of apparatus",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14459",
+    "kind": "info"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17445",
@@ -3363,7 +6409,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17445",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14072",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14073",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14596",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17469",
@@ -3375,7 +6440,46 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17469",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en ART",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14243",
+    "kind": "info"
+   },
+   {
+    "label": "1_directives-en RG",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14245",
+    "kind": "info"
+   },
+   {
+    "label": "1_directives-en TRA",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14247",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list ART",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14244",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list RG",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14246",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list TRA",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14248",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14374",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17450",
@@ -3387,7 +6491,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17450",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14019",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14020",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14232",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17404",
@@ -3399,7 +6522,31 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17404",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14104",
+    "kind": "info"
+   },
+   {
+    "label": "2_All forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14105",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14106",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14364",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17403",
@@ -3411,7 +6558,31 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17403",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14101",
+    "kind": "info"
+   },
+   {
+    "label": "2_All forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14102",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14103",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14375",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17184",
@@ -3423,7 +6594,39 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17184",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13538",
+    "kind": "info"
+   },
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_12770",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13917",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13981",
+    "kind": "info"
+   },
+   {
+    "label": "5_Work Plan",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14137",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14576",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17184"
  },
@@ -3437,7 +6640,34 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17183",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13196",
+    "kind": "info"
+   },
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_12768",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13977",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13945",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14180",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17183"
  },
@@ -3451,7 +6681,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17392",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_Directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13689",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13690",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14410",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17253",
@@ -3463,7 +6712,31 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17253",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13320",
+    "kind": "info"
+   },
+   {
+    "label": "2_all forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13321",
+    "kind": "info"
+   },
+   {
+    "label": "3_apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13322",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14162",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17369",
@@ -3475,7 +6748,39 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17369",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13330",
+    "kind": "info"
+   },
+   {
+    "label": "1_directives-es",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13331",
+    "kind": "info"
+   },
+   {
+    "label": "2_all forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13332",
+    "kind": "info"
+   },
+   {
+    "label": "2_all forms-es",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13333",
+    "kind": "info"
+   },
+   {
+    "label": "3_apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13334",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14215",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17369"
  },
@@ -3489,7 +6794,39 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17182",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_12765",
+    "kind": "info"
+   },
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_12766",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13916",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13990",
+    "kind": "info"
+   },
+   {
+    "label": "5_Work Plan",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14043",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14129",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17182"
  },
@@ -3503,7 +6840,10 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17361",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17336",
@@ -3515,7 +6855,24 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17336",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_directives-en (update May 3)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13953",
+    "kind": "info"
+   },
+   {
+    "label": "2_apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13084",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13979",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17336"
  },
@@ -3529,7 +6886,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17368",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_directives-en (update February 28)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13517",
+    "kind": "info"
+   },
+   {
+    "label": "2_apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13308",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_14030",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17110",
@@ -3541,7 +6917,34 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17110",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_12961",
+    "kind": "info"
+   },
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13317",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13259",
+    "kind": "info"
+   },
+   {
+    "label": "4_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13762",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13972",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17110"
  },
@@ -3555,7 +6958,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17268",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13194",
+    "kind": "info"
+   },
+   {
+    "label": "2_apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13195",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13898",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17242",
@@ -3567,7 +6989,44 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17242",
   "has_results": true,
   "level": "junior",
-  "files": [],
+  "files": [
+   {
+    "label": "01_Directives and Appendix",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13165",
+    "kind": "info"
+   },
+   {
+    "label": "02_Definitive Registration (31.01.2023)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13323",
+    "kind": "info"
+   },
+   {
+    "label": "03_Gymnasts Drawing of Lots Results",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13324",
+    "kind": "result"
+   },
+   {
+    "label": "04_Work Plan and Appendices",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13730",
+    "kind": "info"
+   },
+   {
+    "label": "05_Nominative Registration - Gymnasts - 20.03.2023",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13698",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13774",
+    "kind": "result"
+   },
+   {
+    "label": "公式ライブ結果サイト (外部)",
+    "url": "https://live.gymnastics.sport/event.php?idevent=17242",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17242"
  },
@@ -3581,7 +7040,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17291",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_directives (update January 11)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13157",
+    "kind": "info"
+   },
+   {
+    "label": "2_apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_12858",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13715",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17401",
@@ -3593,7 +7071,10 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17401",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17292",
@@ -3605,7 +7086,26 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17292",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_directives (update January 11)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13158",
+    "kind": "info"
+   },
+   {
+    "label": "2_apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_12860",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13716",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-17109",
@@ -3617,7 +7117,39 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17109",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_12990",
+    "kind": "info"
+   },
+   {
+    "label": "2_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13406",
+    "kind": "info"
+   },
+   {
+    "label": "3.1_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13453",
+    "kind": "info"
+   },
+   {
+    "label": "3.2_Nominative Registration Gymnast",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13454",
+    "kind": "info"
+   },
+   {
+    "label": "4_Work Plan & Appendices",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13559",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13600",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17109"
  },
@@ -3631,7 +7163,39 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17108",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_12962",
+    "kind": "info"
+   },
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_12758",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_12761",
+    "kind": "info"
+   },
+   {
+    "label": "4.1_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13451",
+    "kind": "info"
+   },
+   {
+    "label": "4.2_Nominative Registration Gymnasts",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13452",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13594",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17108"
  },
@@ -3645,7 +7209,39 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17107",
   "has_results": true,
   "level": "senior",
-  "files": [],
+  "files": [
+   {
+    "label": "1_Directives",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13135",
+    "kind": "info"
+   },
+   {
+    "label": "2_Forms",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_12763",
+    "kind": "info"
+   },
+   {
+    "label": "3_Apparatus List",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_12764",
+    "kind": "info"
+   },
+   {
+    "label": "4.1_Nominative Registration",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13449",
+    "kind": "info"
+   },
+   {
+    "label": "4.2_Nominative Registration Gymnasts",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13450",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_13593",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
   "fetched": true,
   "results_url": "https://www.gymnastics.sport/site/events/results.php?idEvent=17107"
  },
@@ -3659,7 +7255,36 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=17317",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [
+   {
+    "label": "1_directives-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_12944",
+    "kind": "info"
+   },
+   {
+    "label": "2_all forms-en",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_12945",
+    "kind": "info"
+   },
+   {
+    "label": "3_apparatus list",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_12946",
+    "kind": "info"
+   },
+   {
+    "label": "Results book",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15677",
+    "kind": "result"
+   },
+   {
+    "label": "Results book (Media)",
+    "url": "https://www.gymnastics.sport/asset.php?id=fidb_15966",
+    "kind": "result"
+   }
+  ],
+  "v": 2,
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "jga-event-6140",
