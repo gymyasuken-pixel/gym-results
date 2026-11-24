@@ -35,7 +35,9 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18690",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [],
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-18601",
@@ -47,7 +49,9 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18601",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [],
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "jga-event-0-4",
@@ -111,7 +115,9 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18615",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [],
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-18693",
@@ -165,7 +171,9 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18549",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [],
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "jga-event-7583",
@@ -301,7 +309,9 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18563",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [],
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-18561",
@@ -359,7 +369,9 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18677",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [],
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "jga-event-7575",
@@ -450,7 +462,9 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18236",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [],
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-18235",
@@ -462,7 +476,9 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18235",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [],
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "jga-event-7993",
@@ -514,7 +530,9 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18666",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [],
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-18554",
@@ -538,7 +556,9 @@
   "url": "https://www.gymnastics.sport/site/events/detail.php?id=18222",
   "has_results": false,
   "level": "senior",
-  "files": []
+  "files": [],
+  "fetched": false,
+  "results_url": null
  },
  {
   "id": "fig-18529",
