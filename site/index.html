@@ -25,7 +25,7 @@ h1{font-size:24px;margin:0 0 4px;letter-spacing:.02em}.sub{color:var(--mut);font
 .tags{display:flex;gap:6px;grid-row:1;grid-column:3}
 .tag{font-size:11px;padding:1px 8px;border-radius:99px;border:1px solid currentColor;white-space:nowrap}
 .t-jr{color:var(--jr);background:color-mix(in srgb,var(--jr) 12%,transparent)}.t-sr{color:var(--sr);background:color-mix(in srgb,var(--sr) 12%,transparent)}.t-src{color:var(--c,var(--mut))}
-.dl{white-space:nowrap}.dl a{text-decoration:none;margin-right:4px}.t-ext{color:var(--mut);font-size:10px;padding:0 6px}
+.dl{white-space:nowrap}.dl a.view{font-size:11px;padding:1px 8px;border:1px solid var(--line);border-radius:99px;text-decoration:none;margin-right:6px;color:var(--mut)}.dl a.view:hover{border-color:var(--acc);color:var(--acc)}.t-ext{color:var(--mut);font-size:10px;padding:0 6px}
 .body{padding:4px 14px 14px;border-top:1px solid var(--line)}
 .body h3{font-size:14px;margin:16px 0 8px;padding:5px 10px;border-radius:6px;background:var(--inf);border-left:4px solid var(--mut)}
 .body h3.res{background:var(--sec);color:var(--sec-fg);border-left-color:var(--sec-fg)}
@@ -80,13 +80,14 @@ function card(e){
 }
 const extOf=x=>(x.ext||(x.url.match(/\.(pdf|xlsx?|docx?|zip)(\?|$)/i)||[,""])[1]).toLowerCase();
 const EXT=x=>extOf(x).toUpperCase()||"外部";
-// FIGのPDFはサーバーが「ダウンロード」を強制するため、Googleの閲覧画面経由でブラウザ内表示にする
+// FIGのPDFはサーバーが「ダウンロード」を強制する。主リンクは直接取得、補助として閲覧画面リンクを併記
 const isFigPdf=x=>x.url.includes("gymnastics.sport/asset.php")&&extOf(x)==="pdf";
 const https=u=>u.replace(/^http:\/\//,"https://");
-const viewUrl=x=>isFigPdf(x)?"https://docs.google.com/viewer?url="+encodeURIComponent(x.url):https(x.url);
+const viewUrl=x=>https(x.url);
+const gview=x=>"https://docs.google.com/viewer?url="+encodeURIComponent(x.url);
 function fileList(files,kind,title,cls=""){
   const f=files.filter(x=>x.kind===kind);if(!f.length)return"";
-  return `<h3 class="${cls}">${title}</h3><ul class="files">${f.map(x=>`<li><a href="${esc(viewUrl(x))}" target="_blank" rel="noopener">${esc(x.label||"資料")}</a> <span class="dl">${isFigPdf(x)?`<a href="${esc(x.url)}" title="ダウンロード">⬇</a> `:""}<span class="tag t-ext">${EXT(x)}</span></span></li>`).join("")}</ul>`;
+  return `<h3 class="${cls}">${title}</h3><ul class="files">${f.map(x=>`<li><a href="${esc(viewUrl(x))}" target="_blank" rel="noopener">${esc(x.label||"資料")}</a> <span class="dl">${isFigPdf(x)?`<a class="view" href="${esc(gview(x))}" target="_blank" rel="noopener" title="Google閲覧画面でブラウザ内表示（環境によっては開けない場合があります）">ブラウザで開く</a> `:""}<span class="tag t-ext">${EXT(x)}</span></span></li>`).join("")}</ul>`;
 }
 async function fill(d){
   const e=events.find(x=>x.id===d.dataset.id),b=d.querySelector(".body");
