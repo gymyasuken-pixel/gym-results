@@ -51,18 +51,22 @@ def strip(s):
 DOC_RE = re.compile(r'\.(pdf|xlsx?|docx?|zip)(\?|$)', re.I)
 RESULT_RE = re.compile(r"結果|リザルト|成績|順位|得点|スコア|result|ranking|score|medal|media.?book|book", re.I)
 GENERIC_LABEL = re.compile(r"^(資料を開く|pdf|男子|女子|\d+日目|詳細|こちら|ダウンロード)?$", re.I)
-SCHEMA = 2   # 取得項目を変えたら上げる (既存大会を再取得)
+SCHEMA = 3   # 取得項目を変えたら上げる (既存大会を再取得)
 
 
 def kind_of(label, url=""):
     return "result" if RESULT_RE.search(label) else "info"
 
 
-def add_file(files, seen, label, url, kind=None):
+def add_file(files, seen, label, url, kind=None, ext=None):
+    if url.startswith("http://"):          # 混在コンテンツ回避 (公式サイトはhttps対応)
+        url = "https://" + url[len("http://"):]
     if url in seen:
         return
     seen.add(url)
-    files.append({"label": label, "url": url, "kind": kind or kind_of(label)})
+    m = DOC_RE.search(ext and "." + ext or url)
+    files.append({"label": label, "url": url, "kind": kind or kind_of(label),
+                  "ext": (m.group(1).lower() if m else "")})
 
 
 def load(path, default):
@@ -124,7 +128,7 @@ def fig_files(eid):
         u = urllib.parse.urljoin("https://www.gymnastics.sport/site/events/", u)
         u = u.replace("/site/asset.php", "/asset.php")
         t = (f.get("title") or "").strip().rstrip(":") or f.get("filename", "")
-        add_file(files, seen, t, u)
+        add_file(files, seen, t, u, ext=(f.get("filename") or "").rsplit(".", 1)[-1])
     if d.get("minisiteUrl"):
         add_file(files, seen, "公式ライブ結果サイト (外部)", d["minisiteUrl"], "result")
     return files
@@ -283,6 +287,37 @@ def scrape_jr(events):
     print(f"[jr] {n} tournaments parsed")
 
 
+# ---------------------------------------------------------------- 開催国 (国旗表示用 ISO 3166-1 alpha-2)
+IOC2ISO = dict(AND="AD", ARG="AR", AUS="AU", AUT="AT", AZE="AZ", BEL="BE", BOL="BO", BRA="BR", BRN="BH",
+    BUL="BG", CAN="CA", CHI="CL", CHN="CN", CMR="CM", COL="CO", CRC="CR", CRO="HR", CUB="CU", CYP="CY",
+    CZE="CZ", DEN="DK", DOM="DO", ECU="EC", EGY="EG", ESA="SV", ESP="ES", EST="EE", FIN="FI", FRA="FR",
+    GBR="GB", GEO="GE", GER="DE", GRE="GR", GUA="GT", HKG="HK", HUN="HU", INA="ID", IND="IN", IRI="IR",
+    IRL="IE", ISR="IL", ITA="IT", JOR="JO", JPN="JP", KAZ="KZ", KOR="KR", KSA="SA", LAT="LV", LTU="LT",
+    LUX="LU", MAR="MA", MAS="MY", MEX="MX", MGL="MN", NED="NL", NOR="NO", NZL="NZ", PAN="PA", PAR="PY",
+    PER="PE", PHI="PH", POL="PL", POR="PT", PUR="PR", QAT="QA", ROU="RO", RSA="ZA", SEN="SN", SGP="SG",
+    SLO="SI", SRB="RS", SUI="CH", SVK="SK", SWE="SE", THA="TH", TUN="TN", TUR="TR", UAE="AE", UKR="UA",
+    URU="UY", USA="US", UZB="UZ", VEN="VE", VIE="VN", TPE="TW", EGY_="EG", ALG="DZ", KEN="KE", NGR="NG")
+JA2ISO = {"オーストリア": "AT", "セネガル": "SN", "オランダ": "NL", "中国": "CN", "ドイツ": "DE", "トルコ": "TR",
+    "アメリカ": "US", "アゼルバイジャン": "AZ", "イギリス": "GB", "フランス": "FR", "イタリア": "IT", "スイス": "CH",
+    "ハンガリー": "HU", "クロアチア": "HR", "韓国": "KR", "カタール": "QA", "インドネシア": "ID", "フィリピン": "PH",
+    "ブラジル": "BR", "オーストラリア": "AU", "カナダ": "CA", "スペイン": "ES", "ベルギー": "BE", "チェコ": "CZ",
+    "ルーマニア": "RO", "ブルガリア": "BG", "ウズベキスタン": "UZ", "カザフスタン": "KZ", "イスラエル": "IL",
+    "エジプト": "EG", "タイ": "TH", "シンガポール": "SG", "マレーシア": "MY", "インド": "IN", "ポーランド": "PL",
+    "ポルトガル": "PT", "スロベニア": "SI", "ウクライナ": "UA", "チュニジア": "TN", "モロッコ": "MA",
+    "カタール": "QA", "バーレーン": "BH", "ヨルダン": "JO", "サウジアラビア": "SA", "日本": "JP"}
+
+
+def country_of(e):
+    if e["source"] == "fig":
+        m = re.search(r"\((\w+)\)\s*$", e.get("place") or "")
+        return IOC2ISO.get(m.group(1)) if m else None
+    head = (e.get("place") or "").split("・")[0] if "・" in (e.get("place") or "") else ""
+    for name, iso in JA2ISO.items():
+        if head.startswith(name):
+            return iso
+    return "JP"      # 国名表記が無い = 国内会場
+
+
 # ---------------------------------------------------------------- main
 def main():
     events = {e["id"]: e for e in load(DATA / "events.json", [])}
@@ -295,6 +330,9 @@ def main():
             print(f"[{name}] FAILED: {e!r}", file=sys.stderr)
             status["sources"][name] = {**status["sources"].get(name, {}), "ok": False, "error": repr(e)[:200]}
         save(DATA / "events.json", sorted(events.values(), key=lambda e: e.get("start") or "", reverse=True))
+    for e in events.values():
+        e["country"] = country_of(e)
+    save(DATA / "events.json", sorted(events.values(), key=lambda e: e.get("start") or "", reverse=True))
     status["updated"] = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
     save(DATA / "meta.json", status)
     if not any(s.get("ok") for s in status["sources"].values()):
