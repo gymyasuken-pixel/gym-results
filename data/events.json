@@ -1,5 +1,45 @@
 [
  {
+  "id": "jga-event-11282",
+  "source": "jga",
+  "name": "第26回全国体操小学生大会",
+  "start": "2027-03-26",
+  "end": "2027-03-28",
+  "place": "まるたか観光アリーナ（笠松運動公園体育館）",
+  "url": "#",
+  "level": "junior",
+  "files": [
+   {
+    "label": "第25回全国体操小学生大会男子結果",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/03/2026_AG_zensho_M.pdf",
+    "kind": "result",
+    "ext": "pdf"
+   },
+   {
+    "label": "資料を開く 2026_AG_zensyo_W.pdf",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/03/2026_AG_zensyo_W.pdf",
+    "kind": "info",
+    "ext": "pdf"
+   },
+   {
+    "label": "大会概要(PDFファイル)",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/26th_syougakusei_directeive1224.pdf",
+    "kind": "info",
+    "ext": "pdf"
+   },
+   {
+    "label": "参加申込書",
+    "url": "https://jpn-gym.or.jp/wp-content/uploads/2026/11/26th_syougakusei_SHINNSEISYO_2026.xlsx",
+    "kind": "info",
+    "ext": "xlsx"
+   }
+  ],
+  "has_results": true,
+  "v": 3,
+  "settled": false,
+  "country": "JP"
+ },
+ {
   "id": "jga-event-0-10",
   "source": "jga",
   "name": "第80回全日本体操団体選手権・第80回全日本体操種目別選手権",
@@ -825,7 +865,7 @@
   ],
   "has_results": true,
   "v": 3,
-  "settled": false,
+  "settled": true,
   "country": "JP"
  },
  {
